@@ -3,20 +3,25 @@
 
 	{% include "components/head.njk" %}
 
-	<body>
-
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
+	<body class="text-gray-600 work-sans leading-normal text-base tracking-normal">
+		<section class="bg-white container main-container shadow-xl border border-gray-300 w-full mx-auto mt-8 mb-12 px-16 pb-16 pt-4">
+			
+		<div class="flex flex-wrap pb-1 pt-3 text-xl">
+            <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2">
+                <a href="{{ '/' | url }}">
+					<img src="/static/img/logo.png" style="width: 500px;" alt="logo" class=""/>
+				</a>
+            </div>
 			{% include "components/nav.njk" %}
-		</header>
+        </div>
+        <hr class="my-8"/>
 
-		<main>
-			{{ layoutContent | safe }}
-		</main>
+			<main>
+				{{ layoutContent | safe }}
+			</main>
 
-		{% include "components/footer.njk" %}
+			{% include "components/footer.njk" %}
+		</section>
 
 	</body>
 
