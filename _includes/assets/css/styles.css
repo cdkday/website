@@ -1,5 +1,19 @@
+@font-face {
+    font-family: 'raleway';
+    src: url('/static/font/raleway-v14-latin-300.woff2'),
+         url('/static/font/raleway-v14-latin-300.woff');
+    font-display: swap;
+}
+
+@media (min-width: 1280px) {
+    .text-base {
+        font-size: 1.2rem;
+    }
+}
+
 body {
     background-color: #e4f0ff40;
+    font-family: raleway;
 }
 
 a {
