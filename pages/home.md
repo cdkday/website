@@ -35,14 +35,14 @@ A small group of community members from across the globe thought this was someth
   <li>- migrated to it from another framework</li>
 </ul>
 
-<p class="mt-12">We want you to tell your story so please <a href="https://sessionize.com/cdkday">Submit Your Talk Proposal!</a></p>
+<p class="mt-12">We want you to tell your story so please <a aria-label="Submit Your Talk Proposal" href="https://sessionize.com/cdkday">Submit Your Talk Proposal!</a></p>
 
 <section id="committee" class="mt-8">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-0 py-3">
-          <a class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl " href="#">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
               No Official Sponsors
-          </a>
+          </p>
           <p>
             This is a free event for everyone so we didn't need to raise any funds to throw it but we do have supporting groups
           </p>
@@ -50,34 +50,34 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main class="flex flex-wrap">
       <div class="w-full md:w-1/3 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a href="https://cdkpatterns.com">
+          <a aria-label="go to cdkpatterns.com" href="https://cdkpatterns.com">
               <img class="hover:grow hover:shadow-lg border px-3 py-3" alt="Angular" src="/static/img/cdkp.png">
               <div class="pt-3">
                   <p class="text-gray-600 font-normal">CDK Patterns</p>
                   <p>
-                    <a href="https://cdkpatterns.com">www.cdkpatterns.com</a>
+                    <a aria-label="go to cdkpatterns.com" href="https://cdkpatterns.com">www.cdkpatterns.com</a>
                   </p>
               </div>
           </a>
       </div>
       <div class="w-full md:w-1/3 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a href="https://hashicorp.com">
+          <a aria-label="go to hashicorp.com" href="https://hashicorp.com">
               <img class="hover:grow hover:shadow-lg border py-5 px-3" alt="React" src="/static/img/hashicorp.png">
               <div class="pt-3">
                   <p class="text-gray-600 font-normal">Hashicorp</p>
                   <p>
-                    <a href="https://hashicorp.com">www.hashicorp.com</a>
+                    <a aria-label="go to hashicorp.com" href="https://hashicorp.com">www.hashicorp.com</a>
                   </p>
               </div>
           </a>
       </div>
       <div class="w-full md:w-1/3 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a href="https://aws.amazon.com/">
+          <a aria-label="go to aws website" href="https://aws.amazon.com/">
               <img class="hover:grow hover:shadow-lg border" alt="Express" src="/static/img/aws_wide.png">
               <div class="pt-3">
                   <p class="text-gray-600 font-normal">AWS</p>
                   <p>
-                    <a href="https://aws.amazon.com/">aws.amazon.com</a>
+                    <a aria-label="go to aws website" href="https://aws.amazon.com/">aws.amazon.com</a>
                   </p>
               </div>
           </a>
@@ -88,9 +88,9 @@ A small group of community members from across the globe thought this was someth
 <section id="committee" class="mt-8">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-0 py-3">
-          <a class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl " href="#">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
               The Organising Committee
-          </a>
+          </p>
           <p>
             The group who came together to make this happen are from all across the globe and work for several different companies
           </p>
@@ -98,40 +98,40 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main class="flex flex-wrap">
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="https://twitter.com/nideveloper">
+          <a aria-label="go to NIDeveloper Twitter page" href="https://twitter.com/nideveloper">
               <img class="hover:grow hover:shadow-lg border" alt="Matt Coulter" src="/static/img/matt.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Matt Coulter</p>
                   <span class="text-gray-600 font-normal">
-                    Architect in Liberty IT, AWS Community Builder and creator of <a href="https://cdkpatterns.com">cdkpatterns.com</a>
+                    Architect in Liberty IT, AWS Community Builder and creator of <a aria-label="go to cdkpatterns.com" href="https://cdkpatterns.com">cdkpatterns.com</a>
                   </span>
               </div>
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="https://twitter.com/skorfmann">
+          <a aria-label="go to skorfmann Twitter page" href="https://twitter.com/skorfmann">
               <img class="hover:grow hover:shadow-lg border" alt="Sebastian Korfmann" src="/static/img/sebastian.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Sebastian Korfmann</p>
                   <span class="text-gray-600 font-normal">
-                    Core CDKTF contributor, AWS Community Builder and creator of <a href="https://www.cdkweekly.com">cdkweekly.com</a>
+                    Core CDKTF contributor, AWS Community Builder and creator of <a aria-label="go to cdkweekly.com" href="https://www.cdkweekly.com">cdkweekly.com</a>
                   </span>
               </div>
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="https://twitter.com/mattbonig">
+          <a aria-label="go to mattbonig Twitter page" href="https://twitter.com/mattbonig">
               <img class="hover:grow hover:shadow-lg border" alt="Matt Bonig" src="/static/img/mattb.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Matt Bonig</p>
                   <span class="text-gray-600 font-normal">
-                    AWS Data Hero and creator of the <a href="https://openconstructfoundation.org">Open Construct Foundation</a>
+                    AWS Data Hero and creator of the <a aria-label="go to open construct foundation page" href="https://openconstructfoundation.org">Open Construct Foundation</a>
                   </span>
               </div>
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="https://twitter.com/pahudnet">
+          <a aria-label="go to Pahud Twitter page" href="https://twitter.com/pahudnet">
               <img class="hover:grow hover:shadow-lg border" alt="Pahud Hsieh" src="/static/img/pahud.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Pahud Hsieh</p>
@@ -142,7 +142,7 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="https://twitter.com/build1point0">
+          <a aria-label="go to Mishra Anubhav Twitter page" href="https://twitter.com/build1point0">
               <img class="hover:grow hover:shadow-lg border" alt="Mishra Anubhav" src="/static/img/mishra.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Mishra Anubhav</p>
@@ -153,7 +153,7 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="https://twitter.com/rchrdbyd">
+          <a aria-label="go to Richard Boyd Twitter page" href="https://twitter.com/rchrdbyd">
               <img class="hover:grow hover:shadow-lg border" alt="Richard Boyd" src="/static/img/richard_boyd.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Richard Boyd</p>
@@ -164,7 +164,7 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="https://twitter.com/emeshbi">
+          <a aria-label="go to Elad's Twitter page" href="https://twitter.com/emeshbi">
               <img class="hover:grow hover:shadow-lg border" alt="Elad Ben-Israel" src="/static/img/elad.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Elad Ben-Israel</p>
@@ -175,7 +175,7 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="https://twitter.com/ccfife">
+          <a aria-label="go to Chris Fide's Twitter page" href="https://twitter.com/ccfife">
               <img class="hover:grow hover:shadow-lg border" alt="Chris Fife" src="/static/img/chris.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Chris Fife</p>
@@ -186,7 +186,7 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="https://twitter.com/ASchwam">
+          <a aria-label="go to Aaron Schwam's Twitter page" href="https://twitter.com/ASchwam">
               <img class="hover:grow hover:shadow-lg border" alt="Aaron Schwam" src="/static/img/aaron.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Aaron Schwam</p>
