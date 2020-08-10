@@ -102,9 +102,9 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Matt Coulter" src="/static/img/matt.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Matt Coulter</p>
-                  <p class="text-gray-600 font-normal">
-                    Architect in Liberty IT, AWS Community Builder and creator of cdkpatterns.com
-                  </p>
+                  <span class="text-gray-600 font-normal">
+                    Architect in Liberty IT, AWS Community Builder and creator of <a href="https://cdkpatterns.com">cdkpatterns</a>
+                  </span>
               </div>
           </a>
       </div>
@@ -113,9 +113,9 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Sebastian Korfmann" src="/static/img/sebastian.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Sebastian Korfmann</p>
-                  <p class="text-gray-600 font-normal">
-                    Core CDKTF contributor, AWS Community Builder and creator of www.cdkweekly.com
-                  </p>
+                  <span class="text-gray-600 font-normal">
+                    Core CDKTF contributor, AWS Community Builder and creator of <a href="https://www.cdkweekly.com">cdkweekly</a>
+                  </span>
               </div>
           </a>
       </div>
@@ -146,9 +146,9 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Mishra Anubhav" src="/static/img/mishra.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Mishra Anubhav</p>
-                  <p class="text-gray-600 font-normal">
-                    Technical Advisor to the CTO at HashiCorp. Creator of @runatlantis. Frequent Speaker (http://mishra.dev/talks).
-                  </p>
+                  <span class="text-gray-600 font-normal">
+                    Technical Advisor to the CTO at HashiCorp. Creator of @runatlantis. <a href="http://mishra.dev/">Frequent Speaker</a>
+                  </span>
               </div>
           </a>
       </div>
