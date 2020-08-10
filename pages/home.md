@@ -22,7 +22,7 @@ eleventyNavigation:
   </li>
 </ul>
 
-A small group of community members from across the globe thought this was something worth celebrating so we are going to take one day and showcase the brightest and best of cdk from across the whole product family.
+A small group of community members from across the globe thought this was something worth celebrating so we are going to take one day and showcase the brightest and best of cdk from across the whole product family. Let's talk serverless, kubernetes and multi cloud all in the same day!
 
 <p class="mt-6 mb-6">During the day we plan to mix introduction talks with hands on builders sessions so that everyone can leave having learned something new.</p>
 
