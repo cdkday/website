@@ -36,3 +36,165 @@ A small group of community members from across the globe thought this was someth
 </ul>
 
 <p class="mt-12">We want you to tell your story so please <a href="https://sessionize.com/cdkday">Submit Your Talk Proposal!</a></p>
+
+<section id="committee" class="mt-8">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="mt-0 py-3">
+          <a class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl " href="#">
+              No Official Sponsors
+          </a>
+          <p>
+            This is a free event for everyone so we didn't need to raise any funds to throw it but we do have supporting groups
+          </p>
+      </div>
+  </header>
+  <main class="flex flex-wrap">
+      <div class="w-full md:w-1/3 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a href="https://cdkpatterns.com">
+              <img class="hover:grow hover:shadow-lg border px-3 py-3" alt="Angular" src="/static/img/cdkp.png">
+              <div class="pt-3">
+                  <p class="text-gray-600 font-normal">CDK Patterns</p>
+                  <p>
+                    <a href="https://cdkpatterns.com">www.cdkpatterns.com</a>
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-full md:w-1/3 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a href="https://hashicorp.com">
+              <img class="hover:grow hover:shadow-lg border py-5 px-3" alt="React" src="/static/img/hashicorp.png">
+              <div class="pt-3">
+                  <p class="text-gray-600 font-normal">Hashicorp</p>
+                  <p>
+                    <a href="https://hashicorp.com">www.hashicorp.com</a>
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-full md:w-1/3 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a href="https://aws.amazon.com/">
+              <img class="hover:grow hover:shadow-lg border" alt="Express" src="/static/img/aws_wide.png">
+              <div class="pt-3">
+                  <p class="text-gray-600 font-normal">AWS</p>
+                  <p>
+                    <a href="https://aws.amazon.com/">aws.amazon.com</a>
+                  </p>
+              </div>
+          </a>
+      </div>
+  </main>
+</section>
+
+<section id="committee" class="mt-8">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="mt-0 py-3">
+          <a class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl " href="#">
+              The Organising Committee
+          </a>
+          <p>
+            The group who came together to make this happen are from all across the globe and work for several different companies
+          </p>
+      </div>
+  </header>
+  <main class="flex flex-wrap">
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a href="/patterns/filter?by=Angular">
+              <img class="hover:grow hover:shadow-lg border" alt="Angular" src="/static/img/matt.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Matt Coulter</p>
+                  <p class="text-gray-600 font-normal">
+                    Architect in Liberty IT, AWS Community Builder and creator of cdkpatterns.com
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a href="/patterns/filter?by=React">
+              <img class="hover:grow hover:shadow-lg border" alt="React" src="/static/img/sebastian.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Sebastian Korfmann</p>
+                  <p class="text-gray-600 font-normal">
+                    Core CDKTF contributor, AWS Community Builder and creator of www.cdkweekly.com
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a href="/patterns/filter?by=Express">
+              <img class="hover:grow hover:shadow-lg border" alt="Express" src="/static/img/mattb.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Matt Bonig</p>
+                  <span class="text-gray-600 font-normal">
+                    AWS Data Hero and creator of the <a href="https://openconstructfoundation.org">Open Construct Foundation</a>
+                  </span>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a href="/patterns/filter?by=Flask">
+              <img class="hover:grow hover:shadow-lg border" alt="Flask" src="/static/img/pahud.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Pahud Hsieh</p>
+                  <p class="text-gray-600 font-normal">
+                    Developer Advocate @AWSCloud in Taiwan. Contributor of many awesome CDK constructs.
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a href="/patterns/filter?by=Flask">
+              <img class="hover:grow hover:shadow-lg border" alt="Flask" src="/static/img/mishra.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Mishra Anubhav</p>
+                  <p class="text-gray-600 font-normal">
+                    Technical Advisor to the CTO at HashiCorp. Creator of @runatlantis. Frequent Speaker (http://mishra.dev/talks).
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a href="/patterns/filter?by=Flask">
+              <img class="hover:grow hover:shadow-lg border" alt="Flask" src="/static/img/richard_boyd.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Richard Boyd</p>
+                  <p class="text-gray-600 font-normal">
+                    Developer Advocate for Dev Tools at AWS.
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a href="/patterns/filter?by=Flask">
+              <img class="hover:grow hover:shadow-lg border" alt="Flask" src="/static/img/elad.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Elad Ben-Israel</p>
+                  <p class="text-gray-600 font-normal">
+                    Core AWS CDK team member
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a href="/patterns/filter?by=Flask">
+              <img class="hover:grow hover:shadow-lg border" alt="Flask" src="/static/img/chris.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Chris Fife</p>
+                  <p class="text-gray-600 font-normal">
+                    Senior Product Manager at AWS on the Developer Tools team that brings you the AWS SDKs, the AWS CLI, and is a humble custodian of the AWS Cloud Development Kit (CDK)
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a href="/patterns/filter?by=Flask">
+              <img class="hover:grow hover:shadow-lg border" alt="Flask" src="/static/img/aaron.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Aaron Schwam</p>
+                  <p class="text-gray-600 font-normal">
+                    AWS DevTools marketing & The Amazon Builders' Library
+                  </p>
+              </div>
+          </a>
+      </div>
+  </main>
+</section>
