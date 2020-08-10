@@ -98,8 +98,8 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main class="flex flex-wrap">
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="/patterns/filter?by=Angular">
-              <img class="hover:grow hover:shadow-lg border" alt="Angular" src="/static/img/matt.jpg">
+          <a href="https://twitter.com/nideveloper">
+              <img class="hover:grow hover:shadow-lg border" alt="Matt Coulter" src="/static/img/matt.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Matt Coulter</p>
                   <p class="text-gray-600 font-normal">
@@ -109,8 +109,8 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="/patterns/filter?by=React">
-              <img class="hover:grow hover:shadow-lg border" alt="React" src="/static/img/sebastian.jpg">
+          <a href="https://twitter.com/skorfmann">
+              <img class="hover:grow hover:shadow-lg border" alt="Sebastian Korfmann" src="/static/img/sebastian.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Sebastian Korfmann</p>
                   <p class="text-gray-600 font-normal">
@@ -120,8 +120,8 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="/patterns/filter?by=Express">
-              <img class="hover:grow hover:shadow-lg border" alt="Express" src="/static/img/mattb.jpg">
+          <a href="https://twitter.com/mattbonig">
+              <img class="hover:grow hover:shadow-lg border" alt="Matt Bonig" src="/static/img/mattb.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Matt Bonig</p>
                   <span class="text-gray-600 font-normal">
@@ -131,8 +131,8 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="/patterns/filter?by=Flask">
-              <img class="hover:grow hover:shadow-lg border" alt="Flask" src="/static/img/pahud.jpg">
+          <a href="https://twitter.com/pahudnet">
+              <img class="hover:grow hover:shadow-lg border" alt="Pahud Hsieh" src="/static/img/pahud.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Pahud Hsieh</p>
                   <p class="text-gray-600 font-normal">
@@ -142,8 +142,8 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="/patterns/filter?by=Flask">
-              <img class="hover:grow hover:shadow-lg border" alt="Flask" src="/static/img/mishra.jpg">
+          <a href="https://twitter.com/build1point0">
+              <img class="hover:grow hover:shadow-lg border" alt="Mishra Anubhav" src="/static/img/mishra.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Mishra Anubhav</p>
                   <p class="text-gray-600 font-normal">
@@ -153,8 +153,8 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="/patterns/filter?by=Flask">
-              <img class="hover:grow hover:shadow-lg border" alt="Flask" src="/static/img/richard_boyd.jpg">
+          <a href="https://twitter.com/rchrdbyd">
+              <img class="hover:grow hover:shadow-lg border" alt="Richard Boyd" src="/static/img/richard_boyd.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Richard Boyd</p>
                   <p class="text-gray-600 font-normal">
@@ -164,8 +164,8 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="/patterns/filter?by=Flask">
-              <img class="hover:grow hover:shadow-lg border" alt="Flask" src="/static/img/elad.jpg">
+          <a href="https://twitter.com/emeshbi">
+              <img class="hover:grow hover:shadow-lg border" alt="Elad Ben-Israel" src="/static/img/elad.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Elad Ben-Israel</p>
                   <p class="text-gray-600 font-normal">
@@ -175,8 +175,8 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="/patterns/filter?by=Flask">
-              <img class="hover:grow hover:shadow-lg border" alt="Flask" src="/static/img/chris.jpg">
+          <a href="https://twitter.com/ccfife">
+              <img class="hover:grow hover:shadow-lg border" alt="Chris Fife" src="/static/img/chris.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Chris Fife</p>
                   <p class="text-gray-600 font-normal">
@@ -186,8 +186,8 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a href="/patterns/filter?by=Flask">
-              <img class="hover:grow hover:shadow-lg border" alt="Flask" src="/static/img/aaron.jpg">
+          <a href="https://twitter.com/ASchwam">
+              <img class="hover:grow hover:shadow-lg border" alt="Aaron Schwam" src="/static/img/aaron.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Aaron Schwam</p>
                   <p class="text-gray-600 font-normal">
