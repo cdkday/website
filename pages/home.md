@@ -103,7 +103,7 @@ A small group of community members from across the globe thought this was someth
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Matt Coulter</p>
                   <span class="text-gray-600 font-normal">
-                    Architect in Liberty IT, AWS Community Builder and creator of <a href="https://cdkpatterns.com">cdkpatterns</a>
+                    Architect in Liberty IT, AWS Community Builder and creator of <a href="https://cdkpatterns.com">cdkpatterns.com</a>
                   </span>
               </div>
           </a>
@@ -114,7 +114,7 @@ A small group of community members from across the globe thought this was someth
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Sebastian Korfmann</p>
                   <span class="text-gray-600 font-normal">
-                    Core CDKTF contributor, AWS Community Builder and creator of <a href="https://www.cdkweekly.com">cdkweekly</a>
+                    Core CDKTF contributor, AWS Community Builder and creator of <a href="https://www.cdkweekly.com">cdkweekly.com</a>
                   </span>
               </div>
           </a>
