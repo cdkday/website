@@ -26,6 +26,11 @@ A small group of community members from across the globe thought this was someth
 
 <p class="mt-6 mb-6">During the day we plan to mix introduction talks with hands on builders sessions so that everyone can leave having learned something new.</p>
 
+<a href="https://www.eventbrite.com/e/cdk-day-tickets-116595156251">Register to attend today!</a>
+
+<h2 class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl mt-12">
+  Call For Papers
+</h2>
 <p class="my-6">If you have:</p>
 
 <ul>
