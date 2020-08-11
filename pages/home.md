@@ -10,21 +10,38 @@ eleventyNavigation:
 
 <h1 class="text-3xl">Over a year has passed since AWS CDK went GA and it has now grown into a family of products: </h1>
 
-<ul class="text-2xl mt-6 mb-12">
-  <li>
-    AWS CDK
-  </li>
-  <li>
-    CDKTF (Terraform)
-  </li>
-  <li>
-    CDK8S (Kubernetes)
-  </li>
-</ul>
+<section id="products" class="mt-8 mb-6">
+  <main class="flex flex-wrap">
+      <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a aria-label="go to cdkpatterns.com" href="https://aws.amazon.com/cdk/">
+              <img class="hover:grow hover:shadow-lg border px-3 py-2" alt="Angular" src="/static/img/cdk_wide.png">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">AWS CDK</p>
+              </div>
+          </a>
+      </div>
+      <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a aria-label="go to hashicorp.com" href="https://github.com/hashicorp/terraform-cdk">
+              <img class="hover:grow hover:shadow-lg border py-2 px-3" alt="React" src="/static/img/terraform.svg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">CDK for Terraform</p>
+              </div>
+          </a>
+      </div>
+      <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a aria-label="go to cdk8s website" href="https://cdk8s.io/">
+              <img class="hover:grow hover:shadow-lg border py-6 px-8" alt="Express" src="/static/img/cdk8s.svg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">CDK8s (Kubernetes)</p>
+              </div>
+          </a>
+      </div>
+  </main>
+</section>
 
 A small group of community members from across the globe thought this was something worth celebrating so we are going to take one day and showcase the brightest and best of cdk from across the whole product family. Let's talk serverless, kubernetes and multi cloud all in the same day!
 
-<p class="mt-6 mb-6">During the day we plan to mix introduction talks with hands on builders sessions so that everyone can leave having learned something new.</p>
+<p class="mt-6 mb-8">During the day we plan to mix introduction talks with hands on builders sessions so that everyone can leave having learned something new.</p>
 
 <a class="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full" href="https://www.eventbrite.com/e/cdk-day-tickets-116595156251">Register to attend today</a>
 
