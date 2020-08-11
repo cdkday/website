@@ -31,7 +31,10 @@ A small group of community members from across the globe thought this was someth
 <h2 class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl mt-12">
   Call For Papers
 </h2>
-<p class="my-6">If you have:</p>
+<p class="mt-6 mb-3">
+  CFP is open from 12th to 26th August 2020
+</p>
+<p class="mb-6">If you have:</p>
 
 <ul>
   <li>- used it in your company to build a cool product</li>
