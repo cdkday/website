@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 0
 ---
 
-<h1 class="text-3xl">Over a year has passed since AWS CDK went GA and it has now grown into a family of products: </h1>
+<h1 class="text-3xl mt-10">Over a year has passed since AWS CDK went GA and it has now grown into a family of products: </h1>
 
 <section id="products" class="mt-8 mb-6">
   <main class="flex flex-wrap">
