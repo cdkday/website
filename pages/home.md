@@ -26,7 +26,7 @@ A small group of community members from across the globe thought this was someth
 
 <p class="mt-6 mb-6">During the day we plan to mix introduction talks with hands on builders sessions so that everyone can leave having learned something new.</p>
 
-<a href="https://www.eventbrite.com/e/cdk-day-tickets-116595156251">Register to attend today!</a>
+<a class="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full" href="https://www.eventbrite.com/e/cdk-day-tickets-116595156251">Register to attend today</a>
 
 <h2 class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl mt-12">
   Call For Papers
@@ -40,7 +40,8 @@ A small group of community members from across the globe thought this was someth
   <li>- migrated to it from another framework</li>
 </ul>
 
-<p class="mt-12">We want you to tell your story so please <a aria-label="Submit Your Talk Proposal" href="https://sessionize.com/cdkday">Submit Your Talk Proposal!</a></p>
+<p class="mt-12 mb-6">We want you to tell your story so please :</p>
+<a class="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full" aria-label="Submit Your Talk Proposal" href="https://sessionize.com/cdkday">Submit Your Talk Proposal</a>
 
 <section id="committee" class="mt-8">
   <header class="w-full z-30 top-0 py-1">
