@@ -168,11 +168,22 @@ A small group of community members from across the globe thought this was someth
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
           <a aria-label="go to Julia Jacobs LinkedIn page" href="https://www.linkedin.com/in/juliajacobs/">
-              <img class="hover:grow hover:shadow-lg border" alt="Julia Jacobs" src="/static/img/julia.jpg">
+              <img class="hover:grow hover:shadow-lg border py-6" alt="Julia Jacobs" src="/static/img/julia.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Julia Jacobs</p>
                   <p class="text-gray-600 font-normal">
                     AWS Community Builder, Married mother of 2 boys Cloud ☁️ Engineer👩‍💻
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a aria-label="go to Thorsten's Twitter page" href="https://twitter.com/hoegertn">
+              <img class="hover:grow hover:shadow-lg border" alt="Thorsten Hoeger" src="/static/img/thorsten.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Thorsten Hoeger</p>
+                  <p class="text-gray-600 font-normal">
+                    Cloud Evangelist, CEO @ Taimos GmbH and AWS Community Hero
                   </p>
               </div>
           </a>
