@@ -222,6 +222,17 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a aria-label="go to Sudeepa's Twitter page" href="https://twitter.com/imsudeepa">
+              <img class="hover:grow hover:shadow-lg border" alt="Sudeepa Prakash" src="/static/img/sudeepa.jpeg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Sudeepa Prakash</p>
+                  <p class="text-gray-600 font-normal">
+                    Sr PMM for AWS developer tools and the Amazon Builders Library. And.. Mom, traveler, baker, and budding kids' photographer.
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
           <a aria-label="go to Aaron Schwam's Twitter page" href="https://twitter.com/ASchwam">
               <img class="hover:grow hover:shadow-lg border" alt="Aaron Schwam" src="/static/img/aaron.jpg">
               <div class="pt-3">
