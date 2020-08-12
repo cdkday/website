@@ -243,5 +243,16 @@ A small group of community members from across the globe thought this was someth
               </div>
           </a>
       </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a aria-label="go to Eric Johnson's Twitter page" href="https://twitter.com/edjgeek">
+              <img class="hover:grow hover:shadow-lg border" alt="Aaron Schwam" src="/static/img/eric.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Eric Johnson</p>
+                  <p class="text-gray-600 font-normal">
+                    Christian, husband, dad of 5, Senior Developer Advocate - Serverless for @AWScloud. Opinions are my own. #Serverless #ServerlessForEveryone. AKA singledigit
+                  </p>
+              </div>
+          </a>
+      </div>
   </main>
 </section>
