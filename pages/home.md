@@ -167,6 +167,17 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a aria-label="go to Julia Jacobs LinkedIn page" href="https://www.linkedin.com/in/juliajacobs/">
+              <img class="hover:grow hover:shadow-lg border" alt="Julia Jacobs" src="/static/img/julia.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Julia Jacobs</p>
+                  <p class="text-gray-600 font-normal">
+                    AWS Community Builder, Married mother of 2 boys Cloud ☁️ Engineer👩‍💻
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
           <a aria-label="go to Pahud Twitter page" href="https://twitter.com/pahudnet">
               <img class="hover:grow hover:shadow-lg border" alt="Pahud Hsieh" src="/static/img/pahud.jpg">
               <div class="pt-3">
