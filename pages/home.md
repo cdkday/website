@@ -124,6 +124,16 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main class="flex flex-wrap">
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a aria-label="go to CDK Day Twitter page" href="https://twitter.com/cdkday">
+              <img class="hover:grow hover:shadow-lg border" alt="CDK Day" src="/static/img/you.png">
+              <div class="pt-3">
+                  <span class="text-gray-600 font-normal">
+                    Do you feel you could bring a unique perspective and diversity of thought to our group? Reach out via CDK Day twitter, DMs are open
+                  </span>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
           <a aria-label="go to NIDeveloper Twitter page" href="https://twitter.com/nideveloper">
               <img class="hover:grow hover:shadow-lg border" alt="Matt Coulter" src="/static/img/matt.jpg">
               <div class="pt-3">
