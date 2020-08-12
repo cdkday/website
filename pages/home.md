@@ -128,7 +128,7 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="CDK Day" src="/static/img/you.png">
               <div class="pt-3">
                   <span class="text-gray-600 font-normal">
-                    Do you feel you could bring a unique perspective and diversity of thought to our group? Reach out via CDK Day twitter, DMs are open
+                    Do you feel you could bring a unique perspective and diversity of thought to our group? Reach out via <a href="https://twitter.com/cdkday">CDK Day twitter</a>, DMs are open
                   </span>
               </div>
           </a>
