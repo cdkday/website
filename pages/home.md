@@ -200,6 +200,17 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a aria-label="go to Marek's Twitter page" href="https://twitter.com/marekq">
+              <img class="hover:grow hover:shadow-lg border" alt="marek kuczyński" src="/static/img/marek.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Marek Kuczyński</p>
+                  <p class="text-gray-600 font-normal">
+                    Serverless Specialist Solutions Architect at AWS 
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
           <a aria-label="go to Mishra Anubhav Twitter page" href="https://twitter.com/build1point0">
               <img class="hover:grow hover:shadow-lg border" alt="Mishra Anubhav" src="/static/img/mishra.jpg">
               <div class="pt-3">
