@@ -282,7 +282,7 @@ A small group of community members from across the globe thought this was someth
               <div class="pt-3">
                   <p class="text-gray-800 font-normal">Eric Johnson</p>
                   <p class="text-gray-600 font-normal">
-                    Christian, husband, dad of 5, Senior Developer Advocate - Serverless for @AWScloud. Opinions are my own. #Serverless #ServerlessForEveryone. AKA singledigit
+                    Christian, husband, dad of 5, Senior Developer Advocate - Serverless for @AWScloud. Opinions are my own. #Serverless #ServerlessForEveryone
                   </p>
               </div>
           </a>
