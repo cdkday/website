@@ -214,7 +214,7 @@ A small group of community members from across the globe thought this was someth
           <a aria-label="go to Mishra Anubhav Twitter page" href="https://twitter.com/build1point0">
               <img class="hover:grow hover:shadow-lg border" alt="Mishra Anubhav" src="/static/img/mishra.jpg">
               <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Mishra Anubhav</p>
+                  <p class="text-gray-800 font-normal">Anubhav Mishra</p>
                   <span class="text-gray-600 font-normal">
                     Technical Advisor to the CTO at HashiCorp. Creator of @runatlantis. <a href="http://mishra.dev/">Frequent Speaker</a>
                   </span>
