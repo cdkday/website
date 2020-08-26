@@ -211,6 +211,17 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a aria-label="go to Philipp Garbe's Twitter page" href="https://twitter.com/pgarbe">
+              <img class="hover:grow hover:shadow-lg border" alt="Philipp Garbe" src="/static/img/p_garbe.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-normal">Philipp Garbe</p>
+                  <span class="text-gray-600 font-normal">
+                    Living in Bavaria | Working in the Cloud | AWS Container Hero
+                  </span>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
           <a aria-label="go to Mishra Anubhav Twitter page" href="https://twitter.com/build1point0">
               <img class="hover:grow hover:shadow-lg border" alt="Mishra Anubhav" src="/static/img/mishra.jpg">
               <div class="pt-3">
