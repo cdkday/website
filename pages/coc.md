@@ -44,6 +44,8 @@ eleventyNavigation:
 </ul>
 <p class="mt-6">
     Unacceptable behavior includes:
+</p>
+<p>
     The use of sexualized language or imagery, or inappropriate physical contact, sexual attention, or advances
     Trolling, insulting or derogatory comments, personal or political attacks, or sustained disruption of talks or other events
     Deliberate intimidation, stalking, following, or harassing photography or recording
