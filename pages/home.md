@@ -67,6 +67,25 @@ A small group of community members from across the globe thought this was someth
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-0 py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
+              Our Code of Conduct
+          </p>
+          <p class="mt-6">
+            The CDK Day Conference is a community event intended to provide learning opportunities for all users of the CDK and related libraries.
+          </p>
+          <p class="mt-6">
+            We value the participation of each and every member and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the event and on related community forums.
+          </p>
+          <p class="mt-6">
+            To make clear what is expected, all attendees, speakers, organizers, and volunteers are required to conform to our <a href="coc">Code of Conduct</a>.
+          </p>
+      </div>
+  </header>
+</section>
+
+<section id="committee" class="mt-8">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="mt-0 py-3">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
               No Official Sponsors
           </p>
           <p>
