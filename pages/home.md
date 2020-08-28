@@ -45,24 +45,6 @@ A small group of community members from across the globe thought this was someth
 
 <a class="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full" href="https://www.eventbrite.com/e/cdk-day-tickets-116595156251">Register to attend today</a>
 
-<h2 class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl mt-12">
-  Call For Papers Is Open!
-</h2>
-<p class="mt-6 mb-3">
-  CFP is open from 12th to 26th August 2020
-</p>
-<p class="mb-6">If you have:</p>
-
-<ul>
-  <li>- used it in your company to build a cool product</li>
-  <li>- built an opensource JSII construct</li>
-  <li>- contributed a feature to cdk core</li>
-  <li>- migrated to it from another framework</li>
-</ul>
-
-<p class="mt-12 mb-6">We want you to tell your story so please :</p>
-<a class="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full" aria-label="Submit Your Talk Proposal" href="https://sessionize.com/cdkday">Submit Your Talk Proposal</a>
-
 <section id="committee" class="mt-8">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-0 py-3">
