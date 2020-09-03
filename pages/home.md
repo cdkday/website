@@ -52,13 +52,40 @@ A small group of community members from across the globe thought this was someth
               Speakers and Agenda
           </p>
           <p class="mt-6">
-            CFP has just closed and we are now working through our process to select the speakers.
-          </p>
-          <p>
-            Check back soon for more details.
+            We have finalised our speakers and will be announcing them in phases over the next while. The agenda will be announced shortly after all the speakers have been announced.
           </p>
       </div>
   </header>
+  <main class="flex flex-wrap">
+      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a aria-label="go to Andreas Heumaier's Twitter page" href="https://twitter.com/aheumaier">
+              <img class="hover:grow hover:shadow-lg border" alt="Andreas Heumaier" src="/static/img/speakers/andreas.png">
+              <div class="pt-3">
+                  <p class="text-gray-800 text-2xl font-normal">Andreas Heumaier</p>
+                  <p class="text-gray-600 font-normal">
+                    Senior Engineering Lead, Microsoft
+                  </p>
+                  <p class="text-gray-800 font-normal mt-3">
+                    Prototyping a CDK for Azure
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a aria-label="go to Mat Jovanovic's Twitter page" href="https://twitter.com/MatJovanovic">
+              <img class="hover:grow hover:shadow-lg border" alt="Mat Jovanovic" src="/static/img/speakers/mat.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 text-2xl font-normal">Mat Jovanovic</p>
+                  <p class="text-gray-600 font-normal">
+                    Cloud Architect and Strategist, CEPSA
+                  </p>
+                  <p class="text-gray-800 font-normal mt-3">
+                    The good, the bad and the ugly of CDK in a big enterprise
+                  </p>
+              </div>
+          </a>
+      </div>
+    </main>
 </section>
 
 <section id="committee" class="mt-3">
