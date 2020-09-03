@@ -72,6 +72,20 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a aria-label="go to Chitranjali Edpuganti's Twitter page" href="https://twitter.com/Chitranjali_E">
+              <img class="hover:grow hover:shadow-lg border" alt="Chitranjali Edpuganti" src="/static/img/speakers/chitranjali_edpuganti.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 text-2xl font-normal">Chitranjali Edpuganti</p>
+                  <p class="text-gray-600 font-normal">
+                    Senior Software Engineer
+                  </p>
+                  <p class="text-gray-800 font-normal mt-3">
+                    AWS Config with CDK
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
           <a aria-label="go to Mat Jovanovic's Twitter page" href="https://twitter.com/MatJovanovic">
               <img class="hover:grow hover:shadow-lg border" alt="Mat Jovanovic" src="/static/img/speakers/mat.jpg">
               <div class="pt-3">
