@@ -133,7 +133,7 @@ A small group of community members from across the globe thought this was someth
               <div class="pt-3">
                   <p class="text-gray-800 text-2xl font-normal">Tatenda Gibson</p>
                   <p class="text-gray-600 font-normal">
-                    #Cloud #ACGCommunityMember #Serverless, #100daysofcloud
+                    Cloud, ACG Community Member, Serverless, #100daysofcloud
                   </p>
                   <p class="text-gray-800 font-normal mt-3">
                     AWS CDK 101
