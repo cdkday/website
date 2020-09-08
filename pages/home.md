@@ -128,6 +128,20 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a aria-label="go to Sebastian Korfmann's Twitter page" href="https://twitter.com/skorfmann">
+              <img class="hover:grow hover:shadow-lg border" alt="Sebastian Korfmann" src="/static/img/sebastian.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 text-2xl font-normal">Sebastian Korfmann</p>
+                  <p class="text-gray-600 font-normal">
+                    Core CDKTF contributor
+                  </p>
+                  <p class="text-gray-800 font-normal mt-3">
+                    Mix and Match CDK Constructs between AWS CDK, CDK8s and CDKTF
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
           <a aria-label="go to Tatenda Gibson's Twitter page" href="https://twitter.com/Taity__m">
               <img class="hover:grow hover:shadow-lg border" alt="Tatenda Gibson" src="/static/img/speakers/tatenda.png">
               <div class="pt-3">
