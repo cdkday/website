@@ -100,6 +100,20 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a aria-label="go to Elad Ben-Israel's Twitter page" href="https://twitter.com/emeshbi">
+              <img style="width:100%" class="hover:grow hover:shadow-lg border" alt="Elad Ben-Israel" src="/static/img/speakers/Elad_Ben_Israel.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 text-2xl font-normal">Elad Ben-Israel</p>
+                  <p class="text-gray-600 font-normal">
+                    Core CDK Team
+                  </p>
+                  <p class="text-gray-800 font-normal mt-3">
+                    projen - a CDK for software project configuration
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
           <a aria-label="go to Luca Bianchi's Twitter page" href="https://twitter.com/bianchiluca">
               <img class="hover:grow hover:shadow-lg border" alt="Luca Bianchi" src="/static/img/speakers/luca.png">
               <div class="pt-3">
