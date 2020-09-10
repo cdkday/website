@@ -119,7 +119,7 @@ A small group of community members from across the globe thought this was someth
               <div class="pt-3">
                   <p class="text-gray-800 text-2xl font-normal">Luca Bianchi</p>
                   <p class="text-gray-600 font-normal">
-                    CTO, Neosperience
+                    AWS Serverless Hero and CTO, Neosperience
                   </p>
                   <p class="text-gray-800 font-normal mt-3">
                     Serverless IoT with Greengrass, Ansible and AWS CDK
