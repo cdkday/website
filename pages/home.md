@@ -72,6 +72,20 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a aria-label="go to Andrew Nguyen's Website" href="https://andyln.com/">
+              <img class="hover:grow hover:shadow-lg border" alt="Andrew Nguyen" src="/static/img/speakers/andrew_nguyen.jpeg">
+              <div class="pt-3">
+                  <p class="text-gray-800 text-2xl font-normal">Andrew Nguyen</p>
+                  <p class="text-gray-600 font-normal">
+                    Software Engineer, Liberty Mutual
+                  </p>
+                  <p class="text-gray-800 font-normal mt-3">
+                    Moving from CloudFormation YAML to CDK - Benefits, How to do it in a production system, and More!
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
           <a aria-label="go to Charles McLaughlin's Twitter page" href="https://twitter.com/mclaughlinct">
               <img class="hover:grow hover:shadow-lg border" alt="Charles McLaughlin" src="/static/img/speakers/charles.jpg">
               <div class="pt-3">
