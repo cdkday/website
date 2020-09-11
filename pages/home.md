@@ -114,6 +114,20 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a aria-label="go to Julia Jacobs's Twitter page" href="linkedin.com/in/juliajacobs">
+              <img class="hover:grow hover:shadow-lg border" alt="Julia Jacobs" src="/static/img/speakers/Julia_Jacobs.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 text-2xl font-normal">Julia Jacobs</p>
+                  <p class="text-gray-600 font-normal">
+                    Senior Cloud Automation Engineer at Acxiom
+                  </p>
+                  <p class="text-gray-800 font-normal mt-3">
+                    AWS CDK and FedRAMP Compliance
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
           <a aria-label="go to Luca Bianchi's Twitter page" href="https://twitter.com/bianchiluca">
               <img class="hover:grow hover:shadow-lg border" alt="Luca Bianchi" src="/static/img/speakers/luca.png">
               <div class="pt-3">
