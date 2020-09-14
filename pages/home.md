@@ -239,6 +239,20 @@ A small group of community members from across the globe thought this was someth
               </div>
           </a>
       </div>
+      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a aria-label="go to Thorsten Höger's Twitter page" href="https://twitter.com/hoegertn">
+              <img class="hover:grow hover:shadow-lg border" alt="Thorsten Höger" src="/static/img/speakers/thorsten.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 text-2xl font-normal">Thorsten Höger</p>
+                  <p class="text-gray-600 font-normal">
+                    AWS Hero and CEO, Cloud Evangelist @ Taimos
+                  </p>
+                  <p class="text-gray-800 font-normal mt-3">
+                    Multi-account and multi-region - Deploy your CDK app to multiple environments
+                  </p>
+              </div>
+          </a>
+      </div>
     </main>
 </section>
 
