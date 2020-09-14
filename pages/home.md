@@ -49,10 +49,10 @@ A small group of community members from across the globe thought this was someth
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-0 py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
-              Speakers and Agenda
+              Speakers
           </p>
           <p class="mt-6">
-            We have finalised our speakers and will be announcing them in phases over the next while. The agenda will be announced shortly after all the speakers have been announced.
+            We are delighted to have a global group of speakers covering topics across AWS CDK, CDK8s and CDK for Terraform.
           </p>
       </div>
   </header>
@@ -254,6 +254,22 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
     </main>
+</section>
+
+<section id="agenda" class="mt-8">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="mt-0 py-3">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
+              Agenda for 30th September 2020
+          </p>
+          <p class="mt-6">
+            We have a combination of Lighting Sessions (up to 10 mins) and Full Sessions (20-25 mins)
+          </p>
+      </div>
+  </header>
+  <main class="flex flex-wrap">
+    <script type="text/javascript" src="https://sessionize.com/api/v2/g1tdskzh/view/GridSmart"></script>
+  </main>
 </section>
 
 <section id="committee" class="mt-3">
