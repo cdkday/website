@@ -198,6 +198,20 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+          <a aria-label="go to Ran Isenberg's Twitter page" href="https://twitter.com/IsenbergRan">
+              <img class="hover:grow hover:shadow-lg border" alt="Ran Isenberg" src="/static/img/speakers/ran.png">
+              <div class="pt-3">
+                  <p class="text-gray-800 text-2xl font-normal">Ran Isenberg</p>
+                  <p class="text-gray-600 font-normal">
+                    Software Architect at CyberArk
+                  </p>
+                  <p class="text-gray-800 font-normal mt-3">
+                    Our SaaS Journey with CDK 
+                  </p>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
           <a aria-label="go to Sebastian Korfmann's Twitter page" href="https://twitter.com/skorfmann">
               <img class="hover:grow hover:shadow-lg border" alt="Sebastian Korfmann" src="/static/img/sebastian.jpg">
               <div class="pt-3">
