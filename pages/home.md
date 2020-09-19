@@ -54,6 +54,9 @@ A small group of community members from across the globe thought this was someth
           <p class="mt-6">
             We are very excited to have an official CDK Day mascot, an Otter so obessed with stacks they only eat food that comes in stack form. Their official name is Stacks but all their friends call them Pancakes (and everyone is their friend).
           </p>
+          <p class="mt-6">
+            Where did Pancakes come from? Well we started with several votes on which animal to choose followed by a vote on the name which came together as the below image with Matthew Dorrian and Clea Allen in this <a href="https://twitter.com/DorrianMatthew/status/1300086835301974016?s=20">tweet</a> 
+          </p>
       </div>
   </header>
   <main class="flex flex-wrap">
