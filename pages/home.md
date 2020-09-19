@@ -45,6 +45,22 @@ A small group of community members from across the globe thought this was someth
 
 <a class="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full" href="https://www.eventbrite.com/e/cdk-day-tickets-116595156251">Register to attend today</a>
 
+<section id="pancakes" class="mt-8">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="mt-0 py-3">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
+              Meet Stacks aka Pancakes
+          </p>
+          <p class="mt-6">
+            We are very excited to have an official CDK Day mascot, an Otter so obessed with stacks they only eat food that comes in stack form. Their official name is Stacks but all their friends call them Pancakes (and everyone is their friend).
+          </p>
+      </div>
+  </header>
+  <main class="flex flex-wrap">
+    <img src="/static/img/Pancakes.png">
+  </main>
+</section>
+
 <section id="speakers" class="mt-8">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-0 py-3">
