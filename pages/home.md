@@ -57,7 +57,7 @@ A small group of community members from across the globe thought this was someth
       </div>
   </header>
   <main class="flex flex-wrap">
-    <img class="sm:w-full md:w-auto" style="height:auto" src="/static/img/Pancakes.png">
+    <img src="/static/img/Pancakes.png">
   </main>
 </section>
 
