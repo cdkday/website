@@ -45,6 +45,35 @@ A small group of community members from across the globe thought this was someth
 
 <a class="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full" href="https://www.eventbrite.com/e/cdk-day-tickets-116595156251">Register to attend today</a>
 
+<section id="viewing" class="mt-8">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="mt-0 py-3">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
+              Where Can I Watch CDK Day?
+          </p>
+      </div>
+  </header>
+  <main>
+    <p>
+        The event will be live streamed to YouTube, Twitter and Twitch which you can access at any of these links:
+    </p>
+    <ul>
+        <li>
+            <a href="https://www.youtube.com/channel/UCo3mAheKM1bS3ToJ90QAkiw">YouTube</a>
+        </li>
+        <li>
+            <a href="https://twitter.com/cdkday">Twitter</a>
+        </li>
+        <li>
+            <a href="https://www.twitch.tv/cdkday">Twitch</a>
+        </li>
+    </ul>
+    <p class="mt-6">
+        For discussions throughout the day we will be using the <a href="https://join.slack.com/t/cdk-dev/shared_invite/zt-gff3dtkw-MsEPa5Id1Aey8HQUDEck1Q">cdk.dev slack space</a>
+    </p>
+  </main>
+</section>
+
 <section id="pancakes" class="mt-8">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-0 py-3">
