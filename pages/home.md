@@ -311,7 +311,7 @@ A small group of community members from across the globe thought this was someth
               Agenda for 30th September 2020
           </p>
           <p class="mt-6">
-            We have a combination of Lighting Sessions (up to 10 mins) and Full Sessions (20-25 mins), click one below to see more details. Note the below plugin attempts to display in your local timezone.
+            We have a combination of Lighting Sessions (up to 10 mins) and Full Sessions (20-25 mins), click one below to see more details. Note the below plugin attempts to display in your local timezone. If you want to see the start time in other timezones you can do it <a href="https://everytimezone.com/?t=5f73ca80,348">here</a>
           </p>
       </div>
   </header>
