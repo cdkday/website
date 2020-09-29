@@ -81,7 +81,7 @@ A small group of community members from across the globe thought this was someth
                 </div>
                 <div class="w-1/3 md:w-1/2 lg:w-1/3 xl:w-1/3 ">
                     <a href="https://www.twitch.tv/cdkday">
-                        <div class="pt-16">
+                        <div class="pt-10 sm:pt-16">
                             <img src="/static/img/twitch.svg" alt="Twitch">
                         </div>
                     </a>
