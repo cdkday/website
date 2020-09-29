@@ -70,7 +70,7 @@ A small group of community members from across the globe thought this was someth
             <p class="text-2xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 ">
                 Alternative Platforms
             </p>
-            <p>We will be also streaming to Twitch and Twitter</p>
+            <p>We will be also streaming to Twitter and Twitch</p>
             <div class="flex flex-wrap">
                 <div class="w-1/3 md:w-1/2 lg:w-1/3 xl:w-1/3 ">
                     <a href="https://twitter.com/cdkday">
