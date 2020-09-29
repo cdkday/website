@@ -243,7 +243,7 @@ A small group of community members from across the globe thought this was someth
       </div>
       <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
           <a aria-label="go to Matthew Bonig's Twitter page" href="https://twitter.com/mattbonig">
-              <img class="hover:grow hover:shadow-lg border" alt="Matthew Bonig" src="/static/img/speakers/Matthew_Bonig.jpg">
+              <img style="width:100%" class="hover:grow hover:shadow-lg border" alt="Matthew Bonig" src="/static/img/mattb.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 text-2xl font-normal">Matthew Bonig</p>
                   <p class="text-gray-600 font-normal">
