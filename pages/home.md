@@ -54,23 +54,47 @@ A small group of community members from across the globe thought this was someth
       </div>
   </header>
   <main>
-    <p>
-        The event will be live streamed to YouTube, Twitter and Twitch which you can access at any of these links:
+    <p class="mb-6">
+        The main viewing platform will be the YouTube channel linked to below where the recording will also be available after the event.
     </p>
-    <ul>
-        <li>
-            <a href="https://www.youtube.com/channel/UCo3mAheKM1bS3ToJ90QAkiw">YouTube</a>
-        </li>
-        <li>
-            <a href="https://twitter.com/cdkday">Twitter</a>
-        </li>
-        <li>
-            <a href="https://www.twitch.tv/cdkday">Twitch</a>
-        </li>
-    </ul>
-    <p class="mt-6">
-        For discussions throughout the day we will be using the <a href="https://join.slack.com/t/cdk-dev/shared_invite/zt-gff3dtkw-MsEPa5Id1Aey8HQUDEck1Q">cdk.dev slack space</a>
-    </p>
+    <div class="flex flex-wrap">
+        <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 ">
+            <a href="https://youtu.be/qJutZqXMdgM">
+                <img class="hover:grow hover:shadow-lg border px-3 py-3" src="https://img.youtube.com/vi/qJutZqXMdgM/0.jpg" />
+                <div class="pt-3">
+                    <img src="/static/img/youtube.png" alt="YouTube">
+                </div>
+            </a>
+        </div>
+        <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 pl-0 pt-12 md:pt-0 md:pl-6 lg:pl-6 xl:pl-0">
+            <p class="text-2xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 ">
+                Alternative Platforms
+            </p>
+            <p>We will be also streaming to Twitch and Twitter</p>
+            <div class="flex flex-wrap">
+                <div class="w-1/3 md:w-1/2 lg:w-1/3 xl:w-1/3 ">
+                    <a href="https://twitter.com/cdkday">
+                        <div>
+                            <img src="/static/img/twitter.svg" alt="Twitter">
+                        </div>
+                    </a>
+                </div>
+                <div class="w-1/3 md:w-1/2 lg:w-1/3 xl:w-1/3 ">
+                    <a href="https://www.twitch.tv/cdkday">
+                        <div class="pt-16">
+                            <img src="/static/img/twitch.svg" alt="Twitch">
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <p class="text-2xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 ">
+                Live Discussions
+            </p>
+            <p>
+                For discussions throughout the day we will be using the <a href="https://join.slack.com/t/cdk-dev/shared_invite/zt-gff3dtkw-MsEPa5Id1Aey8HQUDEck1Q">cdk.dev slack space</a>
+            </p>
+        </div>
+    </div>
   </main>
 </section>
 
