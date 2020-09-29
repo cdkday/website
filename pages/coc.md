@@ -53,8 +53,11 @@ eleventyNavigation:
     Other conduct which could reasonably be considered inappropriate in a professional setting
     Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate at this event.
 </p>
+<p class="mt-6 mb-6 text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl">
+    Reporting A Breach
+</p>
 <p class="mt-6">
-    Each event guest is entirely responsible for their own actions. We rely on the event participants to report to us anytime a breach of these rules have happened. Please contact the event planners by going to cdk.dev and using the CDK Day Report Form or by emailing us at report@cdk.dev.
+    Each event guest is entirely responsible for their own actions. We rely on the event participants to report to us anytime a breach of these rules have happened. Please contact the event planners by emailing us at <a href="mailto:report@cdk.dev?subject=CDK Day COC Breach Report">report@cdk.dev</a>.
 </p>
 <p class="mt-6">
     Thank you for helping to make this a welcoming, friendly space for all.
