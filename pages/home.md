@@ -63,9 +63,9 @@ A small group of community members from across the globe thought this was someth
         </div>
         <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 pl-0 pt-12 md:pt-0 md:pl-6 lg:pl-6 xl:pl-6">
             <p class="text-2xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 ">
-                Alternative Platforms
+                Stay Informed For 2021
             </p>
-            <p>You can still follow @cdkday on Twitter</p>
+            <p>You can still follow @cdkday on Twitter for the latest news</p>
             <div class="flex flex-wrap">
                 <div class="w-1/3 md:w-1/2 lg:w-1/3 xl:w-1/3 ">
                     <a href="https://twitter.com/cdkday">
