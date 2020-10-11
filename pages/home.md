@@ -53,7 +53,7 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main>
     <p class="mb-6">
-        If you missed the live event, do not worry the whole event is still on YouTube
+        CDK Day 2020 has been and gone but do not worry we have collected all of the talks together in a <a href="https://cdkday.com/2020">rewind page</a> for you to enjoy or here is the full video:
     </p>
     <div class="flex flex-wrap">
         <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 ">
