@@ -86,253 +86,7 @@ A small group of community members from across the globe thought this was someth
   </main>
 </section>
 
-<section id="pancakes" class="mt-8">
-  <header class="w-full z-30 top-0 py-1">
-      <div class="mt-0 py-3">
-          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
-              Meet Stacks aka Pancakes
-          </p>
-          <p class="mt-6">
-            We are very excited to have an official CDK Day mascot, an Otter so obessed with stacks they only eat food that comes in stack form. Their official name is Stacks but all their friends call them Pancakes (and everyone is their friend).
-          </p>
-          <p class="mt-6">
-            Where did Pancakes come from? Well we started with several votes on which animal to choose followed by a vote on the name which came together as the below image with Matthew Dorrian and Clea Allen in this <a href="https://twitter.com/DorrianMatthew/status/1300086835301974016?s=20">tweet</a> 
-          </p>
-      </div>
-  </header>
-  <main class="flex flex-wrap">
-    <img src="/static/img/Pancakes.png">
-  </main>
-</section>
-
-<section id="speakers" class="mt-8">
-  <header class="w-full z-30 top-0 py-1">
-      <div class="mt-0 py-3">
-          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
-              Speakers
-          </p>
-          <p class="mt-6">
-            We are delighted to have a global group of speakers covering topics across AWS CDK, CDK8s and CDK for Terraform.
-          </p>
-      </div>
-  </header>
-  <main class="flex flex-wrap">
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Andreas Heumaier's Twitter page" href="https://twitter.com/aheumaier">
-              <img class="hover:grow hover:shadow-lg border" alt="Andreas Heumaier" src="/static/img/speakers/andreas.png">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Andreas Heumaier</p>
-                  <p class="text-gray-600 font-normal">
-                    Senior Engineering Lead, Microsoft
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    Prototyping a CDK for Azure
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Andrew Nguyen's Website" href="https://andyln.com/">
-              <img class="hover:grow hover:shadow-lg border" alt="Andrew Nguyen" src="/static/img/speakers/andrew_nguyen.jpeg">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Andrew Nguyen</p>
-                  <p class="text-gray-600 font-normal">
-                    Software Engineer, Liberty Mutual
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    Moving from CloudFormation YAML to CDK - Benefits, How to do it in a production system, and More!
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Charles McLaughlin's Twitter page" href="https://twitter.com/mclaughlinct">
-              <img class="hover:grow hover:shadow-lg border" alt="Charles McLaughlin" src="/static/img/speakers/charles.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Charles McLaughlin</p>
-                  <p class="text-gray-600 font-normal">
-                    Director of Engineering, ShopStyle
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    Getting started with CDK for Terraform and Python
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Chitranjali Edpuganti's Twitter page" href="https://twitter.com/Chitranjali_E">
-              <img class="hover:grow hover:shadow-lg border" alt="Chitranjali Edpuganti" src="/static/img/speakers/chitranjali_edpuganti.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Chitranjali Edpuganti</p>
-                  <p class="text-gray-600 font-normal">
-                    Senior Software Engineer
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    AWS Config with CDK
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Elad Ben-Israel's Twitter page" href="https://twitter.com/emeshbi">
-              <img style="width:100%" class="hover:grow hover:shadow-lg border" alt="Elad Ben-Israel" src="/static/img/speakers/Elad_Ben_Israel.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Elad Ben-Israel</p>
-                  <p class="text-gray-600 font-normal">
-                    Core CDK Team
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    projen - a CDK for software project configuration
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Julia Jacobs's Twitter page" href="https://linkedin.com/in/juliajacobs">
-              <img class="hover:grow hover:shadow-lg border" alt="Julia Jacobs" src="/static/img/speakers/Julia_Jacobs.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Julia Jacobs</p>
-                  <p class="text-gray-600 font-normal">
-                    Senior Cloud Automation Engineer at Acxiom
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    AWS CDK and FedRAMP Compliance
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Luca Bianchi's Twitter page" href="https://twitter.com/bianchiluca">
-              <img class="hover:grow hover:shadow-lg border" alt="Luca Bianchi" src="/static/img/speakers/luca.png">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Luca Bianchi</p>
-                  <p class="text-gray-600 font-normal">
-                    AWS Serverless Hero and CTO, Neosperience
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    Serverless IoT with Greengrass, Ansible and AWS CDK
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Mat Jovanovic's Twitter page" href="https://twitter.com/MatJovanovic">
-              <img class="hover:grow hover:shadow-lg border" alt="Mat Jovanovic" src="/static/img/speakers/mat.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Mat Jovanovic</p>
-                  <p class="text-gray-600 font-normal">
-                    Cloud Architect and Strategist, CEPSA
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    The good, the bad and the ugly of CDK in a big enterprise
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Matthew Bonig's Twitter page" href="https://twitter.com/mattbonig">
-              <img style="width:100%" class="hover:grow hover:shadow-lg border" alt="Matthew Bonig" src="/static/img/mattb.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Matthew Bonig</p>
-                  <p class="text-gray-600 font-normal">
-                    AWS Data Hero
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    The cdk8s, the why and how
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Nader Dabit's Twitter page" href="https://twitter.com/dabit3">
-              <img class="hover:grow hover:shadow-lg border" alt="Nader Dabit" src="/static/img/speakers/nader_dabit.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Nader Dabit</p>
-                  <p class="text-gray-600 font-normal">
-                    Developer Advocate at AWS Mobile
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    Building Real-time Back Ends on AWS with AppSync and CDK
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Ran Isenberg's Twitter page" href="https://twitter.com/IsenbergRan">
-              <img class="hover:grow hover:shadow-lg border" alt="Ran Isenberg" src="/static/img/speakers/ran.png">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Ran Isenberg</p>
-                  <p class="text-gray-600 font-normal">
-                    Software Architect at CyberArk
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    Our SaaS Journey with CDK 
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Sebastian Korfmann's Twitter page" href="https://twitter.com/skorfmann">
-              <img class="hover:grow hover:shadow-lg border" alt="Sebastian Korfmann" src="/static/img/sebastian.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Sebastian Korfmann</p>
-                  <p class="text-gray-600 font-normal">
-                    Core CDKTF contributor
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    Mix and Match CDK Constructs between AWS CDK, CDK8s and CDKTF
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Tatenda Gibson's Twitter page" href="https://twitter.com/Taity__m">
-              <img class="hover:grow hover:shadow-lg border" alt="Tatenda Gibson" src="/static/img/speakers/tatenda.png">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Tatenda Gibson</p>
-                  <p class="text-gray-600 font-normal">
-                    Cloud, ACG Community Member, Serverless, #100daysofcloud
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    AWS CDK 101
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
-          <a aria-label="go to Thorsten Höger's Twitter page" href="https://twitter.com/hoegertn">
-              <img class="hover:grow hover:shadow-lg border" alt="Thorsten Höger" src="/static/img/speakers/thorsten.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal">Thorsten Höger</p>
-                  <p class="text-gray-600 font-normal">
-                    AWS Hero and CEO, Cloud Evangelist @ Taimos
-                  </p>
-                  <p class="text-gray-800 font-normal mt-3">
-                    Multi-account and multi-region - Deploy your CDK app to multiple environments
-                  </p>
-              </div>
-          </a>
-      </div>
-    </main>
-</section>
-
-<section id="agenda" class="mt-8">
-  <header class="w-full z-30 top-0 py-1">
-      <div class="mt-0 py-3">
-          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
-              Agenda for 30th September 2020
-          </p>
-          <p class="mt-6">
-            We have a combination of Lighting Sessions (up to 10 mins) and Full Sessions (20-25 mins), click one below to see more details. Note the below plugin attempts to display in your local timezone. If you want to see the start time in other timezones you can do it <a href="https://everytimezone.com/?t=5f73ca80,348">here</a>
-          </p>
-      </div>
-  </header>
-  <main class="flex flex-wrap">
-    <script type="text/javascript" src="https://sessionize.com/api/v2/g1tdskzh/view/GridSmart"></script>
-  </main>
-</section>
-
-<section id="committee" class="mt-3">
+<section id="committee" class="mt-8">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-0 py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
@@ -412,12 +166,24 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main class="flex flex-wrap">
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to CDK Day Twitter page" href="https://twitter.com/cdkday">
-              <img class="hover:grow hover:shadow-lg border" alt="CDK Day" src="/static/img/you.png">
+          <a aria-label="go to Ceora's Twitter page" href="https://twitter.com/ceeoreo_">
+              <img class="hover:grow hover:shadow-lg border" alt="Ceora Ford" src="/static/img/ceora.jpg">
               <div class="pt-3">
+                  <p class="text-gray-800 font-bold">Ceora Ford</p>
                   <span class="text-gray-600 font-normal">
-                    Do you feel you could bring a unique perspective and diversity of thought to our group? Reach out via <a href="https://twitter.com/cdkday">CDK Day twitter</a>, DMs are open
+                    dev marketing <a aria-label="go to codesandbox" href="https://twitter.com/codesandbox">@codesandbox</a>, instructor <a aria-label="go to eggheadio" href="https://twitter.com/eggheadio">@eggheadio</a>, AWS + python + jamstack and AWS Community Builder
                   </span>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a aria-label="go to Marcia's Twitter page" href="https://twitter.com/mavi888uy">
+              <img class="hover:grow hover:shadow-lg border" alt="Marcia Villalba" src="/static/img/marcia.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-bold">Marcia Villalba</p>
+                  <p class="text-gray-600 font-normal">
+                    @AWSCloud Developer Avocado from Uruguay living in Finland.
+                  </p>
               </div>
           </a>
       </div>
@@ -425,20 +191,9 @@ A small group of community members from across the globe thought this was someth
           <a aria-label="go to NIDeveloper Twitter page" href="https://twitter.com/nideveloper">
               <img class="hover:grow hover:shadow-lg border" alt="Matt Coulter" src="/static/img/matt.jpg">
               <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Matt Coulter</p>
+                  <p class="text-gray-800 font-bold">Matt Coulter</p>
                   <span class="text-gray-600 font-normal">
-                    Architect in Liberty IT, AWS Community Builder and creator of <a aria-label="go to cdkpatterns.com" href="https://cdkpatterns.com">cdkpatterns.com</a>
-                  </span>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to skorfmann Twitter page" href="https://twitter.com/skorfmann">
-              <img class="hover:grow hover:shadow-lg border" alt="Sebastian Korfmann" src="/static/img/sebastian.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Sebastian Korfmann</p>
-                  <span class="text-gray-600 font-normal">
-                    Core CDKTF contributor, AWS Community Builder and creator of <a aria-label="go to cdkweekly.com" href="https://www.cdkweekly.com">cdkweekly.com</a>
+                    Architect in Liberty IT &amp; AWS DevTools Hero. I love community sharing so I started CDK Day and created <a aria-label="go to cdkpatterns.com" href="https://cdkpatterns.com">cdkpatterns.com</a>
                   </span>
               </div>
           </a>
@@ -447,7 +202,7 @@ A small group of community members from across the globe thought this was someth
           <a aria-label="go to mattbonig Twitter page" href="https://twitter.com/mattbonig">
               <img class="hover:grow hover:shadow-lg border" alt="Matt Bonig" src="/static/img/mattb.jpg">
               <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Matt Bonig</p>
+                  <p class="text-gray-800 font-bold">Matthew Bonig</p>
                   <span class="text-gray-600 font-normal">
                     AWS Data Hero and creator of the <a aria-label="go to open construct foundation page" href="https://openconstructfoundation.org">Open Construct Foundation</a>
                   </span>
@@ -455,13 +210,46 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to Julia Jacobs LinkedIn page" href="https://www.linkedin.com/in/juliajacobs/">
-              <img class="hover:grow hover:shadow-lg border py-4 xl:py-6" alt="Julia Jacobs" src="/static/img/julia.jpg">
+          <a aria-label="go to Mirabela's Twitter page" href="https://twitter.com/mirabeladd">
+              <img class="hover:grow hover:shadow-lg border" alt="Mirabela" src="/static/img/mirabela.jpg">
               <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Julia Jacobs</p>
-                  <p class="text-gray-600 font-normal">
-                    AWS Community Builder, Married mother of 2 boys Cloud ☁️ Engineer👩‍💻
-                  </p>
+                  <p class="text-gray-800 font-bold">Mirabela Dan</p>
+                  <span class="text-gray-600 font-normal">
+                    Startup SA @awscloud. Tech enthusiast, traveller, language nerd & former accountant. Here to enhance my learning. She/her.
+                  </span>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a aria-label="go to Sathyajith's Twitter page" href="https://twitter.com/Taity__m">
+              <img class="hover:grow hover:shadow-lg border" alt="Sathyajith " src="/static/img/sathyajith.png">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-bold">Sathyajith Bhat</p>
+                  <span class="text-gray-600 font-normal">
+                    Author: Practical Docker With Python. AWS Community Hero. 2x Mod, <a aria-label="go to StackExchange" href="https://twitter.com/StackExchange">@StackExchange</a>. DevOps <a aria-label="go to AdobeIO" href="https://twitter.com/AdobeIO">@AdobeIO</a>, hubster to @joshenoy, Gamer. Runs @AWSUGBLR & @BarcampBNG
+                  </span>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a aria-label="go to skorfmann Twitter page" href="https://twitter.com/skorfmann">
+              <img class="hover:grow hover:shadow-lg border" alt="Sebastian Korfmann" src="/static/img/sebastian.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-bold">Sebastian Korfmann</p>
+                  <span class="text-gray-600 font-normal">
+                    AWS DevTools Hero building Terraform CDK  <a aria-label="go to Hashicorp" href="https://twitter.com/HashiCorp">@HashiCorp</a>
+                  </span>
+              </div>
+          </a>
+      </div>
+      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+          <a aria-label="go to Tatenda's Twitter page" href="https://twitter.com/Taity__m">
+              <img class="hover:grow hover:shadow-lg border" alt="Mirabela" src="/static/img/tatenda.jpg">
+              <div class="pt-3">
+                  <p class="text-gray-800 font-bold">Tatenda Gibson</p>
+                  <span class="text-gray-600 font-normal">
+                    Proud Christian. Figuring it out as I go. AWS Community Builder #serverless
+                  </span>
               </div>
           </a>
       </div>
@@ -469,120 +257,32 @@ A small group of community members from across the globe thought this was someth
           <a aria-label="go to Thorsten's Twitter page" href="https://twitter.com/hoegertn">
               <img class="hover:grow hover:shadow-lg border" alt="Thorsten Hoeger" src="/static/img/thorsten.jpg">
               <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Thorsten Hoeger</p>
-                  <p class="text-gray-600 font-normal">
-                    Cloud Evangelist, CEO @ Taimos GmbH and AWS Community Hero
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to Pahud Twitter page" href="https://twitter.com/pahudnet">
-              <img class="hover:grow hover:shadow-lg border" alt="Pahud Hsieh" src="/static/img/pahud.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Pahud Hsieh</p>
-                  <p class="text-gray-600 font-normal">
-                    Developer Advocate @AWSCloud in Taiwan. Contributor of many awesome CDK constructs.
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to Marek's Twitter page" href="https://twitter.com/marekq">
-              <img class="hover:grow hover:shadow-lg border" alt="marek kuczyński" src="/static/img/marek.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Marek Kuczyński</p>
-                  <p class="text-gray-600 font-normal">
-                    Serverless Specialist Solutions Architect at AWS 
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to Philipp Garbe's Twitter page" href="https://twitter.com/pgarbe">
-              <img class="hover:grow hover:shadow-lg border" alt="Philipp Garbe" src="/static/img/p_garbe.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Philipp Garbe</p>
+                  <p class="text-gray-800 font-bold">Thorsten Hoeger</p>
                   <span class="text-gray-600 font-normal">
-                    Living in Bavaria | Working in the Cloud | AWS Container Hero
+                    Cloud Evangelist, CEO <a aria-label="link to Taimos" href="https://twitter.com/taimosgmbh">@Taimos GmbH</a> and AWS DevTools Hero
                   </span>
               </div>
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to Mishra Anubhav Twitter page" href="https://twitter.com/build1point0">
-              <img class="hover:grow hover:shadow-lg border" alt="Mishra Anubhav" src="/static/img/mishra.jpg">
+          <a aria-label="go to Veliswa's Twitter page" href="https://twitter.com/Vel12171">
+              <img class="hover:grow hover:shadow-lg border" alt="Veliswa Boya" src="/static/img/veliswa.jpg">
               <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Anubhav Mishra</p>
+                  <p class="text-gray-800 font-bold">Veliswa Boya</p>
                   <span class="text-gray-600 font-normal">
-                    Technical Advisor to the CTO at HashiCorp. Creator of @runatlantis. <a href="http://mishra.dev/">Frequent Speaker</a>
+                    Snr Developer Advocate EMEA @awscloud, former AWS Hero, <a aria-label="link to Mdantsane on wikipedia" href="https://en.wikipedia.org/wiki/Mdantsane">Mdantsane</a> born & raised, runner, mentor.
                   </span>
               </div>
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to Richard Boyd Twitter page" href="https://twitter.com/rchrdbyd">
-              <img class="hover:grow hover:shadow-lg border" alt="Richard Boyd" src="/static/img/richard_boyd.jpg">
+          <a aria-label="go to Zenzi's Twitter page" href="https://twitter.com/ZenziTheDev">
+              <img class="hover:grow hover:shadow-lg border" alt="Sathyajith " src="/static/img/zenzi.jpg">
               <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Richard Boyd</p>
-                  <p class="text-gray-600 font-normal">
-                    Developer Advocate for Dev Tools at AWS.
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to Elad's Twitter page" href="https://twitter.com/emeshbi">
-              <img class="hover:grow hover:shadow-lg border" alt="Elad Ben-Israel" src="/static/img/elad.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Elad Ben-Israel</p>
-                  <p class="text-gray-600 font-normal">
-                    Core AWS CDK team member
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to Chris Fide's Twitter page" href="https://twitter.com/ccfife">
-              <img class="hover:grow hover:shadow-lg border" alt="Chris Fife" src="/static/img/chris.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Chris Fife</p>
-                  <p class="text-gray-600 font-normal">
-                    Senior Product Manager at AWS on the Developer Tools team that brings you the AWS SDKs, the AWS CLI, and is a humble custodian of the AWS Cloud Development Kit (CDK)
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to Sudeepa's Twitter page" href="https://twitter.com/imsudeepa">
-              <img class="hover:grow hover:shadow-lg border" alt="Sudeepa Prakash" src="/static/img/sudeepa.jpeg">
-              <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Sudeepa Prakash</p>
-                  <p class="text-gray-600 font-normal">
-                    Sr PMM for AWS developer tools and the Amazon Builders Library. And.. Mom, traveler, baker, and budding kids' photographer.
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to Aaron Schwam's Twitter page" href="https://twitter.com/ASchwam">
-              <img class="hover:grow hover:shadow-lg border" alt="Aaron Schwam" src="/static/img/aaron.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Aaron Schwam</p>
-                  <p class="text-gray-600 font-normal">
-                    AWS DevTools marketing & The Amazon Builders' Library
-                  </p>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to Eric Johnson's Twitter page" href="https://twitter.com/edjgeek">
-              <img class="hover:grow hover:shadow-lg border" alt="Aaron Schwam" src="/static/img/eric.jpg">
-              <div class="pt-3">
-                  <p class="text-gray-800 font-normal">Eric Johnson</p>
-                  <p class="text-gray-600 font-normal">
-                    Christian, husband, dad of 5, Senior Developer Advocate - Serverless for @AWScloud. Opinions are my own. #Serverless #ServerlessForEveryone
-                  </p>
+                  <p class="text-gray-800 font-bold">Zenzi Ali</p>
+                  <span class="text-gray-600 font-normal">
+                    Full stack developer
+                  </span>
               </div>
           </a>
       </div>
