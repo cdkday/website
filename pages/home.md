@@ -7,47 +7,67 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
+<div class="container bg-blue main-container w-5/6 mx-auto px-8 md:px-16 pb-4 pt-4 rounded-corners">
+<h1 class="text-3xl mt-2 mb-12 tracking-wide font-bold">The Cloud Development Kit gives us Constructs that are used by a family of products: </h1>
 
-<h1 class="text-3xl mt-10">Over a year has passed since AWS CDK went GA and it has now grown into a family of products: </h1>
-
-<section id="products" class="mt-8 mb-6">
+<section id="products" class="mt-8 mb-6 bg-white rounded-corners">
   <main class="flex flex-wrap">
       <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
           <a aria-label="go to cdkpatterns.com" href="https://aws.amazon.com/cdk/">
-              <img class="hover:grow hover:shadow-lg border px-3 py-2" alt="Angular" src="/static/img/cdk_wide.png">
+              <img class="hover:grow hover:shadow-lg border px-3 py-2 bg-white" alt="Angular" src="/static/img/cdk_wide.png">
               <div class="pt-3">
-                  <p class="text-gray-800 font-normal">AWS CDK</p>
+                  <p class="text-gray-800 text-2xl font-normal text-center">AWS CDK</p>
               </div>
           </a>
       </div>
       <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
           <a aria-label="go to hashicorp.com" href="https://github.com/hashicorp/terraform-cdk">
-              <img class="hover:grow hover:shadow-lg border py-2 px-3" alt="React" src="/static/img/terraform.svg">
+              <img class="hover:grow hover:shadow-lg border py-2 px-3 bg-white" alt="React" src="/static/img/terraform.svg">
               <div class="pt-3">
-                  <p class="text-gray-800 font-normal">CDK for Terraform</p>
+                  <p class="text-gray-800 text-2xl font-normal text-center">CDK for Terraform</p>
               </div>
           </a>
       </div>
       <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
           <a aria-label="go to cdk8s website" href="https://cdk8s.io/">
-              <img class="hover:grow hover:shadow-lg border py-6 px-8" alt="Express" src="/static/img/cdk8s.svg">
+              <img class="hover:grow hover:shadow-lg border py-6 px-8 bg-white" alt="Express" src="/static/img/cdk8s.svg">
               <div class="pt-3">
-                  <p class="text-gray-800 font-normal">CDK8s (Kubernetes)</p>
+                  <p class="text-gray-800 text-2xl font-normal text-center">CDK for Kubernetes</p>
               </div>
           </a>
       </div>
   </main>
 </section>
-
+<div class="text-2xl mt-12">
 A small group of community members from across the globe thought this was something worth celebrating so we are going to take one day and showcase the brightest and best of cdk from across the whole product family. Let's talk serverless, kubernetes and multi cloud all in the same day!
 
 <p class="mt-6 mb-8">During the day we plan to mix introduction talks with hands on builders sessions so that everyone can leave having learned something new.</p>
+</div>
+</div>
+<div class="bg-white">
+<div class="container main-container bg-white w-full mx-auto mb-12 px-8 md:px-16 pb-16">
+<section id="community" class="mt-10">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="mt-6 py-3">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
+              Where Can I Learn About CDK?
+          </p>
+      </div>
+  </header>
+  <main>
+    <p>
+        If you want to chat to real CDK users, then join the <a href="https://join.slack.com/t/cdk-dev/shared_invite/zt-gff3dtkw-MsEPa5Id1Aey8HQUDEck1Q">cdk.dev slack space</a>. If you want to see working examples of AWS CDK, then check out <a href="https://www.cdkpatterns.com">CDK Patterns</a>. You can learn the history of CDK by reading <a href="https://aws.amazon.com/blogs/opensource/working-backwards-the-story-behind-the-aws-cloud-development-kit/">this AWS Open Source Blog post</a>
+    </p>
+    <p class="mt-3">Alternatively, you can follow <a href="https://twitter.com/cdkday">@cdkday</a> on Twitter for the latest news about the next CDK Day.</p>
+    
+  </main>
+</section>
 
-<section id="viewing" class="mt-8">
+<section id="viewing" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-0 py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
-              Where Can I Watch CDK Day?
+              Where Can I Watch Past Recordings?
           </p>
       </div>
   </header>
@@ -55,34 +75,6 @@ A small group of community members from across the globe thought this was someth
     <p class="mb-6">
         CDK Day 2020 has been and gone but do not worry we have collected all of the talks together in a <a href="https://cdkday.com/2020">rewind page</a> for you to enjoy or here is the full video:
     </p>
-    <div class="flex flex-wrap">
-        <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 ">
-            <div class="youtube">
-                <iframe class="responsive-iframe" src="https://www.youtube.com/embed/qJutZqXMdgM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div>
-        <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 pl-0 pt-12 md:pt-0 md:pl-6 lg:pl-6 xl:pl-6">
-            <p class="text-2xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 ">
-                Stay Informed For 2021
-            </p>
-            <p>You can still follow @cdkday on Twitter for the latest news</p>
-            <div class="flex flex-wrap">
-                <div class="w-1/3 md:w-1/2 lg:w-1/3 xl:w-1/3 ">
-                    <a href="https://twitter.com/cdkday">
-                        <div>
-                            <img src="/static/img/twitter.svg" alt="Twitter">
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <p class="text-2xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 ">
-                Ongoing Discussions
-            </p>
-            <p>
-                Want to talk about CDK, then join the <a href="https://join.slack.com/t/cdk-dev/shared_invite/zt-gff3dtkw-MsEPa5Id1Aey8HQUDEck1Q">cdk.dev slack space</a>
-            </p>
-        </div>
-    </div>
   </main>
 </section>
 
@@ -288,3 +280,5 @@ A small group of community members from across the globe thought this was someth
       </div>
   </main>
 </section>
+</div>
+</div>

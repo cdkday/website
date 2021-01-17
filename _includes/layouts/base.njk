@@ -4,27 +4,31 @@
 	{% include "components/head.njk" %}
 
 	<body class="text-gray-600 work-sans leading-normal text-base tracking-normal">
-		<section class="bg-white container main-container shadow-xl border border-gray-300 w-full mx-auto mt-8 mb-12 px-8 md:px-16 pb-16 pt-4">
-			
-		<div class="flex flex-wrap pb-1 pt-3 text-xl">
-            <div class="w-full md:w-full lg:w-1/2 xl:w-1/2 flex justify-center">
+		<!--<section class="bg-white container main-container shadow-xl border border-gray-300 w-full mx-auto mt-8 mb-12 px-8 md:px-16 pb-16 pt-4">-->
+		<section class="bg-dark">
+		<div class="bg-dark">
+		<div class="container main-container w-full mx-auto px-8 pb-6 md:px-16">	
+		<div class="flex flex-wrap pb-4 text-xl">
+            <div class="w-full md:w-full lg:w-1/2 xl:w-1/2 flex justify-left">
                 <a aria-label="A link back to home" href="{{ '/' | url }}">
-					<img src="/static/img/logo_plain.png" style="width: 500px;" alt="logo" class=""/>
+					<img src="/static/img/logo_2021_2_3_dark.png" style="width: 500px;" alt="logo" class=""/>
 				</a>
             </div>
-			<div class="w-full md:w-full lg:w-1/2 xl:w-1/2 pt-10 md:pt-8 text-2xl text-gray-500">
+			<!--<div class="w-full md:w-full lg:w-1/2 xl:w-1/2 pt-10 md:pt-8 text-2xl text-gray-500">
 				<p class="text-3xl text-gray-600">Currently Planning 2021 Event</p>
 				<p class="text-xl">Check back regularly for more details or follow @cdkday on Twitter</p>
 				<!--<p class="text-xl">10am to 3pm EDT / 2pm to 7pm UTC</p>
-				<p class="text-lg"><a href="https://everytimezone.com/?t=5f73ca80,348">Show Start Time In Other Timezones</a></p>-->
+				<p class="text-lg"><a href="https://everytimezone.com/?t=5f73ca80,348">Show Start Time In Other Timezones</a></p>
 
 				<p class="text-xl mt-6">
 					<a class="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full" href="https://www.cdkday.com/2020">Watch CDK Day 2020 Rewind</a>
 				</p>
-			</div>
+			</div>-->
 			{% include "components/nav.njk" %}
         </div>
-        <hr class="my-8"/>
+		</div>
+		</div>
+        <!--<hr class="my-8"/>-->
 
 			<main>
 				{{ layoutContent | safe }}
