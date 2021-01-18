@@ -8,33 +8,33 @@ eleventyNavigation:
   order: 0
 ---
 <div class="container bg-blue main-container w-5/6 mx-auto px-8 md:px-16 pb-4 pt-0 rounded-corners">
-<h1 class="text-3xl mt-2 mb-12 tracking-wide font-bold">A Cloud Development Kit (CDK) is a developer tool built on the open souce Constructs model. We now have multiple CDKs: </h1>
+<h1 class="text-xl md:text-3xl mt-2 mb-12 tracking-wide font-bold">A Cloud Development Kit (CDK) is a developer tool built on the open souce Constructs model. We now have multiple CDKs: </h1>
 
 <section id="products" class="mt-8 mb-6 bg-yellow rounded-corners">
   <main class="flex flex-wrap">
-      <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/4 p-6 flex flex-col">
+      <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/4 p-2 md:p-6 flex flex-col">
           <a aria-label="go to cdkpatterns.com" href="https://aws.amazon.com/cdk/">
               <img class="hover:grow hover:shadow-lg px-0 py-2" alt="AWS CDK" src="/static/img/cdk-logo.png">
           </a>
       </div>
-      <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/4 p-6 flex flex-col">
+      <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/4 p-2 md:p-6 flex flex-col">
           <a aria-label="go to hashicorp.com" href="https://github.com/hashicorp/terraform-cdk">
               <img class="hover:grow hover:shadow-lg py-3 px-0" alt="Terraform" src="/static/img/terraform.svg">
           </a>
       </div>
-      <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/4 p-6 flex flex-col">
+      <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/4 p-2 md:p-6 flex flex-col">
           <a aria-label="go to cdk8s website" href="https://cdk8s.io/">
               <img class="hover:grow hover:shadow-lg py-6 px-2" alt="cdk8s" src="/static/img/cdk8s.svg">
           </a>
       </div>
-      <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/4 p-6 flex flex-col">
+      <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/4 p-2 md:p-6 flex flex-col">
           <a aria-label="go to projen website" href="https://github.com/projen/projen">
               <img class="hover:grow hover:shadow-lg py-3 px-2" alt="Projen" src="/static/img/projen.png">
           </a>
       </div>
   </main>
 </section>
-<div class="text-2xl mt-12">
+<div class="text-xl md:text-2xl mt-12">
 A small group of community members from across the globe thought this was something worth celebrating so we are going to take one day and showcase the brightest and best of CDK from across the whole product family. Let's talk serverless, kubernetes and multi cloud all in the same day!
 
 <p class="mt-6 mb-8">Our first 2021 event is currently being planned, so check back soon!</p>
