@@ -7,48 +7,91 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-<div class="container bg-blue main-container w-5/6 mx-auto px-8 md:px-16 pb-4 pt-4 rounded-corners">
-<h1 class="text-3xl mt-2 mb-12 tracking-wide font-bold">The Cloud Development Kit gives us Constructs that are used by a family of products: </h1>
+<div class="container bg-blue main-container w-5/6 mx-auto px-8 md:px-16 pb-4 pt-0 rounded-corners">
+<h1 class="text-3xl mt-2 mb-12 tracking-wide font-bold">A Cloud Development Kit (CDK) is a developer tool built on the open souce Constructs model. We now have multiple CDKs: </h1>
 
-<section id="products" class="mt-8 mb-6 bg-white rounded-corners">
+<section id="products" class="mt-8 mb-6 bg-yellow rounded-corners">
   <main class="flex flex-wrap">
-      <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+      <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/4 p-6 flex flex-col">
           <a aria-label="go to cdkpatterns.com" href="https://aws.amazon.com/cdk/">
-              <img class="hover:grow hover:shadow-lg border px-3 py-2 bg-white" alt="Angular" src="/static/img/cdk_wide.png">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal text-center">AWS CDK</p>
-              </div>
+              <img class="hover:grow hover:shadow-lg px-0 py-2" alt="AWS CDK" src="/static/img/cdk-logo.png">
           </a>
       </div>
-      <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+      <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/4 p-6 flex flex-col">
           <a aria-label="go to hashicorp.com" href="https://github.com/hashicorp/terraform-cdk">
-              <img class="hover:grow hover:shadow-lg border py-2 px-3 bg-white" alt="React" src="/static/img/terraform.svg">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal text-center">CDK for Terraform</p>
-              </div>
+              <img class="hover:grow hover:shadow-lg py-3 px-0" alt="Terraform" src="/static/img/terraform.svg">
           </a>
       </div>
-      <div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/3 p-6 flex flex-col">
+      <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/4 p-6 flex flex-col">
           <a aria-label="go to cdk8s website" href="https://cdk8s.io/">
-              <img class="hover:grow hover:shadow-lg border py-6 px-8 bg-white" alt="Express" src="/static/img/cdk8s.svg">
-              <div class="pt-3">
-                  <p class="text-gray-800 text-2xl font-normal text-center">CDK for Kubernetes</p>
-              </div>
+              <img class="hover:grow hover:shadow-lg py-6 px-2" alt="cdk8s" src="/static/img/cdk8s.svg">
+          </a>
+      </div>
+      <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/4 p-6 flex flex-col">
+          <a aria-label="go to projen website" href="https://github.com/projen/projen">
+              <img class="hover:grow hover:shadow-lg py-3 px-2" alt="Projen" src="/static/img/projen.png">
           </a>
       </div>
   </main>
 </section>
 <div class="text-2xl mt-12">
-A small group of community members from across the globe thought this was something worth celebrating so we are going to take one day and showcase the brightest and best of cdk from across the whole product family. Let's talk serverless, kubernetes and multi cloud all in the same day!
+A small group of community members from across the globe thought this was something worth celebrating so we are going to take one day and showcase the brightest and best of CDK from across the whole product family. Let's talk serverless, kubernetes and multi cloud all in the same day!
 
-<p class="mt-6 mb-8">During the day we plan to mix introduction talks with hands on builders sessions so that everyone can leave having learned something new.</p>
+<p class="mt-6 mb-8">Our first 2021 event is currently being planned, so check back soon!</p>
 </div>
 </div>
 <div class="bg-white">
 <div class="container main-container bg-white w-full mx-auto mb-12 px-8 md:px-16 pb-16">
-<section id="community" class="mt-10">
+
+<section id="viewing" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-6 py-3">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
+              What Will CDK Day Be Like?
+          </p>
+      </div>
+  </header>
+  <main>
+    <p class="mb-6">
+        We want the whole event to be fun! Our first CDK Day took place in September 2020. It was a mix of getting started sessions through to advanced topics from familiar faces as well as some new faces in the community. We have collected all of the talks together in a <a href="https://cdkday.com/2020">rewind page</a> for you to enjoy.
+    </p>
+    <div class="flex flex-wrap">
+        <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 ">
+            <p class="mt-3 mb-3">
+                Watch with 3,000 of your closest friends!
+            </p>
+            <img src="/static/img/map.png" alt="map" class="w-full md:w-11/12"/>
+        </div>
+        <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 ">
+            <p class="mt-3 mb-3">
+                Here is the full day recording:
+            </p>
+            <div class="youtube p-3">
+                <iframe class="responsive-iframe" title="CDK Day 2020 Video" src="https://www.youtube.com/embed/qJutZqXMdgM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+  </main>
+</section>
+
+<section id="viewing" class="mt-10">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="mt-6 py-3">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
+              How Do I Become a Presenter?
+          </p>
+      </div>
+  </header>
+  <main>
+    <p class="mb-6">
+        We will be launching a CFP in the next few weeks so please check back regularly or follow <a href="https://twitter.com/cdkday">@cdkday</a> on Twitter
+    </p>
+  </main>
+</section>
+
+<section id="community" class="mt-10">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
               Where Can I Learn About CDK?
           </p>
@@ -63,20 +106,7 @@ A small group of community members from across the globe thought this was someth
   </main>
 </section>
 
-<section id="viewing" class="mt-10">
-  <header class="w-full z-30 top-0 py-1">
-      <div class="mt-0 py-3">
-          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
-              Where Can I Watch Past Recordings?
-          </p>
-      </div>
-  </header>
-  <main>
-    <p class="mb-6">
-        CDK Day 2020 has been and gone but do not worry we have collected all of the talks together in a <a href="https://cdkday.com/2020">rewind page</a> for you to enjoy or here is the full video:
-    </p>
-  </main>
-</section>
+
 
 <section id="committee" class="mt-8">
   <header class="w-full z-30 top-0 py-1">
@@ -113,7 +143,7 @@ A small group of community members from across the globe thought this was someth
           <a aria-label="go to cdkpatterns.com" href="https://cdkpatterns.com">
               <img class="hover:grow hover:shadow-lg border px-3 py-3" alt="Angular" src="/static/img/cdkp.png">
               <div class="pt-3">
-                  <p class="text-gray-600 font-normal">CDK Patterns</p>
+                  <p class="text-gray-700 font-normal">CDK Patterns</p>
                   <p>
                     <a aria-label="go to cdkpatterns.com" href="https://cdkpatterns.com">www.cdkpatterns.com</a>
                   </p>
@@ -124,7 +154,7 @@ A small group of community members from across the globe thought this was someth
           <a aria-label="go to hashicorp.com" href="https://hashicorp.com">
               <img class="hover:grow hover:shadow-lg border py-5 px-3" alt="React" src="/static/img/hashicorp.png">
               <div class="pt-3">
-                  <p class="text-gray-600 font-normal">Hashicorp</p>
+                  <p class="text-gray-700 font-normal">Hashicorp</p>
                   <p>
                     <a aria-label="go to hashicorp.com" href="https://hashicorp.com">www.hashicorp.com</a>
                   </p>
@@ -135,7 +165,7 @@ A small group of community members from across the globe thought this was someth
           <a aria-label="go to aws website" href="https://aws.amazon.com/">
               <img class="hover:grow hover:shadow-lg border" alt="Express" src="/static/img/aws_wide.png">
               <div class="pt-3">
-                  <p class="text-gray-600 font-normal">AWS</p>
+                  <p class="text-gray-700 font-normal">AWS</p>
                   <p>
                     <a aria-label="go to aws website" href="https://aws.amazon.com/">aws.amazon.com</a>
                   </p>
@@ -162,7 +192,7 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Ceora Ford" src="/static/img/ceora.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-bold">Ceora Ford</p>
-                  <span class="text-gray-600 font-normal">
+                  <span class="text-gray-700 font-normal">
                     dev marketing <a aria-label="go to codesandbox" href="https://twitter.com/codesandbox">@codesandbox</a>, instructor <a aria-label="go to eggheadio" href="https://twitter.com/eggheadio">@eggheadio</a>, AWS + python + jamstack and AWS Community Builder
                   </span>
               </div>
@@ -173,7 +203,7 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Marcia Villalba" src="/static/img/marcia.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-bold">Marcia Villalba</p>
-                  <p class="text-gray-600 font-normal">
+                  <p class="text-gray-700 font-normal">
                     @AWSCloud Developer Avocado from Uruguay living in Finland.
                   </p>
               </div>
@@ -184,7 +214,7 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Matt Coulter" src="/static/img/matt.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-bold">Matt Coulter</p>
-                  <span class="text-gray-600 font-normal">
+                  <span class="text-gray-700 font-normal">
                     Architect in Liberty IT &amp; AWS DevTools Hero. I love community sharing so I started CDK Day and created <a aria-label="go to cdkpatterns.com" href="https://cdkpatterns.com">cdkpatterns.com</a>
                   </span>
               </div>
@@ -195,7 +225,7 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Matt Bonig" src="/static/img/mattb.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-bold">Matthew Bonig</p>
-                  <span class="text-gray-600 font-normal">
+                  <span class="text-gray-700 font-normal">
                     AWS Data Hero and creator of the <a aria-label="go to open construct foundation page" href="https://openconstructfoundation.org">Open Construct Foundation</a>
                   </span>
               </div>
@@ -206,7 +236,7 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Mirabela" src="/static/img/mirabela.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-bold">Mirabela Dan</p>
-                  <span class="text-gray-600 font-normal">
+                  <span class="text-gray-700 font-normal">
                     Startup SA @awscloud. Tech enthusiast, traveller, language nerd & former accountant. Here to enhance my learning. She/her.
                   </span>
               </div>
@@ -217,7 +247,7 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Sathyajith " src="/static/img/sathyajith.png">
               <div class="pt-3">
                   <p class="text-gray-800 font-bold">Sathyajith Bhat</p>
-                  <span class="text-gray-600 font-normal">
+                  <span class="text-gray-700 font-normal">
                     Author: Practical Docker With Python. AWS Community Hero. 2x Mod, <a aria-label="go to StackExchange" href="https://twitter.com/StackExchange">@StackExchange</a>. DevOps <a aria-label="go to AdobeIO" href="https://twitter.com/AdobeIO">@AdobeIO</a>, hubster to @joshenoy, Gamer. Runs @AWSUGBLR & @BarcampBNG
                   </span>
               </div>
@@ -228,7 +258,7 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Sebastian Korfmann" src="/static/img/sebastian.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-bold">Sebastian Korfmann</p>
-                  <span class="text-gray-600 font-normal">
+                  <span class="text-gray-700 font-normal">
                     AWS DevTools Hero building Terraform CDK  <a aria-label="go to Hashicorp" href="https://twitter.com/HashiCorp">@HashiCorp</a>
                   </span>
               </div>
@@ -239,7 +269,7 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Mirabela" src="/static/img/tatenda.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-bold">Tatenda Gibson</p>
-                  <span class="text-gray-600 font-normal">
+                  <span class="text-gray-700 font-normal">
                     Proud Christian. Figuring it out as I go. AWS Community Builder #serverless
                   </span>
               </div>
@@ -250,7 +280,7 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Thorsten Hoeger" src="/static/img/thorsten.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-bold">Thorsten Hoeger</p>
-                  <span class="text-gray-600 font-normal">
+                  <span class="text-gray-700 font-normal">
                     Cloud Evangelist, CEO <a aria-label="link to Taimos" href="https://twitter.com/taimosgmbh">@Taimos GmbH</a> and AWS DevTools Hero
                   </span>
               </div>
@@ -261,7 +291,7 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Veliswa Boya" src="/static/img/veliswa.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-bold">Veliswa Boya</p>
-                  <span class="text-gray-600 font-normal">
+                  <span class="text-gray-700 font-normal">
                     Snr Developer Advocate EMEA @awscloud, former AWS Hero, <a aria-label="link to Mdantsane on wikipedia" href="https://en.wikipedia.org/wiki/Mdantsane">Mdantsane</a> born & raised, runner, mentor.
                   </span>
               </div>
@@ -272,7 +302,7 @@ A small group of community members from across the globe thought this was someth
               <img class="hover:grow hover:shadow-lg border" alt="Sathyajith " src="/static/img/zenzi.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-bold">Zenzi Ali</p>
-                  <span class="text-gray-600 font-normal">
+                  <span class="text-gray-700 font-normal">
                     Full stack developer
                   </span>
               </div>

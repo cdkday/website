@@ -7,6 +7,7 @@ eleventyNavigation:
   key: COC
   order: 1
 ---
+<div class="container main-container bg-white w-full mx-auto mb-12 px-8 md:px-16 pt-12 pb-16 rounded-corners">
 <p>
     The CDK Day Conference is a community event intended to provide learning opportunities for all users of the CDK and related libraries.
 </p>
@@ -16,6 +17,8 @@ eleventyNavigation:
 <p class="mt-6">
     To make clear what is expected, all attendees, speakers, organizers, and volunteers are required to conform to the following Code of Conduct.
 </p>
+</div>
+<div class="container main-container bg-white w-full mx-auto mb-12 px-8 md:px-16 pt-6 pb-16 rounded-corners">
 <p class="mt-6 mb-6 text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl">
     Code of Conduct:
 </p>
@@ -62,3 +65,4 @@ eleventyNavigation:
 <p class="mt-6">
     Thank you for helping to make this a welcoming, friendly space for all.
 </p>
+</div>
