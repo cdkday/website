@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: CDK Day 2020 - September 30th
+title: CDK Day - New Event Coming 2021
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
