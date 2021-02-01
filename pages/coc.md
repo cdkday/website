@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: Code of Conduct - CDK Day 2020 - September 30th
+title: Code of Conduct - CDK Day
 date: 2016-01-01T00:00:00.000Z
 permalink: /coc/index.html
 eleventyNavigation:

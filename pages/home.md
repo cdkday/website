@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: CDK Day - New Event Coming 2021
+title: CDK Day - 30th April 2021 - CFP Open Now!!!
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 0
 ---
 <div class="container bg-blue main-container w-5/6 mx-auto px-8 md:px-16 pb-4 pt-0 rounded-corners">
-<h1 class="text-xl md:text-3xl mt-2 mb-12 tracking-wide font-bold">A Cloud Development Kit (CDK) is a developer tool built on the open souce Constructs model. We now have multiple CDKs: </h1>
+<h1 class="text-xl md:text-3xl mt-2 mb-12 tracking-wide font-bold">A Cloud Development Kit (CDK) is a developer tool built on the open source Constructs model. We now have multiple CDKs: </h1>
 
 <section id="products" class="mt-8 mb-6 bg-yellow rounded-corners">
   <main class="flex flex-wrap">
@@ -37,13 +37,13 @@ eleventyNavigation:
 <div class="text-xl md:text-2xl mt-12">
 A small group of community members from across the globe thought this was something worth celebrating so we are going to take one day and showcase the brightest and best of CDK from across the whole product family. Let's talk serverless, kubernetes and multi cloud all in the same day!
 
-<p class="mt-6 mb-8">Our first 2021 event is currently being planned, so check back soon!</p>
+<p class="mt-6 mb-8">Do you want to present? We'd love you to, <a class="dark-link" href="https://sessionize.com/cdkday/">our CFP</a> is open until 19th March 2021</p>
 </div>
 </div>
 <div class="bg-white">
 <div class="container main-container bg-white w-full mx-auto mb-12 px-8 md:px-16 pb-16">
 
-<section id="viewing" class="mt-10">
+<section id="cdkday-description" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-6 py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
@@ -74,7 +74,7 @@ A small group of community members from across the globe thought this was someth
   </main>
 </section>
 
-<section id="viewing" class="mt-10">
+<section id="presenting" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-6 py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
@@ -84,7 +84,7 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main>
     <p class="mb-6">
-        We will be launching a CFP in the next few weeks so please check back regularly or follow <a href="https://twitter.com/cdkday">@cdkday</a> on Twitter
+        Our CFP is open until 19th March 2021, so please head on over to <a href="https://sessionize.com/cdkday/">Sessionize</a> and submit your creative talk ideas
     </p>
   </main>
 </section>
@@ -108,7 +108,7 @@ A small group of community members from across the globe thought this was someth
 
 
 
-<section id="committee" class="mt-8">
+<section id="coc" class="mt-8">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-0 py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
@@ -127,7 +127,7 @@ A small group of community members from across the globe thought this was someth
   </header>
 </section>
 
-<section id="committee" class="mt-8">
+<section id="sponsors" class="mt-8">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-0 py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">

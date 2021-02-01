@@ -63,6 +63,17 @@ a {
     color: #2b6bfd;
 }
 
+a.dark-link {
+    color: #ffc330;
+    font-weight: bold;
+}
+
+a.dark-link:hover {
+    color: #2b6bfd;
+    background: #fff;
+    border-radius: 5px;
+}
+
 .youtube {
     position: relative;
     overflow: hidden;
