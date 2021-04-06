@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: CDK Day - 30th April 2021 - CFP Open Now!!!
+title: CDK Day - 30th April 2021 - Tickets Available Now!!!
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
