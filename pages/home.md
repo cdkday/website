@@ -478,24 +478,24 @@ A small group of community members from across the globe thought this was someth
         <p class="pt-3 text-gray-800 font-bold">
             Advanced Level
         </p>
-        <a aria-label="go to Joshua's speaker profile" href="https://sessionize.com/josh-brenneman">
-            <div class="flex flex-wrap mt-6">
-                <img class="hover:grow hover:shadow-lg border  w-1/2 md:w-1/3" alt="Joshua Brenneman" src="/static/img/2021_04/Joshua_Brenneman.jpg">
-                <img class="hover:grow hover:shadow-lg border w-1/2 md:w-1/3" alt="Kyle Voytovich" src="/static/img/2021_04/Kyle_Voytovich.jpg">
-            </div>
-            <div class="pt-3">
-                <p class="text-gray-800 font-bold">Joshua Brenneman</p>
-                <p class="text-gray-700 font-normal">
-                Nationwide Children's Hospital - The Institute of Genomic Medicine - Bioinformatics Software Developer
-                </p>
-            </div>
-            <div class="pt-3">
-                <p class="text-gray-800 font-bold">Kyle Voytovich</p>
-                <p class="text-gray-700 font-normal">
-                DevOps Engineer, Institute for Genomic Medicine, Nationwide Children's Hospital
-                </p>
-            </div>
-        </a>
+        <div class="w-full flex flex-wrap mt-6">
+            <a aria-label="go to Joshua's speaker profile" href="https://sessionize.com/josh-brenneman" class="w-1/2 md:w-1/3">
+                <img class="hover:grow hover:shadow-lg border" alt="Joshua Brenneman" src="/static/img/2021_04/Joshua_Brenneman.jpg">
+            </a>
+            <img class="border w-1/2 md:w-1/3 pr-3" alt="Kyle Voytovich" src="/static/img/2021_04/Kyle_Voytovich.jpg">
+        </div>
+        <div class="pt-3">
+            <p class="text-gray-800 font-bold">Joshua Brenneman</p>
+            <p class="text-gray-700 font-normal">
+            Nationwide Children's Hospital - The Institute of Genomic Medicine - Bioinformatics Software Developer
+            </p>
+        </div>
+        <div class="pt-3">
+            <p class="text-gray-800 font-bold">Kyle Voytovich</p>
+            <p class="text-gray-700 font-normal">
+            DevOps Engineer, Institute for Genomic Medicine, Nationwide Children's Hospital
+            </p>
+        </div>
     </div>
     <div class="w-full md:w-full lg:w-1/2 xl:w-1/2 p-6 flex flex-col">
         <div>
