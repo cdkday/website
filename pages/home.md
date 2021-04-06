@@ -83,7 +83,7 @@ A small group of community members from across the globe thought this was someth
   <main class="flex flex-wrap">
     <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col hidden md:block">
         <a aria-label="go to Darko's Twitter page" href="https://twitter.com/darkosubotica" style="max-height:250px; overflow: hidden;">
-            <img class="hover:grow hover:shadow-lg border" alt="Darko Mesaroš" src="/static/img/2021_04/Darko_Mesaros.jpeg">
+            <img class="hover:grow hover:shadow-lg border mt-3" alt="Darko Mesaroš" src="/static/img/2021_04/Darko_Mesaros.jpeg">
         </a>
     </div>
     <div class="w-full md:w-2/3 lg:w-3/4 xl:w-3/4 p-6 flex flex-col">
@@ -110,7 +110,7 @@ A small group of community members from across the globe thought this was someth
     </div>
     <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col hidden md:block">
         <a aria-label="go to Eric's Twitter page" href="https://twitter.com/edjgeek">
-            <img class="hover:grow hover:shadow-lg border" alt="Eric Johnson" src="/static/img/2021_04/Eric_Johnson.png">
+            <img class="hover:grow hover:shadow-lg border mt-3" alt="Eric Johnson" src="/static/img/2021_04/Eric_Johnson.png">
         </a>
     </div>
     <div class="w-full md:w-2/3 lg:w-3/4 xl:w-3/4 p-6 flex flex-col">
@@ -137,7 +137,7 @@ A small group of community members from across the globe thought this was someth
     </div>
     <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col hidden md:block">
         <a aria-label="go to Elad's Twitter page" href="https://twitter.com/emeshbi">
-            <img class="hover:grow hover:shadow-lg border w-full" alt="Elad Ben Israel" src="/static/img/2021_04/Elad_Ben_Israel.jpg">
+            <img class="hover:grow hover:shadow-lg border w-full mt-3" alt="Elad Ben Israel" src="/static/img/2021_04/Elad_Ben_Israel.jpg">
         </a>
     </div>
     <div class="w-full md:w-2/3 lg:w-3/4 xl:w-3/4 p-6 flex flex-col">
@@ -164,7 +164,7 @@ A small group of community members from across the globe thought this was someth
     </div>
     <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col hidden md:block">
         <a aria-label="go to Natalia's twitter" href="https://twitter.com/Molly__Millions">
-            <img class="hover:grow hover:shadow-lg border w-full" alt="Natalia Marek" src="/static/img/2021_04/Natalia_Marek.jpeg">
+            <img class="hover:grow hover:shadow-lg border w-full mt-3" alt="Natalia Marek" src="/static/img/2021_04/Natalia_Marek.jpeg">
         </a>
     </div>
     <div class="w-full md:w-2/3 lg:w-3/4 xl:w-3/4 p-6 flex flex-col">
@@ -193,7 +193,7 @@ A small group of community members from across the globe thought this was someth
     </div>
     <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col hidden md:block">
         <a aria-label="go to Ansgar's Twitter page" href="https://twitter.com/amrtns">
-            <img class="hover:grow hover:shadow-lg border" alt="Ansgar Mertens" src="/static/img/2021_04/Ansgar_Mertens.jpg">
+            <img class="hover:grow hover:shadow-lg border mt-3" alt="Ansgar Mertens" src="/static/img/2021_04/Ansgar_Mertens.jpg">
         </a>
     </div>
     <div class="w-full md:w-2/3 lg:w-3/4 xl:w-3/4 p-6 flex flex-col">
@@ -208,7 +208,7 @@ A small group of community members from across the globe thought this was someth
         </p>
         <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 pt-6 flex flex-col block md:hidden">
             <a aria-label="go to Ansgar's Twitter page" href="https://twitter.com/amrtns">
-                <img class="hover:grow hover:shadow-lg border w-1/2" alt="Ansgar Mertens" src="/static/img/2021_04/Ansgar_Mertens.jpg">
+                <img class="hover:grow hover:shadow-lg border w-1/2 mt-3" alt="Ansgar Mertens" src="/static/img/2021_04/Ansgar_Mertens.jpg">
             </a>
         </div>
         <div class="pt-6">
@@ -219,7 +219,7 @@ A small group of community members from across the globe thought this was someth
         </div>
     </div>
     <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col hidden md:block">
-        <div class="flex flex-wrap">
+        <div class="flex flex-wrap mt-3">
             <a aria-label="go to Greg's blog" href="https://gregbomkamp.dev/" class="w-1/2" style="max-height:200px; overflow: hidden;">
                 <img class="hover:grow hover:shadow-lg border w-full" alt="Greg Bomkamp" src="/static/img/2021_04/Greg_Bomkamp.jpg">
             </a>
@@ -275,7 +275,7 @@ A small group of community members from across the globe thought this was someth
     </div>
     <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col hidden md:block">
         <a aria-label="go to Ben's Twitter page" href="https://twitter.com/benbridts">
-            <img class="hover:grow hover:shadow-lg border" alt="Ben Bridts" src="/static/img/2021_04/Ben_Bridts.jpg">
+            <img class="hover:grow hover:shadow-lg border mt-3" alt="Ben Bridts" src="/static/img/2021_04/Ben_Bridts.jpg">
         </a>
     </div>
     <div class="w-full md:w-2/3 lg:w-3/4 xl:w-3/4 p-6 flex flex-col">
@@ -302,7 +302,7 @@ A small group of community members from across the globe thought this was someth
     </div>
     <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col hidden md:block">
         <a aria-label="go to Nočnica's twitter" href="https://twitter.com/ServerlessMom">
-            <img class="hover:grow hover:shadow-lg border w-full" alt="Nočnica Fee" src="/static/img/2021_04/Nocnica_Fee.jpg">
+            <img class="hover:grow hover:shadow-lg border w-full mt-3" alt="Nočnica Fee" src="/static/img/2021_04/Nocnica_Fee.jpg">
         </a>
     </div>
     <div class="w-full md:w-2/3 lg:w-3/4 xl:w-3/4 p-6 flex flex-col">
