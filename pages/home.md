@@ -418,7 +418,7 @@ A small group of community members from across the globe thought this was someth
         <p class="pt-3 text-gray-800 font-bold">
             Introductory and Overview Level
         </p>
-        <a aria-label="go to Max's twitter" href="https://twitter.com/__brennerms">
+        <a aria-label="go to Max's twitter" href="https://twitter.com/__brennerm">
             <img class="hover:grow hover:shadow-lg border w-1/2 md:w-1/3 mt-6" alt="Max Brenner" src="/static/img/2021_04/Max_Brenner.jpg">
             <div class="pt-3">
                 <p class="text-gray-800 font-bold">Max Brenner</p>
