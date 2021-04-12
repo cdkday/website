@@ -229,6 +229,9 @@ A small group of community members from across the globe thought this was someth
             <a aria-label="go to Rajesh's twitter" href="https://twitter.com/rajeshporaiyan" style="max-height:220px; overflow: hidden;" class="w-1/2">
                 <img class="hover:grow hover:shadow-lg border w-full" alt="Rajesh Poraiyan" src="/static/img/2021_04/rajesh.jfif">
             </a>
+            <a aria-label="go to Mark's twitter" href="https://twitter.com/MarkMcCann" style="max-height:220px; overflow: hidden;" class="w-1/2">
+                <img class="hover:grow hover:shadow-lg border w-full" alt="Mark McCann" src="/static/img/2021_04/mark_mccann.png">
+            </a>
         </div>
     </div>
     <div class="w-full md:w-2/3 lg:w-3/4 xl:w-3/4 p-6 flex flex-col">
@@ -243,14 +246,17 @@ A small group of community members from across the globe thought this was someth
         </p>
         <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 pt-6 flex flex-col block md:hidden">
             <div class="flex flex-wrap">
-                <a aria-label="go to Greg's blog" href="https://gregbomkamp.dev/" class="w-1/3" style="max-height:200px; overflow: hidden;">
+                <a aria-label="go to Greg's blog" href="https://gregbomkamp.dev/" class="w-1/4" style="max-height:200px; overflow: hidden;">
                     <img class="hover:grow hover:shadow-lg border w-full" alt="Greg Bomkamp" src="/static/img/2021_04/Greg_Bomkamp.jpg">
                 </a>
-                <div style="max-height:200px;" class="w-1/3">
+                <div style="max-height:200px;" class="w-1/4">
                     <img class="hover:grow hover:shadow-lg border w-full" alt="Nick Manuel" src="/static/img/2021_04/Nick_Manuel.jpg">
                 </div>
-                <a aria-label="go to Rajesh's twitter" href="https://twitter.com/rajeshporaiyan" style="max-height:220px; overflow: hidden;" class="w-1/3">
+                <a aria-label="go to Rajesh's twitter" href="https://twitter.com/rajeshporaiyan" style="max-height:220px; overflow: hidden;" class="w-1/4">
                     <img class="hover:grow hover:shadow-lg border w-full" alt="Rajesh Poraiyan" src="/static/img/2021_04/rajesh.jfif">
+                </a>
+                <a aria-label="go to Mark's twitter" href="https://twitter.com/MarkMcCann" style="max-height:220px; overflow: hidden;" class="w-1/4">
+                    <img class="hover:grow hover:shadow-lg border w-full" alt="Mark McCann" src="/static/img/2021_04/mark_mccann.png">
                 </a>
             </div>
         </div>
@@ -270,6 +276,12 @@ A small group of community members from across the globe thought this was someth
             <p class="text-gray-800 font-bold">Rajesh Poraiyan</p>
             <p class="text-gray-700 font-normal">
                 Liberty Mutual, Senior Architect
+            </p>
+        </div>
+        <div class="pt-2">
+            <p class="text-gray-800 font-bold">Mark McCann</p>
+            <p class="text-gray-700 font-normal">
+                Liberty IT, Senior Architect
             </p>
         </div>
     </div>
