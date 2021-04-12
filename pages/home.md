@@ -173,7 +173,7 @@ A small group of community members from across the globe thought this was someth
             <p class="text-gray-700 font-normal">
                 In my talk I will go over two ways of deployment and development of React and Next JS applications:<br />
                 1) Using CDK patterns<br />
-                2) Using Amplify for front end and AWS CDK for the front end; and demonstrate one of them.
+                2) Using Amplify for front end and AWS CDK for the back end; and demonstrate one of them.
             </p>
         </div>
         <p class="pt-3 font-bold">
