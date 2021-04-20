@@ -10,7 +10,7 @@ eleventyNavigation:
 <div class="container bg-blue main-container w-5/6 mx-auto px-8 md:px-16 pb-4 pt-0 rounded-corners">
     <h2 class="text-xl md:text-3xl mt-2 mb-12 tracking-wide font-bold">How To Watch CDK Day</h2>
     <p class="mb-6">
-        We will have two tracks, both on YouTube as separate streams. You need to check the schedule to know which stream you want to watch at which time but here are both streams embedded to make them easy to find:
+        We will have two tracks, both on YouTube as separate streams. You need to check the schedule further down this page to know which stream you want to watch at which time but here are both streams embedded to make them easy to find:
     </P>
     <section class="w-full">
         <div class="flex flex-wrap">
