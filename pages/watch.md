@@ -8,21 +8,21 @@ eleventyNavigation:
   order: 1
 ---
 <div class="container bg-blue main-container w-5/6 mx-auto px-8 md:px-16 pb-4 pt-0 rounded-corners">
-    <h2 class="text-xl md:text-3xl mt-2 mb-4 tracking-wide font-bold">How To Watch CDK Day</h2>
+    <h2 class="text-3xl mt-2 mb-4 tracking-wide font-bold">How To Watch CDK Day</h2>
     <p class="mb-6">
         We will have two tracks, both on YouTube as separate streams. You need to check the schedule further down this page to know which stream you want to watch at which time but here are both streams embedded to make them easy to find:
     </P>
     <section class="w-full">
         <div class="flex flex-wrap">
             <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 ">
-                Track 1
-                <div class="youtube p-3">
+                <h3 class="text-2xl font-bold mb-3">Track 1</h3>
+                <div class="youtube p-3" style="width:90%">
                     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/IUxwXVXtEnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
-            <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 ">
-                Track 2
-                <div class="youtube p-3">
+            <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 mt-6 md:mt-0">
+                <h3 class="text-2xl font-bold mb-3">Track 2</h3>
+                <div class="youtube p-3" style="width:90%">
                     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/5p2QfolwP7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
