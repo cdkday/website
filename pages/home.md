@@ -43,6 +43,21 @@ A small group of community members from across the globe thought this was someth
 <div class="bg-white">
 <div class="container main-container bg-white w-full mx-auto mb-12 px-8 md:px-16 pb-16">
 
+<section id="watch" class="mt-10">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="mt-6 py-3">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
+              How To Watch
+          </p>
+      </div>
+  </header>
+  <main>
+    <p class="mb-6">
+        The event will be streamed to two YouTube streams, one per track. To find out more details including how to interact with other attendees on the day, head on over to our dedicated <a href="watch">watch page</a>
+    </p>
+  </main>
+</section>
+
 <section id="schedule" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-6 py-3">

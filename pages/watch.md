@@ -31,7 +31,32 @@ eleventyNavigation:
 </div>
 <div class="bg-white">
 <div class="container main-container bg-white w-full mx-auto mb-12 px-8 md:px-16 pb-16">
-<section id="schedule" class="mt-10">
+<section id="interaction" class="mt-10">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="mt-6 py-3">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
+              Interacting With Other Attendees
+          </p>
+      </div>
+  </header>
+  <main>
+    <p class="mb-6">
+        There are three ways to engage with the community:
+    </p>
+    <ul class="list-unstyled">
+        <li>
+            <span class="font-bold">1.</span> There will be an experimental hallway track using wonder.me, allowing you to see and speak with each other. Details will be released closer to the event.
+        </li>
+        <li>
+            <span class="font-bold">2.</span> Join the <a href="https://join.slack.com/t/cdk-dev/shared_invite/zt-mso6p56d-qJp7SOTBvMaQuDrx7R2wHg">cdk.dev</a> slack channel and chat there
+        </li>
+        <li>
+            <span class="font-bold">3.</span> Follow and interact with <a href="https://www.twitter.com/cdkday">@cdkday</a> on Twitter
+        </li>
+    </ul>
+  </main>
+</section>
+<section id="schedule">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-6 py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
