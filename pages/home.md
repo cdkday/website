@@ -390,7 +390,7 @@ A small group of community members from across the globe thought this was someth
             <div class="pt-3">
                 <p class="text-gray-800 font-bold">Oksana Horlock</p>
                 <p class="text-gray-700 font-normal">
-                Software Developer at 67Bricks
+                Software Developer at 67 Bricks
                 </p>
             </div>
         </a>
