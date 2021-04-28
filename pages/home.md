@@ -714,6 +714,15 @@ A small group of community members from across the globe thought this was someth
       </div>
   </header>
   <main class="flex flex-wrap">
+    <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
+            <img class="hover:grow hover:shadow-lg border" alt="Ignacio Riesgo" src="/static/img/ignacio.png">
+            <div class="pt-3">
+                <p class="text-gray-800 font-bold">Ignacio Riesgo</p>
+                <p class="text-gray-700 font-normal">
+                Head of Kubernetes Product Marketing, AWS
+                </p>
+            </div>
+      </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
           <a aria-label="go to Marcia's Twitter page" href="https://twitter.com/mavi888uy">
               <img class="hover:grow hover:shadow-lg border" alt="Marcia Villalba" src="/static/img/marcia.jpg">
