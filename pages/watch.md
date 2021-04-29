@@ -45,10 +45,10 @@ eleventyNavigation:
     </p>
     <ul class="list-unstyled">
         <li>
-            <span class="font-bold">1.</span> There will be an experimental hallway track using wonder.me, allowing you to see and speak with each other. Details will be released closer to the event.
+            <span class="font-bold">2.</span> Join the <a href="https://join.slack.com/t/cdk-dev/shared_invite/zt-mso6p56d-qJp7SOTBvMaQuDrx7R2wHg">cdk.dev</a> slack where there are two channels "cdkday-track1" and "cdkday-track2". Use these channels to chat via text about what is on screen in each track.
         </li>
         <li>
-            <span class="font-bold">2.</span> Join the <a href="https://join.slack.com/t/cdk-dev/shared_invite/zt-mso6p56d-qJp7SOTBvMaQuDrx7R2wHg">cdk.dev</a> slack channel and chat there
+            <span class="font-bold">1.</span> wonder.me will be setup as a hallway allowing attendees to chat through voice and video like an in person event
         </li>
         <li>
             <span class="font-bold">3.</span> Follow and interact with <a href="https://www.twitter.com/cdkday">@cdkday</a> on Twitter
