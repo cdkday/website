@@ -54,6 +54,14 @@ eleventyNavigation:
             <span class="font-bold">3.</span> Follow and interact with <a href="https://www.twitter.com/cdkday">@cdkday</a> on Twitter
         </li>
     </ul>
+    <p class="text-2xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl mt-6">
+        Instructions for using wonder.me
+    </p>
+    <div class="flex flex-wrap w-full md:w-1/2 lg:w-1/2 xl:w-1/2">
+        <div class="youtube">
+            <iframe class="responsive-iframe" src="https://www.youtube.com/embed/lECURu_W16A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
   </main>
 </section>
 <section id="schedule">
