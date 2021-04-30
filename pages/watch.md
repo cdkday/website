@@ -16,17 +16,15 @@ eleventyNavigation:
         <div class="flex flex-wrap">
             <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 ">
                 <h3 class="text-2xl font-bold mb-3">Track 1</h3>
-                <a href="https://www.youtube.com/watch?v=IUxwXVXtEnw" class="dark-link ">Open on YouTube</a>
-                <!--<div class="youtube p-3" style="width:90%">
+                <div class="youtube p-3" style="width:90%">
                     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/IUxwXVXtEnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>-->
+                </div>
             </div>
             <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 mt-6 md:mt-0">
                 <h3 class="text-2xl font-bold mb-3">Track 2</h3>
-                <a href="https://www.youtube.com/watch?v=5p2QfolwP7U" class="dark-link ">Open on YouTube</a>
-                <!--<div class="youtube p-3" style="width:90%">
+                <div class="youtube p-3" style="width:90%">
                     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/5p2QfolwP7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>-->
+                </div>
             </div>
         </div>
     </section>
