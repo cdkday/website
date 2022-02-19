@@ -282,7 +282,7 @@ A small group of community members from across the globe thought this was someth
             <img class="hover:grow hover:shadow-lg border" alt="Ibrahim Cesar" src="/static/img/2022_05/ibrahim.jpg">
             <div class="pt-3">
                 <p class="text-gray-800 font-bold">Ibrahim Cesar</p>
-                <p class="text-gray-700 font-normal">
+                <p class="text-gray-700 font-normal" style="overflow-wrap: break-word;">
                     λ Solutions Architect iStudio Modern Applications @compassuol #AWSCommunityBuilder /ɪ́brəhɪjm/ Opiniões apenas minhas pt-br / en (Ele/dele He/him)
                 </p>
             </div>
