@@ -239,7 +239,7 @@ A small group of community members from across the globe thought this was someth
             <div class="pt-3">
                 <p class="text-gray-800 font-bold">Andra Glavan</p>
                 <p class="text-gray-700 font-normal">
-                    AWS Community Builder
+                    AWS Community Builder, ServerlessDays Amsterdam volunteer. I love the community & the outdoor. Snowboarder
                 </p>
             </div>
         </a>
