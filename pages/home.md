@@ -250,7 +250,7 @@ A small group of community members from across the globe thought this was someth
             <div class="pt-3">
                 <p class="text-gray-800 font-bold">Emma Moinat</p>
                 <p class="text-gray-700 font-normal">
-                    Software developing, volleyball playing, Jesus follower.
+                    Software Engineer <a aria-label="link to Instil" href="https://twitter.com/instil">@Instil</a> | Switzerland Based
                 </p>
             </div>
         </a>
