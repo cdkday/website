@@ -344,12 +344,12 @@ A small group of community members from across the globe thought this was someth
           </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to Sathyajith's Twitter page" href="https://twitter.com/Taity__m">
+          <a aria-label="go to Sathyajith's Twitter page" href="https://twitter.com/sathyabhat">
               <img class="hover:grow hover:shadow-lg border" alt="Sathyajith " src="/static/img/sathyajith.png">
               <div class="pt-3">
                   <p class="text-gray-800 font-bold">Sathyajith Bhat</p>
                   <span class="text-gray-700 font-normal">
-                    Author: Practical Docker With Python. AWS Community Hero. 2x Mod, <a aria-label="go to StackExchange" href="https://twitter.com/StackExchange">@StackExchange</a>. DevOps <a aria-label="go to AdobeIO" href="https://twitter.com/AdobeIO">@AdobeIO</a>, hubster to @joshenoy, Gamer. Runs @AWSUGBLR & @BarcampBNG
+                    SRE, AWS Community Hero, author of Practical Docker with Python, co-author of The CDK Book, gamer and streamer.
                   </span>
               </div>
           </a>
