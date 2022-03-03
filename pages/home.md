@@ -249,9 +249,11 @@ A small group of community members from across the globe thought this was someth
             <img class="hover:grow hover:shadow-lg border" alt="Emma Moinat" src="/static/img/2022_05/emma.jfif">
             <div class="pt-3">
                 <p class="text-gray-800 font-bold">Emma Moinat</p>
-                <p class="text-gray-700 font-normal">
-                    Software Engineer <a aria-label="link to Instil" href="https://twitter.com/instil">@Instil</a> | Switzerland Based
-                </p>
+                <span class="text-gray-700 font-normal">
+                  <p class="text-gray-700 font-normal">
+                      Software Engineer <a aria-label="link to Instil" href="https://twitter.com/instil">@Instil</a> | Switzerland Based
+                  </p>
+              </span>
             </div>
         </a>
       </div>
