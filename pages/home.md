@@ -37,7 +37,7 @@ eleventyNavigation:
 <div class="text-xl md:text-2xl mt-12">
 A small group of community members from across the globe thought this was something worth celebrating so we are going to take one day and showcase the brightest and best of CDK from across the whole product family. Let's talk serverless, kubernetes and multi cloud all in the same day!
 
-<p class="mt-6 mb-8">Do you want to attend? We'd love you to, <!--<a class="dark-link" href="https://www.eventbrite.com/e/cdk-day-tickets-145072211891">Tickets</a>-->tickets will be free</p>
+<p class="mt-6 mb-8">Do you want to attend? We'd love you to, <a class="dark-link" href="https://www.eventbrite.com/e/cdk-day-2022-tickets-292561628707">Tickets</a> are free</p>
 </div>
 </div>
 <div class="bg-white">
@@ -68,7 +68,7 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main>
     <p class="mb-6">
-        We will be running a CFP process which will open on 9th March so stay tuned!!! Follow <a href="https://www.twitter.com/cdkday">@cdkday</a> on Twitter to stay up to date
+        The CFP process is open now! Visit <a href="https://sessionize.com/cdk-day-2022">Sessionize</a> to submit your talk proposal. The submissions process closes on 20th April 2022.
     </p>
   </main>
 </section>
