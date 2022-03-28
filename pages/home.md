@@ -256,17 +256,6 @@ A small group of community members from across the globe thought this was someth
         </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-          <a aria-label="go to Thorsten's Twitter page" href="https://twitter.com/hoegertn">
-              <img class="hover:grow hover:shadow-lg border" alt="Thorsten Hoeger" src="/static/img/thorsten.png">
-              <div class="pt-3">
-                  <p class="text-gray-800 font-bold">Thorsten Hoeger</p>
-                  <span class="text-gray-700 font-normal">
-                    Cloud Evangelist, CEO <a aria-label="link to Taimos" href="https://twitter.com/taimosgmbh">@Taimos GmbH</a> and AWS DevTools Hero
-                  </span>
-              </div>
-          </a>
-      </div>
-      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
         <a aria-label="go to Farrah's Twitter page" href="https://twitter.com/FarrahC32">
             <img class="hover:grow hover:shadow-lg border" alt="Farrah Campbell" src="/static/img/2022_05/farrah.jpg">
             <div class="pt-3">
