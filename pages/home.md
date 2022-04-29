@@ -234,10 +234,10 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main class="flex flex-wrap">
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-        <a aria-label="go to Andra's Twitter page" href="https://twitter.com/AndraGlavan">
+        <a aria-label="go to Andra's Twitter page" href="https://twitter.com/andrasomesan">
             <img class="hover:grow hover:shadow-lg border" alt="Farrah Campbell" src="/static/img/2022_05/andra.jpg">
             <div class="pt-3">
-                <p class="text-gray-800 font-bold">Andra Glavan</p>
+                <p class="text-gray-800 font-bold">Andra Somesan</p>
                 <p class="text-gray-700 font-normal">
                     AWS Community Builder, ServerlessDays Amsterdam volunteer. I love the community & the outdoor. Snowboarder
                 </p>
