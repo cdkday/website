@@ -68,7 +68,8 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main>
     <p class="mb-6">
-        The CFP process has now closed, if you have talk ideas please keep them in mind when CDK Day CFP opens next time
+        The CFP process has now closed, if you have talk ideas please keep them in mind for when the CDK Day CFP opens again. To stay informed for when the next
+        window opens please follow <a href="https://twitter.com/cdkday">@cdkday</a> on Twitter.
     </p>
   </main>
 </section>
