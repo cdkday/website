@@ -68,7 +68,7 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main>
     <p class="mb-6">
-        The CFP process is open now! Visit <a href="https://sessionize.com/cdk-day-2022">Sessionize</a> to submit your talk proposal. The submissions process closes on 20th April 2022.
+        The CFP process has now closed, if you have talk ideas please keep them in mind when CDK Day CFP opens next time
     </p>
   </main>
 </section>
