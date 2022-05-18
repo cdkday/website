@@ -74,7 +74,7 @@ A small group of community members from across the globe thought this was someth
   </main>
 </section>
 
-<!--<section id="schedule" class="mt-10">
+<section id="schedule" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-6 py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
@@ -84,15 +84,15 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main>
     <p class="mb-6">
-        This time we are running two parallel YouTube streams so that we can cram even more CDK goodness into a shorter overall event. We staggered the streams so that everyone can join for our opening and closing talks. The date and time shown below has been localised by sessionize to your time zone, on the off chance you think it is wrong the event kicks off at 2pm UTC on 30th April 2021.
+        This time we are running three parallel YouTube streams so that we can cram even more CDK goodness into a shorter overall event. We staggered the streams so that everyone can join for our opening keynote. The date and time shown below has been localised by sessionize to your time zone, on the off chance you think it is wrong the event kicks off at 2pm UTC on 26th May 2021.
     </p>
     <div class="flex flex-wrap">
         <div class="w-full">
-            <script type="text/javascript" src="https://sessionize.com/api/v2/xo992627/view/GridSmart"></script>
+            <script type="text/javascript" src="https://sessionize.com/api/v2/lqw50mq7/view/GridSmart"></script>
         </div>
     </div>
   </main>
-</section>-->
+</section>
 
 <section id="cdkday-description" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
