@@ -146,7 +146,7 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main>
     <p>
-        If you want to chat to real CDK users, then join the <a href="https://join.slack.com/t/cdk-dev/shared_invite/zt-mso6p56d-qJp7SOTBvMaQuDrx7R2wHg">cdk.dev slack space</a>. If you want to see working examples of AWS CDK, then check out <a href="https://www.cdkpatterns.com">CDK Patterns</a>. You can learn the history of CDK by reading <a href="https://aws.amazon.com/blogs/opensource/working-backwards-the-story-behind-the-aws-cloud-development-kit/">this AWS Open Source Blog post</a>
+        If you want to chat to real CDK users, then join the <a href="https://join.slack.com/t/cdk-dev/shared_invite/zt-xtpfmrqt-6ormYTA0hLdpMSAtTkM_2A">cdk.dev slack space</a>. If you want to see working examples of AWS CDK, then check out <a href="https://www.cdkpatterns.com">CDK Patterns</a>. You can learn the history of CDK by reading <a href="https://aws.amazon.com/blogs/opensource/working-backwards-the-story-behind-the-aws-cloud-development-kit/">this AWS Open Source Blog post</a>
     </p>
     <p class="mt-3">Alternatively, you can follow <a href="https://twitter.com/cdkday">@cdkday</a> on Twitter for the latest news about the next CDK Day.</p>
 
