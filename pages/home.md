@@ -55,6 +55,20 @@ A small group of community members from across the globe thought this was someth
     <p class="mb-6">
         CDK Day will take place on 26th May 2022 and will be fully virtual, live streamed to our <a href="https://www.youtube.com/c/CDKDay/featured">YouTube channel</a>
     </p>
+    <p>
+    Dedicated Track Links:
+    </p>
+    <ul>
+        <li>
+            <a href="https://www.youtube.com/watch?v=_kY7o3De_9A">Track One</a>
+        </li>
+        <li>
+            <a href="https://www.youtube.com/watch?v=Ey7bNVT4W1g">Track Two</a>
+        </li>
+        <li>
+            <a href="https://www.youtube.com/watch?v=s8tO-ymVQPg">Track Three</a>
+        </li>
+    <ul>
   </main>
 </section>
 
@@ -89,6 +103,26 @@ A small group of community members from across the globe thought this was someth
     <div class="flex flex-wrap">
         <div class="w-full">
             <script type="text/javascript" src="https://sessionize.com/api/v2/lqw50mq7/view/GridSmart"></script>
+        </div>
+    </div>
+  </main>
+</section>
+
+<section id="speakers" class="mt-10">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="mt-6 py-3">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
+              Speaker Wall
+          </p>
+      </div>
+  </header>
+  <main>
+    <p class="mb-6">
+        We have speakers from all over the world talking about AWS CDK, cdk8s, Projen and CDKTF.
+    </p>
+    <div class="flex flex-wrap">
+        <div class="w-full">
+            <script type="text/javascript" src="https://sessionize.com/api/v2/p94iuibz/view/SpeakerWall"></script>
         </div>
     </div>
   </main>
