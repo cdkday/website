@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: CDK Day - 26th May 2022 - Free Tickets Available Now!
+title: CDK Day - 29th September 2023 - CFP Opening Soon!!!
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
@@ -37,7 +37,7 @@ eleventyNavigation:
 <div class="text-xl md:text-2xl mt-12">
 A small group of community members from across the globe thought this was something worth celebrating so we are going to take one day and showcase the brightest and best of CDK from across the whole product family. Let's talk serverless, kubernetes and multi cloud all in the same day!
 
-<p class="mt-6 mb-8">Do you want to attend? We'd love you to, <a class="dark-link" href="https://www.eventbrite.com/e/cdk-day-2022-tickets-292561628707">Tickets</a> are free</p>
+<!--<p class="mt-6 mb-8">Do you want to attend? We'd love you to, <a class="dark-link" href="https://www.eventbrite.com/e/cdk-day-2022-tickets-292561628707">Tickets</a> are free</p>-->
 </div>
 </div>
 <div class="bg-white">
@@ -53,9 +53,9 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main>
     <p class="mb-6">
-        CDK Day will take place on 26th May 2022 and will be fully virtual, live streamed to our <a href="https://www.youtube.com/c/CDKDay/featured">YouTube channel</a>
+        CDK Day will take place on 29th September 2023 and will be fully virtual, live streamed to our <a href="https://www.youtube.com/c/CDKDay/featured">YouTube channel</a>
     </p>
-    <p>
+    <!--<p>
     Dedicated Track Links:
     </p>
     <ul>
@@ -68,7 +68,7 @@ A small group of community members from across the globe thought this was someth
         <li>
             <a href="https://www.youtube.com/watch?v=s8tO-ymVQPg">Track Three</a>
         </li>
-    <ul>
+    <ul>-->
   </main>
 </section>
 
@@ -82,13 +82,13 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main>
     <p class="mb-6">
-        The CFP process has now closed, if you have talk ideas please keep them in mind for when the CDK Day CFP opens again. To stay informed for when the next
+        The CFP process will be opening soon, if you have talk ideas please keep them in mind for when the CDK Day CFP opens. To stay informed for when the 
         window opens please follow <a href="https://twitter.com/cdkday">@cdkday</a> on Twitter.
     </p>
   </main>
 </section>
 
-<section id="schedule" class="mt-10">
+<!--<section id="schedule" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-6 py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
@@ -106,9 +106,9 @@ A small group of community members from across the globe thought this was someth
         </div>
     </div>
   </main>
-</section>
+</section>-->
 
-<section id="speakers" class="mt-10">
+<!--<section id="speakers" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-6 py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
@@ -126,7 +126,7 @@ A small group of community members from across the globe thought this was someth
         </div>
     </div>
   </main>
-</section>
+</section>-->
 
 <section id="cdkday-description" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
@@ -138,7 +138,7 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main>
     <p class="mb-6">
-        We want the whole event to be fun! Our first CDK Day took place in September 2020 with the second being April 2021. They were a mix of getting started sessions through to advanced topics from familiar faces as well as some new faces in the community.
+        We want the whole event to be fun! Our first CDK Day took place in September 2020 with the second being April 2021 followed by May 2022. They were a mix of getting started sessions through to advanced topics from familiar faces as well as some new faces in the community.
     </p>
     <p class="mb-6">
         Don't worry though, we still have all of the talks from the prior events
@@ -150,6 +150,9 @@ A small group of community members from across the globe thought this was someth
         <li>
             <a href="2021">Browse CDK Day 2021 Rewind</a>
         </li>
+        <li>
+            <a href="2022">Browse CDK Day 2022 Rewind</a>
+        </li>
     </ul>
     <div class="flex flex-wrap">
         <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 ">
@@ -160,10 +163,10 @@ A small group of community members from across the globe thought this was someth
         </div>
         <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 ">
             <p class="mt-3 mb-3">
-                Here is the first track from 2021:
+                Here is the first track from 2022:
             </p>
             <div class="youtube p-3">
-                <iframe class="responsive-iframe" title="CDK Day 2020 Video" src="https://www.youtube.com/embed/IUxwXVXtEnw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe class="responsive-iframe" title="CDK Day 2020 Video" src="https://www.youtube.com/embed/_kY7o3De_9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </div>
