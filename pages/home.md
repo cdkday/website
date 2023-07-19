@@ -82,8 +82,7 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main>
     <p class="mb-6">
-        The CFP process will be opening soon, if you have talk ideas please keep them in mind for when the CDK Day CFP opens. To stay informed for when the 
-        window opens please follow <a href="https://twitter.com/cdkday">@cdkday</a> on Twitter.
+        The CFP process is closing soon so please be quick and submit your talks by 31st July 2023 <a href="https://sessionize.com/cdk-day-2023/">here</a>
     </p>
   </main>
 </section>
