@@ -109,4 +109,14 @@ eleventyNavigation:
         </li>
     </ul>
 </p>
+
+<p class="mt-6 mb-6 text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl">
+    Recording Tools
+</p>
+<p class="mt-6">
+    You can use any recording tool that works best for you but if you have never used one before and don't know where to start then:
+    <br /><br />
+   - On a mac, Quicktime is built in and has recording capabilities<br />
+   - On windows, Zoom allows you to record
+</p>
 </div>
