@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: CDK Day - 29th September 2023 - CFP Opening Soon!!!
+title: CDK Day - 29th September 2023 - Tickets Opening Soon!!!
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
@@ -82,7 +82,7 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main>
     <p class="mb-6">
-        The CFP process is closing soon so please be quick and submit your talks by 31st July 2023 <a href="https://sessionize.com/cdk-day-2023/">here</a>
+        The CFP process is now closed so unfortunately we are no longer accepting talk submissions but please do keep us in mind for next year.
     </p>
   </main>
 </section>
