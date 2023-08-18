@@ -2,9 +2,9 @@
 layout: layouts/home.njk
 title: CDK Day - Recorded Talk Standards
 date: 2016-01-01T00:00:00.000Z
-permalink: /recording-standards/index.html
+permalink: /standards/index.html
 eleventyNavigation:
-  key: recording-standards
+  key: standards
   order: 1
 ---
 
