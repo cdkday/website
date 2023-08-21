@@ -119,4 +119,18 @@ eleventyNavigation:
    - On a mac, Quicktime is built in and has recording capabilities<br />
    - On windows, Zoom allows you to record
 </p>
+
+<p class="mt-6 mb-6 text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl">
+    Presentation Tips
+</p>
+<p class="mt-6">
+    Marcia Villalba has created a series of videos to help you make the best presentaton possible:
+    <br /><br />
+    - Whole series: <a href="https://www.youtube.com/@marciavillalba3824/videos">https://www.youtube.com/@marciavillalba3824/videos</a>
+    <br /><br />
+    Top Picks:<br />
+    - <a href="https://youtu.be/QNWxnjhoTeE" >Screenschare properly</a> <br />
+    - <a href="https://youtu.be/vBEHZHqrEaM" >Record the best video possible</a> <br />
+    - <a href="https://youtu.be/K0kbZnproxA" >Improve your audio</a> 
+</p>
 </div>
