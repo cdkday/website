@@ -30,13 +30,13 @@ eleventyNavigation:
             - No subtitles needed
         </li>
         <li>
-            - Resolution: Minimum 720p, ideally 1080p (4K optional but it will be compressed later)
+            - Resolution: Minimum 720p, ideally 1080p (4K optional but it will be downsized later)
         </li>
         <li>
             - Encoding: MOV, MP4 (h.264 or similar)
         </li>
         <li>
-            - Bitrate: 5-8kbps (default for most HD videos)
+            - Bitrate: 5000 to 8000 kbps (default for most HD videos)
         </li>
         <li>
             - Webcams or external cameras both work, as long as they adhere to quality guidelines
