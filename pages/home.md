@@ -82,48 +82,8 @@ A small group of community members from across the globe thought this was someth
   </header>
   <main>
     <p class="mb-6">
-        The CFP process is now closed so unfortunately we are no longer accepting talk submissions but please do keep us in mind for next year.
+        The CFP process is now closed so unfortunately we are no longer accepting talk submissions but please do keep us in mind for next year. This year's speakers are shown further down the page so please come along and show them some support!
     </p>
-  </main>
-</section>
-
-<!--<section id="schedule" class="mt-10">
-  <header class="w-full z-30 top-0 py-1">
-      <div class="mt-6 py-3">
-          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
-              Schedule
-          </p>
-      </div>
-  </header>
-  <main>
-    <p class="mb-6">
-        This time we are running three parallel YouTube streams so that we can cram even more CDK goodness into a shorter overall event. We staggered the streams so that everyone can join for our opening keynote. The date and time shown below has been localised by sessionize to your time zone, on the off chance you think it is wrong the event kicks off at 2pm UTC on 26th May 2021.
-    </p>
-    <div class="flex flex-wrap">
-        <div class="w-full">
-            <script type="text/javascript" src="https://sessionize.com/api/v2/lqw50mq7/view/GridSmart"></script>
-        </div>
-    </div>
-  </main>
-</section>-->
-
-<section id="speakers" class="mt-10">
-  <header class="w-full z-30 top-0 py-1">
-      <div class="mt-6 py-3">
-          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
-              Speaker Wall
-          </p>
-      </div>
-  </header>
-  <main>
-    <p class="mb-6">
-        We have speakers from all over the world talking about AWS CDK, cdk8s, Projen and CDKTF.
-    </p>
-    <div class="flex flex-wrap">
-        <div class="w-full">
-            <script type="text/javascript" src="https://sessionize.com/api/v2/p058zjd0/view/Speakers"></script>
-        </div>
-    </div>
   </main>
 </section>
 
@@ -167,6 +127,46 @@ A small group of community members from across the globe thought this was someth
             <div class="youtube p-3">
                 <iframe class="responsive-iframe" title="CDK Day 2020 Video" src="https://www.youtube.com/embed/_kY7o3De_9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
+        </div>
+    </div>
+  </main>
+</section>
+
+<!--<section id="schedule" class="mt-10">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="mt-6 py-3">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
+              Schedule
+          </p>
+      </div>
+  </header>
+  <main>
+    <p class="mb-6">
+        This time we are running three parallel YouTube streams so that we can cram even more CDK goodness into a shorter overall event. We staggered the streams so that everyone can join for our opening keynote. The date and time shown below has been localised by sessionize to your time zone, on the off chance you think it is wrong the event kicks off at 2pm UTC on 26th May 2021.
+    </p>
+    <div class="flex flex-wrap">
+        <div class="w-full">
+            <script type="text/javascript" src="https://sessionize.com/api/v2/lqw50mq7/view/GridSmart"></script>
+        </div>
+    </div>
+  </main>
+</section>-->
+
+<section id="speakers" class="mt-10">
+  <header class="w-full z-30 top-0 py-1">
+      <div class="mt-6 py-3">
+          <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
+              This Year's Speakers
+          </p>
+      </div>
+  </header>
+  <main>
+    <p class="mb-6">
+        We have speakers from all over the world talking about AWS CDK, cdk8s, Projen and CDKTF.
+    </p>
+    <div class="flex flex-wrap">
+        <div class="w-full">
+            <script type="text/javascript" src="https://sessionize.com/api/v2/p058zjd0/view/Speakers"></script>
         </div>
     </div>
   </main>
