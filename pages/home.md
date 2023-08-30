@@ -48,7 +48,7 @@ eleventyNavigation:
 <div class="text-xl md:text-2xl mt-12">
 A small group of community members from across the globe thought this was something worth celebrating so we are going to take one day and showcase the brightest and best of CDK from across the whole product family. Let's talk serverless, kubernetes and multi cloud all in the same day!
 
-<!--<p class="mt-6 mb-8">Do you want to attend? We'd love you to, <a class="dark-link" href="https://www.eventbrite.com/e/cdk-day-2022-tickets-292561628707">Tickets</a> are free</p>-->
+<p class="mt-6 mb-8">Do you want to attend? We'd love you to, <a class="dark-link" href="https://cdkday2023.eventbrite.com/">Tickets</a> are free</p>
 </div>
 </div>
 <div class="bg-white">
