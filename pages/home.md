@@ -121,7 +121,7 @@ A small group of community members from across the globe thought this was someth
     </p>
     <div class="flex flex-wrap">
         <div class="w-full">
-            <script type="text/javascript" src="https://sessionize.com/api/v2/p058zjd0/view/SpeakerWall"></script>
+            <script type="text/javascript" src="https://sessionize.com/api/v2/p058zjd0/view/Speakers"></script>
         </div>
     </div>
   </main>
