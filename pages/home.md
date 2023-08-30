@@ -107,7 +107,7 @@ A small group of community members from across the globe thought this was someth
   </main>
 </section>-->
 
-<!--<section id="speakers" class="mt-10">
+<section id="speakers" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-6 py-3">
           <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
@@ -121,11 +121,11 @@ A small group of community members from across the globe thought this was someth
     </p>
     <div class="flex flex-wrap">
         <div class="w-full">
-            <script type="text/javascript" src="https://sessionize.com/api/v2/p94iuibz/view/SpeakerWall"></script>
+            <script type="text/javascript" src="https://sessionize.com/api/v2/p058zjd0/view/SpeakerWall"></script>
         </div>
     </div>
   </main>
-</section>-->
+</section>
 
 <section id="cdkday-description" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
