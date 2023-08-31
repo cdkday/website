@@ -8,6 +8,7 @@ eleventyNavigation:
   order: 1
 ---
 <div class="container main-container mx-auto px-8 md:px-16 pb-4 pt-0">
+    <a class="dark-link" href="/static/ppt/cdkday_template.potx">Download Powerpoint Template</a><br /><br />
     <main class="flex flex-wrap">
         <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 p-6 flex flex-col bg-blue">
             <h1 class="text-3xl font-bold">Dark Brand Guidelines</h1>
