@@ -7,6 +7,11 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
+<style>
+    .sz-speaker__bio{
+        word-wrap: break-word;
+    }
+</style>
 <div class="container bg-blue main-container w-5/6 mx-auto px-8 md:px-16 pb-4 pt-0 rounded-corners">
 <h1 class="text-xl md:text-3xl mt-2 mb-12 tracking-wide font-bold">A Cloud Development Kit (CDK) is a developer tool built on the open source Constructs model. We now have multiple CDKs: </h1>
 
