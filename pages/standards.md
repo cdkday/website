@@ -59,7 +59,7 @@ eleventyNavigation:
 <p class="mt-6">
     <ul>
         <li>
-            - We do not require you to use a CDK Day base template
+            - We do not require you to use a CDK Day base template but one is available <a href="/static/ppt/cdkday_template.potx.zip">here</a>
         </li>
         <li>
             - Slides and video resolution must be 16:9 aspect ratio
