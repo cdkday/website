@@ -270,6 +270,41 @@
       "categories": []
     },
     {
+      "id": "74365ed0-913d-4bc9-98c6-67567669128f",
+      "firstName": "Diana",
+      "lastName": "Alfaro",
+      "fullName": "Diana Alfaro",
+      "bio": "Software Developer y 5x en AWS. Llevo 11 años de experiencia en el mundo de TI, he pasado por diferentes roles como FullStack Developer usando Java, Node, Angular y React; e instructora del programa ReStart de AWS. Actualmente soy Community Builder de AWS, Voluntaria de las comunidades AWS Girls y Cloud Specialist en Caleidos",
+      "tagLine": "AWS Community Builder",
+      "profilePicture": "https://sessionize.com/image/f789-400o400o2-WAxvVdsjj9Q3YHyVVnTisM.jpg",
+      "sessions": [
+        {
+          "id": 533667,
+          "name": "Panel - Inteligencia artificial y CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/lachamive",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/dianaalfarobazan/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://blog.alfalfita.cloud/",
+          "linkType": "Blog"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
       "id": "70382395-bb6e-449c-b263-e3a36dd2107f",
       "firstName": "Dr. Rahul Sharad",
       "lastName": "Gaikwad",
@@ -298,6 +333,46 @@
         {
           "title": "Sessionize",
           "url": "https://sessionize.com/DrRahulGaikwad",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "665e53c4-3cfc-4d5a-b287-2ecc54eb7cf8",
+      "firstName": "Elizabeth",
+      "lastName": "Fuentes Leone",
+      "fullName": "Elizabeth Fuentes Leone",
+      "bio": "Developer Advocate en AWS con experiencia en Data Analytics y Machine Learning. Le encanta ayudar a los desarrolladores a aprender mientras meten las manos construyendo.",
+      "tagLine": "AWS Developer Advocate",
+      "profilePicture": "https://sessionize.com/image/07a1-400o400o2-JyZFZ3vgJPg3ZfSw8znT2J.jpeg",
+      "sessions": [
+        {
+          "id": 533667,
+          "name": "Panel - Inteligencia artificial y CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ElizabethFue12",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/lizfue/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/elizabethfuentes12",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/elizabeth-fuentes-leone",
           "linkType": "Sessionize"
         }
       ],
@@ -756,6 +831,46 @@
         {
           "title": "Sessionize",
           "url": "https://sessionize.com/mradzikowski",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "684dd0e8-7a12-480c-a6a9-70b4a02c7dbf",
+      "firstName": "Marcia",
+      "lastName": "Villalba",
+      "fullName": "Marcia Villalba",
+      "bio": "Marcia is an AWS Developer Advocate and the host of FooBar a youtube channel (http://bit.ly/foobar-youtube) where she publishes content every week, related to serverless and the cloud.  \r\n\r\nShe has been designing and developing software professionally for almost 20 years, and worked in all the different stages of building scaling and performant software. She has deep knowledge of building applications in the cloud and using devops processes. ",
+      "tagLine": "AWS Developer Advocate",
+      "profilePicture": "https://sessionize.com/image/790a-400o400o2-e8-7a12-480c-a6a9-70b4a02c7dbf.e61b1dba-0192-48d9-984a-6ad9eb9a7751.jpg",
+      "sessions": [
+        {
+          "id": 533667,
+          "name": "Panel - Inteligencia artificial y CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/mavi888uy",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/marciavillalba/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://youtube.com/foobar_codes",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/marcia-villalba",
           "linkType": "Sessionize"
         }
       ],

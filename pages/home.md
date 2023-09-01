@@ -13,7 +13,9 @@ data: { "categories": [
         {name: "cdk-and-pipelines", displayName: "CDK and Pipelines"},
         {name: "cdk-builders-tips", displayName: "CDK Builders Tips"},
         {name: "beginning-your-cdk-journey", displayName: "Beginning your CDk Journey"},
-        {name: "something-else", displayName: "Something Else"}]
+        {name: "something-else", displayName: "Something Else"}],
+        "spanish_talks": ["523947", "497942", "501372", "533667", "512323", "514823", "521536", "521685", "510661"],
+        "english_talks": ['523737', '524291', '519773', '493401', '525081', '521306', '524310', '492077', '523802', '499229', '495669', '522403', '495661', '525323', '492770', '498468', '520641', '496938', '518423', '524636', '522938', '525963', '524813', '524031', '515054', '523200', '520556', '501688', '514076']
 }
 eleventyNavigation:
   key: Home
@@ -225,9 +227,13 @@ A small group of community members from across the globe thought this was someth
         let result = document.getElementsByName("category-filter-checkbox")
         let checkedValues = Array.prototype.slice.call(result).filter((element)=> element.checked).map((checked)=>checked.value)
         //get radio buttons value
-        let radioValue = Array.prototype.slice.call(document.getElementsByName('filter')).filter((radio)=>radio.checked)[0].value;
-        if(radioValue!=='all'){
-            checkedValues.push(radioValue)
+        let experienceRadioadioValue = Array.prototype.slice.call(document.getElementsByName('filter')).filter((radio)=>radio.checked)[0].value;
+        if(experienceRadioadioValue!=='all'){
+            checkedValues.push(experienceRadioadioValue)
+        }
+        let langRadioadioValue = Array.prototype.slice.call(document.getElementsByName('filter-lang')).filter((radio)=>radio.checked)[0].value;
+        if(langRadioadioValue!=='all'){
+            checkedValues.push(langRadioadioValue)
         }
         for (const session of allsessions) {
             session.classList.remove('hidden')
@@ -291,6 +297,21 @@ A small group of community members from across the globe thought this was someth
                 <label for="filter-expert">Expert</label>
             </div>
         </fieldset>
+        <fieldset>
+            <legend class="pt-3">Filter by Language:</legend>
+            <div>
+                <input type="radio" id="filter-lang-all" name="filter-lang" value="all" onclick="filtertalks(this, 'all')" checked />
+                <label for="filter-all">All</label>
+            </div>
+            <div>
+                <input type="radio" id="filter-lang-english" name="filter-lang" value="english" onclick="filtertalks(this, 'english')" />
+                <label for="filter-intro">English</label>
+            </div>
+            <div>
+                <input type="radio" id="filter-lang-spanish" name="filter-lang" value="spanish" onclick="filtertalks(this, 'spanish')" />
+                <label for="filter-intro">Spanish</label>
+            </div>
+        </fieldset>
         <div>
         <p class="mt-6">
             Filter by category:
@@ -302,7 +323,7 @@ A small group of community members from across the globe thought this was someth
         </div>
     </div>
     {%- for talk in sessions[0].sessions -%}
-        <article id="{{ talk.title | slugify }}" class="flex flex-wrap session {% for category in talk.categories %}{% for talk_category in category.categoryItems %} {{ talk_category.name | slugify}}{% endfor %}{% endfor %}">
+        <article id="{{ talk.title | slugify }}" class="flex flex-wrap session {% for talkID in data.english_talks %}{% if talk.id == talkID %} english{% endif %}{% endfor %}{% for talkID in data.spanish_talks %}{% if talk.id == talkID %} spanish{% endif %}{% endfor %}{% for category in talk.categories %}{% for talk_category in category.categoryItems %} {{ talk_category.name | slugify}}{% endfor %}{% endfor %}">
             <!-- Left Image section -->
             <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col hidden md:block">
                 <div class="flex flex-wrap">

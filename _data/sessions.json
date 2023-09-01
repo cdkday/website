@@ -1879,6 +1879,72 @@
               "id": 53751,
               "question": "Please name your something else category",
               "questionType": "Short_Text",
+              "answer": "AI",
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "533667",
+          "title": "Panel - Inteligencia artificial y CDK",
+          "description": "En este panel vamos a charlar con Elizabeth Fuentes, Diana Alfaro y Arielle Briscoe sobre que tiene que ver la inteligencia artificial con CDK, en que nos puede ayudar, como va a ser el futuro de estas tecnologías juntas.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "684dd0e8-7a12-480c-a6a9-70b4a02c7dbf",
+              "name": "Marcia Villalba"
+            },
+            {
+              "id": "665e53c4-3cfc-4d5a-b287-2ecc54eb7cf8",
+              "name": "Elizabeth Fuentes Leone"
+            },
+            {
+              "id": "74365ed0-913d-4bc9-98c6-67567669128f",
+              "name": "Diana Alfaro"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186573,
+                  "name": "Introductory and overview"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186589,
+                  "name": "Something Else"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
               "answer": null,
               "sort": 4,
               "answerExtra": null
