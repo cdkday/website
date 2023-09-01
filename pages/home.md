@@ -275,7 +275,7 @@ A small group of community members from across the globe thought this was someth
                         {%- for speaker in speakers -%}
                             {%- if speaker.id == sessionSpeaker.id -%}
                                 {%- if speaker.links.length >0 -%}
-                                    <a aria-label="go to {{ speaker.fullName }}'s social page" href="{{ speaker.links[0].url }}" style="max-height:250px; overflow: hidden;" class="{% if talk.speakers.length > 1 %}w-1/2 pr-3{% endif %}"">
+                                    <a aria-label="go to {{ speaker.fullName }}'s social page" href="{{ speaker.links[0].url }}" style="max-height:250px; overflow: hidden;" class="{% if talk.speakers.length > 1 %}w-1/2 pr-3{% endif %}">
                                         <img class="hover:grow hover:shadow-lg border mt-3" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}"  style="max-height:200px">
                                     </a>
                                 {%- else -%}
