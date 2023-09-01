@@ -571,17 +571,6 @@ A small group of community members from across the globe thought this was someth
         </a>
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
-        <a aria-label="go to Ibrahim's Twitter page" href="https://twitter.com/ibrahimcesar">
-            <img class="hover:grow hover:shadow-lg border" alt="Ibrahim Cesar" src="/static/img/2022_05/ibrahim.jpg">
-            <div class="pt-3">
-                <p class="text-gray-800 font-bold">Ibrahim Cesar</p>
-                <p class="text-gray-700 font-normal" style="overflow-wrap: break-word;">
-                    λ Solutions Architect iStudio Modern Applications @compassuol #AWSCommunityBuilder /ɪ́brəhɪjm/ Opiniões apenas minhas pt-br / en (Ele/dele He/him)
-                </p>
-            </div>
-        </a>
-      </div>
-      <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
         <a aria-label="go to Farrah's Twitter page" href="https://twitter.com/kperreault95">
             <img class="hover:grow hover:shadow-lg border" alt="Kristi Perreault" src="/static/img/2022_05/kristi.jpg">
             <div class="pt-3">
