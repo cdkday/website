@@ -60,7 +60,7 @@ body {
 }
 
 a {
-    color: #2b6bfd;
+    color: #2b6bfdde;
 }
 
 a.dark-link {
@@ -69,7 +69,7 @@ a.dark-link {
 }
 
 a.dark-link:hover {
-    color: #2b6bfd;
+    color: #2b6bfdde;
     background: #fff;
     border-radius: 5px;
 }
