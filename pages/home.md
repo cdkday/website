@@ -421,6 +421,8 @@ A small group of community members from across the globe thought this was someth
                         {%- endif -%}
                     {%- endfor -%}
                 {%- endfor -%}
+
+                <a class="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded mt-3" style="width: 190px; text-align:center;" href="https://cdkday2023.eventbrite.com/">Get A Free Ticket</a>
             </div>
             <hr class="w-full md:hidden"/>
         </article>
