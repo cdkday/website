@@ -207,8 +207,33 @@ A small group of community members from across the globe thought this was someth
     </div>
   </main>
 </section>
-
- <section id="sessions" class="mt-10">
+<script type="text/javascript">
+    /*function filtertalks(element, talktype) {
+        let allsessions = document.getElementsByClassName('session')
+        for (const session of allsessions) {
+            if(element.checked){
+                if(!session.classList.contains(talktype)){
+                    session.classList.add('hidden')
+                }
+            } else {
+                session.classList.remove('hidden')
+            }
+        }
+        console.log(element.checked)
+    }*/
+    function filtertalks(element, talktype) {
+        let allsessions = document.getElementsByClassName('session')
+        for (const session of allsessions) {
+            session.classList.remove('hidden')
+            if(talktype !== 'all'){
+                if(!session.classList.contains(talktype)){
+                    session.classList.add('hidden')
+                }
+            }
+        }
+    }
+</script>
+<section id="sessions" class="mt-10">
     <header class="w-full z-30 top-0 py-1">
         <div class="mt-6 py-3">
             <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
@@ -218,9 +243,32 @@ A small group of community members from across the globe thought this was someth
         <p class="mb-6">
             Our sessions are broken down into different levels from Beginner to Advanced and different categories from Builders tips through to Enterprise Stories right the way to "Something Else" for brand new ideas.
         </p>
-  </header>
+    </header>
+    <fieldset>
+        <legend>Filter by experience level:</legend>
+        <div>
+            <input type="radio" id="filter-all" name="filter" value="all" onclick="filtertalks(this, 'all')" checked />
+            <label for="filter-all">All</label>
+        </div>
+        <div>
+            <input type="radio" id="filter-intro" name="filter" value="introductory-and-overview" onclick="filtertalks(this, 'introductory-and-overview')" />
+            <label for="filter-intro">Introductory and Overview</label>
+        </div>
+        <div>
+            <input type="radio" id="filter-intermediate" name="filter" value="intermediate" onclick="filtertalks(this, 'intermediate')"/>
+            <label for="filter-intermediate">Intermediate</label>
+        </div>
+        <div>
+            <input type="radio" id="filter-advanced" name="filter" value="advanced" onclick="filtertalks(this, 'advanced')"/>
+            <label for="filter-advanced">Advanced</label>
+        </div>
+        <div>
+            <input type="radio" id="filter-expert" name="filter" value="expert" onclick="filtertalks(this, 'expert')"/>
+            <label for="filter-expert">Expert</label>
+        </div>
+    </fieldset>
     {%- for talk in sessions[0].sessions -%}
-        <article id="{{ talk.title | slugify }}" class="flex flex-wrap">
+        <article id="{{ talk.title | slugify }}" class="flex flex-wrap session {% for category in talk.categories %}{% for talk_category in category.categoryItems %} {{ talk_category.name | slugify}}{% endfor %}{% endfor %}">
             <!-- Left Image section -->
             <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col hidden md:block">
                 <div class="flex flex-wrap">
@@ -305,8 +353,8 @@ A small group of community members from across the globe thought this was someth
                 {%- endfor -%}
             {%- endfor -%}
             </div>
+            <hr class="w-full md:hidden"/>
         </article>
-        <hr class="w-full md:hidden"/>
     {%- endfor -%}
 </section>
 
