@@ -3,6 +3,18 @@ layout: layouts/home.njk
 title: CDK Day - 29th September 2023 - Tickets Opening Soon!!!
 date: 2016-01-01T00:00:00.000Z
 permalink: /
+data: { "categories": [
+        {name: "aws-cdk", displayName: "AWS CDK"},
+        {name: "cdktf", displayName: "CDK for Terraform"},
+        {name: "cdk8s", displayName: "cdk8s"},
+        {name: "projen", displayName: "Projen"},
+        {name: "real-life-use-case", displayName: "Real Life Use Case"},
+        {name: "enterprise-story", displayName: "Enterprise Story"},
+        {name: "cdk-and-pipelines", displayName: "CDK and Pipelines"},
+        {name: "cdk-builders-tips", displayName: "CDK Builders Tips"},
+        {name: "beginning-your-cdk-journey", displayName: "Beginning your CDk Journey"},
+        {name: "something-else", displayName: "Something Else"}]
+}
 eleventyNavigation:
   key: Home
   order: 0
@@ -208,28 +220,38 @@ A small group of community members from across the globe thought this was someth
   </main>
 </section>
 <script type="text/javascript">
-    /*function filtertalks(element, talktype) {
-        let allsessions = document.getElementsByClassName('session')
-        for (const session of allsessions) {
-            if(element.checked){
-                if(!session.classList.contains(talktype)){
-                    session.classList.add('hidden')
-                }
-            } else {
-                session.classList.remove('hidden')
-            }
-        }
-        console.log(element.checked)
-    }*/
     function filtertalks(element, talktype) {
         let allsessions = document.getElementsByClassName('session')
+        let result = document.getElementsByName("category-filter-checkbox")
+        let checkedValues = Array.prototype.slice.call(result).filter((element)=> element.checked).map((checked)=>checked.value)
+        //get radio buttons value
+        let radioValue = Array.prototype.slice.call(document.getElementsByName('filter')).filter((radio)=>radio.checked)[0].value;
+        if(radioValue!=='all'){
+            checkedValues.push(radioValue)
+        }
         for (const session of allsessions) {
             session.classList.remove('hidden')
-            if(talktype !== 'all'){
-                if(!session.classList.contains(talktype)){
+            if(checkedValues.length > 0) {
+                let found = true;
+                for(const category of checkedValues) {
+                    if(!session.classList.contains(category)){
+                        found = false;
+                        break;
+                    }
+                }
+                if(!found){
                     session.classList.add('hidden')
                 }
             }
+        }
+    }
+    function togglefilters(button) {
+        if(document.getElementById('filters').classList.contains('hidden')) {
+            document.getElementById('filters').classList.remove('hidden');
+            button.innerText = "Hide Filters"
+        } else {
+            document.getElementById('filters').classList.add('hidden');
+            button.innerText = "Show Filters"
         }
     }
 </script>
@@ -244,29 +266,41 @@ A small group of community members from across the globe thought this was someth
             Our sessions are broken down into different levels from Beginner to Advanced and different categories from Builders tips through to Enterprise Stories right the way to "Something Else" for brand new ideas.
         </p>
     </header>
-    <fieldset>
-        <legend>Filter by experience level:</legend>
+    <button onclick="togglefilters(this)" class="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">Show Filters</button>
+    <div id="filters" class="hidden pt-3">
+        <fieldset>
+            <legend>Filter by experience level:</legend>
+            <div>
+                <input type="radio" id="filter-all" name="filter" value="all" onclick="filtertalks(this, 'all')" checked />
+                <label for="filter-all">All</label>
+            </div>
+            <div>
+                <input type="radio" id="filter-intro" name="filter" value="introductory-and-overview" onclick="filtertalks(this, 'introductory-and-overview')" />
+                <label for="filter-intro">Introductory and Overview</label>
+            </div>
+            <div>
+                <input type="radio" id="filter-intermediate" name="filter" value="intermediate" onclick="filtertalks(this, 'intermediate')"/>
+                <label for="filter-intermediate">Intermediate</label>
+            </div>
+            <div>
+                <input type="radio" id="filter-advanced" name="filter" value="advanced" onclick="filtertalks(this, 'advanced')"/>
+                <label for="filter-advanced">Advanced</label>
+            </div>
+            <div>
+                <input type="radio" id="filter-expert" name="filter" value="expert" onclick="filtertalks(this, 'expert')"/>
+                <label for="filter-expert">Expert</label>
+            </div>
+        </fieldset>
         <div>
-            <input type="radio" id="filter-all" name="filter" value="all" onclick="filtertalks(this, 'all')" checked />
-            <label for="filter-all">All</label>
+        <p class="mt-6">
+            Filter by category:
+        </p>
+        {%- for category in data.categories-%}
+            <input type="checkbox" id="{{category.name}}-checkbox" name="category-filter-checkbox" value="{{category.name}}" onclick="filtertalks(this, '{{category.name}}')">
+            <label for="{{category.name}}-checkbox">{{category.displayName}}</label><br>
+        {%- endfor -%}
         </div>
-        <div>
-            <input type="radio" id="filter-intro" name="filter" value="introductory-and-overview" onclick="filtertalks(this, 'introductory-and-overview')" />
-            <label for="filter-intro">Introductory and Overview</label>
-        </div>
-        <div>
-            <input type="radio" id="filter-intermediate" name="filter" value="intermediate" onclick="filtertalks(this, 'intermediate')"/>
-            <label for="filter-intermediate">Intermediate</label>
-        </div>
-        <div>
-            <input type="radio" id="filter-advanced" name="filter" value="advanced" onclick="filtertalks(this, 'advanced')"/>
-            <label for="filter-advanced">Advanced</label>
-        </div>
-        <div>
-            <input type="radio" id="filter-expert" name="filter" value="expert" onclick="filtertalks(this, 'expert')"/>
-            <label for="filter-expert">Expert</label>
-        </div>
-    </fieldset>
+    </div>
     {%- for talk in sessions[0].sessions -%}
         <article id="{{ talk.title | slugify }}" class="flex flex-wrap session {% for category in talk.categories %}{% for talk_category in category.categoryItems %} {{ talk_category.name | slugify}}{% endfor %}{% endfor %}">
             <!-- Left Image section -->
