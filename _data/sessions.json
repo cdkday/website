@@ -1,0 +1,2227 @@
+[
+    {
+      "groupId": null,
+      "groupName": "All",
+      "sessions": [
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "523737",
+          "title": "An Ode to Infrastructure Security and Developer Velocity through CDK",
+          "description": "Do developers in your organization perceive strict security as a blocker? Learn how Goldman Sachs leverage CDK to unlock developer velocity while ensuring security & compliance. We’ll discuss how a customer partnership with the CDK team can help the broader community and address feature requests.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "391672a6-924c-4de6-b823-db789970a541",
+              "name": "Harsha Sharma"
+            },
+            {
+              "id": "22c7ca5e-f9ea-449e-a115-7dd204d95fa1",
+              "name": "Shubham Shukla"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186575,
+                  "name": "Advanced"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186588,
+                  "name": "Real Life Use Case"
+                },
+                {
+                  "id": 186591,
+                  "name": "Enterprise Story"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "514823",
+          "title": "Applying CDK to build applications a large insurance company",
+          "description": "At MAPFRE, we use CDK as a fundamental part of the reference architectures. We also offer an automation that creates applications from a base template as a CDK project and L3 components for security and improve productivity: API Gateway + WAF, SPAs with Cloud Front, ECS / Fargate, etc. etc.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "d4124a1f-ae5f-4be1-9f7d-fb148ab48936",
+              "name": "Andrés Hevia"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186590,
+                  "name": "Beginning Your CDK Journey"
+                },
+                {
+                  "id": 186591,
+                  "name": "Enterprise Story"
+                },
+                {
+                  "id": 186592,
+                  "name": "CDK and Pipelines"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "524291",
+          "title": "AppSync Merged API as an example to contribute to AWS CDK",
+          "description": "In our AWS Community Builders hackathon, I noticed the lack of CDK support for the new AppSync Merged API feature. This talk shows how I added the Merged API feature to CDK. Starting with a feature request, talking to the AWS CDK team in the Contributor Office Hours and working on the pull request.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "68dc049d-9558-44b0-acec-c9646a4049f2",
+              "name": "Julian Michel"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186575,
+                  "name": "Advanced"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186588,
+                  "name": "Real Life Use Case"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "519773",
+          "title": "Automated deployment of applications in a multi-instance architecture",
+          "description": "Take on the challenge of corporate processes! Leverage CDK, CodePipeline (or any other!), and Service Catalog to develop production-ready, approval-friendly, handover-uniform end products in different flavors for many customers on a common code base. Based on a project with more than 100 customers.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "4e7a7f06-fbf6-476b-ba23-c892175b8be7",
+              "name": "Pawel Adaszewski"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186587,
+                  "name": "CDK Builders' Tips"
+                },
+                {
+                  "id": 186591,
+                  "name": "Enterprise Story"
+                },
+                {
+                  "id": 186592,
+                  "name": "CDK and Pipelines"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "493401",
+          "title": "AWS CDK - Best Practices From The Trenches",
+          "description": "In this talk, I'll present my take on CDK best practices, gathered from almost three years developing with CDK.\r\nI'll cover topics such as:\r\n1. Project Structure and stack guidelines\r\n2. Constructs guidelines\r\n3. CI/CD guidelines\r\n4. Resiliency & security guidelines\r\n5. General development tips",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "14725a99-6f98-4385-a8cf-71813e2f1887",
+              "name": "Ran Isenberg"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186575,
+                  "name": "Advanced"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186587,
+                  "name": "CDK Builders' Tips"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "525081",
+          "title": "AWS CDK and Application Design Framework: Better together",
+          "description": "Some companies struggle with business agility because of misalignment between business and technology. This misalignment results in rework and difficult architecture evolution. In this session, you will learn how to align architecture with code using the Application Design Framework and the AWS CDK.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "a09cad4a-df74-44cf-a5ab-6ad54de4673d",
+              "name": "Alex Pulver"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186573,
+                  "name": "Introductory and overview"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186590,
+                  "name": "Beginning Your CDK Journey"
+                },
+                {
+                  "id": 186587,
+                  "name": "CDK Builders' Tips"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "521306",
+          "title": "AWS DataOps Development Kit",
+          "description": "Overview of the DDK, a library of L3 CDK constructs built for Data & Analytics workloads. The AWS DataOps Development Kit is an open source development framework for customers that build data workflows and modern data architecture on AWS.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "ce069638-aa72-41dd-b9ca-d80c812beb90",
+              "name": "Lucas Hanson"
+            },
+            {
+              "id": "3c8bda60-1418-42e6-9ef9-da6022f247e0",
+              "name": "Anmol Gandhi"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186588,
+                  "name": "Real Life Use Case"
+                },
+                {
+                  "id": 186592,
+                  "name": "CDK and Pipelines"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "524310",
+          "title": "Beyond CDK Pipelines for Modern Serverless CI/CD",
+          "description": "CDK Pipelines on their own are not enough for modern serverless development. So we built an open-source Opinionated CI Pipeline on top of them, supporting dev environments, ephemeral feature-branch environments, commit build statuses, and failure Slack notifications. In the talk I cover why and how.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "c039f95d-6ff3-40dc-8974-b0da38eab41a",
+              "name": "Maciej Radzikowski"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186592,
+                  "name": "CDK and Pipelines"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "492077",
+          "title": "Build Advanced Integration Patterns with the AWS CDK",
+          "description": "Leverage the AWS CDK to build advanced integration patterns. Through practical examples we will delve into various advanced integration patterns enabled by the AWS CDK. We will cover topics such as event-driven architectures, asynchronous processing, and more.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "43c614a6-5947-42ae-843d-fd92e69c926e",
+              "name": "James Eastham"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186575,
+                  "name": "Advanced"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186587,
+                  "name": "CDK Builders' Tips"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "523802",
+          "title": "Building efficient infrastructure: AWS CDK vs Terraform - and why CDK should be your choice",
+          "description": "Using declarative IaC tools, like Terraform, is useful, if you are working on the ops side. But it can also get challenging with increasing complexity or special demand to your setup. \r\nThis is no rant about Terraform, but a reality check on how efficient CDK can be in contrast to other IaC tools. ",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "53f0b9ef-6acb-4bc3-8569-7386e974f07b",
+              "name": "Nora Schöner"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186575,
+                  "name": "Advanced"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186578,
+                  "name": "CDKTF"
+                },
+                {
+                  "id": 186590,
+                  "name": "Beginning Your CDK Journey"
+                },
+                {
+                  "id": 186588,
+                  "name": "Real Life Use Case"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "499229",
+          "title": "Building Kubernetes apps? How about removing YAML and writing Go code instead!",
+          "description": "What if you could just write Go code to define Kubernetes applications? This talk will provide an overview of cdk8s and it’s workflow, how to define your first cdk8s application and building reusable constructs. You will also see “cdk8s in action” with some live-coding and demos using Go!",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "758b2705-820c-45c2-86fa-9c32a3f1a8d4",
+              "name": "Abhishek Gupta"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186573,
+                  "name": "Introductory and overview"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186579,
+                  "name": "cdk8s"
+                },
+                {
+                  "id": 186590,
+                  "name": "Beginning Your CDK Journey"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "495669",
+          "title": "CDK Stack Synthesis Implementation Deep Dive",
+          "description": "Ever wonder what happens when you run a `cdk synth` or `cdk deploy`? Or, why is it important to run `cdk bootstrap`? Or, how can you customize this process? In this session, we'll deep dive into the StackSynthesizer class, the CDK provided implementations using this class, and how you can customize.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "53f15c7f-bbdc-45f1-bab6-735e300f7a10",
+              "name": "Josh DeMuth"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186575,
+                  "name": "Advanced"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186587,
+                  "name": "CDK Builders' Tips"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": "custom CDK",
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "522403",
+          "title": "CDK-ANS - Amplifying Ansible with CDK",
+          "description": "This session introduces a recent project of mine, CDK-ANS. This project leverages the power of CDK and applies it on Anisble, allowing for full definition of Ansible projects as CDK.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "3506e2f1-bdf2-4cc0-8e0e-56eedd2d93ac",
+              "name": "Matthew Rawlings"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186573,
+                  "name": "Introductory and overview"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186589,
+                  "name": "Something Else"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "495661",
+          "title": "CI/CD pipeline for hybrid workloads on Amazon ECS Anywhere by using AWS CDK and GitLab",
+          "description": "This solution is designed to help those who use on-premises infrastructure to run container applications and use GitLab to manage the application code base. Customer can manage those workloads by using AWS Cloud services, without disturbing their existing, on-premises infrastructure.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "70382395-bb6e-449c-b263-e3a36dd2107f",
+              "name": "Dr. Rahul Sharad Gaikwad"
+            },
+            {
+              "id": "83353aaf-c419-48c9-82ea-1c66c8633a96",
+              "name": "Sarat Chandra Pothula"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186588,
+                  "name": "Real Life Use Case"
+                },
+                {
+                  "id": 186592,
+                  "name": "CDK and Pipelines"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "510661",
+          "title": "Cómo tener una aplicación en la nube de forma segura",
+          "description": "Paso a paso para pasar de usar Serverless Framework solamente y comenzar a usarlo en forma en conjunta con AWS CDK. Teniendo la facilidad de manejar la arquitectura pero sin perder las bondades de testing local como estamos acostumbrado con Serverless.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "d6575f73-c7b4-45c8-a7ee-967711e9159a",
+              "name": "Hector Fernandez"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186587,
+                  "name": "CDK Builders' Tips"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "523947",
+          "title": "Como The LEGO Group usa AWS CDK",
+          "description": "AWS CDK ha conseguido que The LEGO Group haya sido capaz de crear nuevos servicios y onboard de nuevos equipos de una manera rapida, haciendo que los equipos se centren en crear nuevos productos. Pero esto es el resultado final, que tal si me acompañas en la journey de como llegamos hasta aqui?",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "648d3067-f3b2-4f1e-b0e0-4274a4b25c8e",
+              "name": "Javier Mendoza"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186591,
+                  "name": "Enterprise Story"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "525323",
+          "title": "Configure cross-account deployment using CDK",
+          "description": "The way AWS CDK handles deployment permissions is really cool. It's set up to need as few permissions as possible for deployment and to make cross-account deployment easy.\r\n\r\nIn this session, we'll show you how to do cross-account deployment with CDK.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "0ed0ff10-6e30-4dd7-8b71-9b2671921871",
+              "name": "Takuya Hashimoto"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186573,
+                  "name": "Introductory and overview"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186590,
+                  "name": "Beginning Your CDK Journey"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "521536",
+          "title": "Construye tu propio ambiente de data analytics con CDK",
+          "description": "En esta charla, aprenderás a construir un pequeño ambiente de Data Analytics con la ayuda de CDK. Descubriremos cómo tomar datos de un storage, procesarlos y finalmente, visualizar los resultados en un dashboard.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "ea7ff95f-2877-4103-a110-ff535222ed71",
+              "name": "Sandy Atencio Hernandez"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186573,
+                  "name": "Introductory and overview"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186590,
+                  "name": "Beginning Your CDK Journey"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "492770",
+          "title": "Creating CDK applications using Generative AI.",
+          "description": "I this session I will show you how to use AWS Amazon CodeWhisperer to create your CDK application. What's cool about it and what should you consider when using this approach? Join me to take a peek at the future of software development tools. ",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "aa93dc7f-1714-421c-8447-5858ceb82e9d",
+              "name": "Kuba Konczyk"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186573,
+                  "name": "Introductory and overview"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186590,
+                  "name": "Beginning Your CDK Journey"
+                },
+                {
+                  "id": 186589,
+                  "name": "Something Else"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "497942",
+          "title": "Creating custom constructs for re-utilizable patterns",
+          "description": "Create custom L1,L2 or L3 constructs and publish them to CodeArtifact for architecture and deployment patterns.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "111c9c52-62a3-4d94-b23e-f2570df4fb93",
+              "name": "Franco Abregu"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186575,
+                  "name": "Advanced"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186587,
+                  "name": "CDK Builders' Tips"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "498468",
+          "title": "Deep dive into managing StackSets with CDK",
+          "description": "Can StackSets be fully managed with CDK? Don't miss this deep dive where you will learn how to synthesize CDK Stacks into StackSet templates and how to deal with Assets when you need them across accounts and regions. ",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "f52bf4ef-49ac-4b9b-b514-9fc29b141510",
+              "name": "Philipp Garbe"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186576,
+                  "name": "Expert"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186591,
+                  "name": "Enterprise Story"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "520641",
+          "title": "Deploy generative AI models from Amazon SageMaker JumpStart using the AWS CDK",
+          "description": "In this session, learn how to deploy image and text generative AI models from JumpStart using the AWS Cloud Development Kit (AWS CDK).",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "9e16da08-017c-4ebc-8459-4772252335d5",
+              "name": "Neelam Koshiya"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186575,
+                  "name": "Advanced"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186588,
+                  "name": "Real Life Use Case"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "496938",
+          "title": "Deploy web frontend apps with CDK",
+          "description": "There are a few things to consider when building and deploying frontend applications with AWS CDK, such as embedding environment variables in static files. In this session, we will share lessons learned from several deployment patterns, and discuss which one is best for your particular situation.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "a07891ef-6ba2-44ad-93d5-38e2ccef5528",
+              "name": "Masashi Tomooka"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186575,
+                  "name": "Advanced"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186587,
+                  "name": "CDK Builders' Tips"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": "Shitposting",
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "518423",
+          "title": "Deploying to Every AWS Region: A Cautionary Tale",
+          "description": "Most people have careful, considered deployment strategies. Like you, the speaker has no time for that. Here's an automated pipeline that deploys an application to *every* AWS region simultaneously, while throwing caution (as well as user experience) to the wind.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "2b50c40b-051b-4a98-886e-3f6b44bc805b",
+              "name": "Corey Quinn"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186573,
+                  "name": "Introductory and overview"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186590,
+                  "name": "Beginning Your CDK Journey"
+                },
+                {
+                  "id": 186588,
+                  "name": "Real Life Use Case"
+                },
+                {
+                  "id": 186592,
+                  "name": "CDK and Pipelines"
+                },
+                {
+                  "id": 186589,
+                  "name": "Something Else"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "524636",
+          "title": "Efficient Kubernetes Management with cdk8s: A New Era of Infrastructure as Code",
+          "description": "As the shift-left movement amplifies developer autonomy, the call for enhanced maintainability and accessibility grows. This session presents an exploration of cdk8s for creating secure, well-architected Kubernetes applications. ",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "75cd0869-7375-4fb7-9b6a-67584fd2c09e",
+              "name": "Viktor Vedmich"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186579,
+                  "name": "cdk8s"
+                },
+                {
+                  "id": 186587,
+                  "name": "CDK Builders' Tips"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": "Serverless Stack Toolkit ",
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "521685",
+          "title": "Exploring the Power of Serverless Development with CDK and SST",
+          "description": "Join me on an exciting journey into the world of serverless deployment with CDK and SST! In this talk, I'll demonstrate the seamless synergy of these tools, unlocking limitless potential for building and deploying efficient, scalable, and cost-effective serverless applications.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "6b8fff7a-88cc-4baa-8c78-069070719d0d",
+              "name": "Hazel Saenz"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186589,
+                  "name": "Something Else"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "501372",
+          "title": "From Concept to Cash Flow: Generating Passive Income using AWS CDK, AppSync, and NextJS",
+          "description": "Discover practical strategies for generating passive income using AWS CDK, AppSync, and NextJS. Gain actionable insights to transform your ideas into profitable income streams.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "c032ce0e-73a9-445b-a42d-a674d6912262",
+              "name": "Michael Liendo"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186590,
+                  "name": "Beginning Your CDK Journey"
+                },
+                {
+                  "id": 186588,
+                  "name": "Real Life Use Case"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": "Testing",
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "522938",
+          "title": "I ain’t mocking - functional tests without any mocks for cloud applications",
+          "description": "This live code demonstration will highlight the practice of test-driven development in building a web application deployed with CDKTF/AWS CDK.\r\n\r\nI'll craft a web app leveraging SQS, API Gateway, S3, and Lambda functions. Tests will be verified both locally and in the cloud using winglang toolchain.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "34822206-4bab-47cb-87f2-fda9bef29cf6",
+              "name": "Eyal Keren"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186573,
+                  "name": "Introductory and overview"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186578,
+                  "name": "CDKTF"
+                },
+                {
+                  "id": 186589,
+                  "name": "Something Else"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "512323",
+          "title": "Inter-stack dependencies strategies in CDK",
+          "description": "We will define the different strategies we can follow to handle inter stack dependencies and we will go through each of them highlighting pros and cons of each other using real examples.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "b24d7008-8661-44da-8559-7a8deba240f0",
+              "name": "Juan Manuel Ruiz Fernández"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186587,
+                  "name": "CDK Builders' Tips"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "525963",
+          "title": "Making your first contribution to the AWS CDK",
+          "description": "Have you ever run into a bug or missing feature in CDK? The AWS CDK repository can seem daunting for even the most seasoned user, but it doesn’t have to be! In this session, we'll talk about the contribution process so you can feel confident going from idea to merged pull request.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "2bb53d28-b872-4a0b-84af-70785ee7bbf0",
+              "name": "Ryan Batchelder"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186573,
+                  "name": "Introductory and overview"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "524813",
+          "title": "Managing configuration(s) with AWS CDK",
+          "description": "CDK app-specific, AWS account-specific, environment-specific, cross-app, cross-region, cross-stack… there are many kinds of configurations & resource dependencies you need to handle when building complex cloud applications. This talk focuses on the pros & cons of various approaches.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "92a9858d-00e6-4859-94f6-3bc47237583d",
+              "name": "Ari Palo"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186590,
+                  "name": "Beginning Your CDK Journey"
+                },
+                {
+                  "id": 186588,
+                  "name": "Real Life Use Case"
+                },
+                {
+                  "id": 186591,
+                  "name": "Enterprise Story"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "524031",
+          "title": "Projen feature round-up",
+          "description": "Catch-up with the latest from projen! In this round-up , you will learn about new features, new contributors and new ideas for your next project.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "1c947575-d008-4ead-9a3a-68597c324557",
+              "name": "Momo Kornher"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186580,
+                  "name": "Projen"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "515054",
+          "title": "Serverless Weather Reporting with AWS Step Functions and CDK",
+          "description": "Once a year-ish it snows in the Pacific Northwest (USA) and locals act surprised when it does. This talk will take you through the journey of creating a website (http://www.isitsnowinginhillsboro.com/) using AWS CDK and Step Functions to alert local folks that there is snow.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "3bddfcc4-d38a-421c-9cf5-7cc7e07b492a",
+              "name": "Danielle Heberling"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186588,
+                  "name": "Real Life Use Case"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "523200",
+          "title": "Skeptics Guide to Terraform CDK adoption",
+          "description": "Ever wondered how you'd convince a semi-cult follower of Terraform to try CDK? Join me as I share my journey of convincing myself to give CDK a shot. ",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "319ce40d-7d5c-471a-bff5-a8b33ec859bc",
+              "name": "Jubril Oyetunji"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186590,
+                  "name": "Beginning Your CDK Journey"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": "SAM CLI",
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "520556",
+          "title": "Using SAM CLI with AWS CDK for Building and Testing Serverless Workloads",
+          "description": "The AWS SAM CLI can be used to test lambda function \\ API gateway resources defined using the AWS Serverless Application Model. This session will provide a demo on how users of CDK can build application using SAM and test using the SAM CLI. ",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "1c8bf771-e4d0-41a1-8dbb-5a8a519c1ce8",
+              "name": "Deepak Kovvuri"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186575,
+                  "name": "Advanced"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186589,
+                  "name": "Something Else"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "501688",
+          "title": "We migrated from Serverless Framework and this is what we learned",
+          "description": "My organization relied heavily on Serverless Framework until we learned about CDK in 2021. The release of v2 was even better. We moved an old Serverless Framework app to CDK and this presentation will share what we learned.",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "b0fddce8-aac4-4f00-b3bc-a5b3d595f560",
+              "name": "Miguel A. Calles"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                },
+                {
+                  "id": 186587,
+                  "name": "CDK Builders' Tips"
+                },
+                {
+                  "id": 186591,
+                  "name": "Enterprise Story"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
+          "id": "514076",
+          "title": "Write AWS CDK Integration tests using CDK integ-test and CDK integ-runner constructs",
+          "description": "This session demonstrates writing automated integration tests for an example application written in AWS CDK. It utilizes the CDK integ-tests construct for defining test cases and CDK integ-runner CLI tool for executing tests. ",
+          "startsAt": null,
+          "endsAt": null,
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "8aa71cc1-2a40-40cb-a73e-b97e044e308c",
+              "name": "Iris Kraja"
+            },
+            {
+              "id": "6cf8881b-e0d5-4f54-8361-346688349b9d",
+              "name": "Svenja Raether"
+            },
+            {
+              "id": "26dba043-1633-4522-99fb-392a7126e4ee",
+              "name": "Philip Chen"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": null,
+          "room": null,
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        }
+      ],
+      "isDefault": false
+    }
+  ]

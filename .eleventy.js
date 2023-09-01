@@ -67,6 +67,14 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  eleventyConfig.addFilter("find", function (arr=[], key="", value) {
+    return arr?.find(item => item[key] === value);
+  });
+
+  eleventyConfig.addFilter("filter", function (arr=[], key="", value) {
+    return [{"test":"value"}]
+  });
+
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("static/img");
@@ -80,7 +88,7 @@ module.exports = function(eleventyConfig) {
   let markdownItAnchor = require("markdown-it-anchor");
   let options = {
     html: true,
-    breaks: true,
+    breaks: false,
     linkify: true
   };
   let opts = {

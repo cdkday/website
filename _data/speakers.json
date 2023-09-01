@@ -1,0 +1,1302 @@
+[
+    {
+      "id": "758b2705-820c-45c2-86fa-9c32a3f1a8d4",
+      "firstName": "Abhishek",
+      "lastName": "Gupta",
+      "fullName": "Abhishek Gupta",
+      "bio": "Abhishek is currently a Principal Developer Advocate at AWS. Over the course of his career, he has worn multiple hats including engineering, consulting and product management. Most of his work has revolved around open-source technologies including distributed data systems and cloud-native app dev platforms. He is also an open-source contributor, loves technical writing and sharing knowledge through blogs, books, etc. and has also spoken at online events and conferences such as Kafka Summit, RedisConf, Java One, GIDS etc.",
+      "tagLine": "Principal Developer Advocate at AWS",
+      "profilePicture": "https://sessionize.com/image/51a7-400o400o2-niABVAPDvD241EZYCxKs1g.jpeg",
+      "sessions": [
+        {
+          "id": 499229,
+          "name": "Building Kubernetes apps? How about removing YAML and writing Go code instead!"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/abhi_tweeter",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/abhirockzz/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@abhishek1987/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/abhishek",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "a09cad4a-df74-44cf-a5ab-6ad54de4673d",
+      "firstName": "Alex",
+      "lastName": "Pulver",
+      "fullName": "Alex Pulver",
+      "bio": "Alex is working with AWS customers to help them architect secure, resilient, scalable and high performance SaaS applications in the cloud. His areas of depth include builder experience (developer tools, DevOps culture, CI/CD), containers (orchestrators, networking, service discovery), security (application, infrastructure, OAuth flows), Internet of Things (IoT) and AWS multi-account strategy (identity management, cross-account networking, bootstrapping).",
+      "tagLine": "Principal Solutions Architect, SaaS Factory, AWS",
+      "profilePicture": "https://sessionize.com/image/0cbc-400o400o2-RZimQzQo5xMYnBzV3usyXa.jpeg",
+      "sessions": [
+        {
+          "id": 525081,
+          "name": "AWS CDK and Application Design Framework: Better together"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/alex_pulver",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/alexpulver/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://softwhat.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/alexpulver",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "d4124a1f-ae5f-4be1-9f7d-fb148ab48936",
+      "firstName": "Andrés",
+      "lastName": "Hevia",
+      "fullName": "Andrés Hevia",
+      "bio": "IT architect with extensive experience in the definition of architectures of different kinds (from Microservices to Big Data) for various sectors and companies. Now my goal is to transfer all that experience in evolving the architecture of MAPFRE to address future challenges with greater guarantees, helped by the passion involved in having technology as a hobby",
+      "tagLine": "MAPFRE. Senior Architect",
+      "profilePicture": "https://sessionize.com/image/a58e-400o400o2-wuAC3M6ksP5Zq4hSHwqkde.png",
+      "sessions": [
+        {
+          "id": 514823,
+          "name": "Applying CDK to build applications a large insurance company"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/a_hevia",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/hevia/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://andreshevia.com/Yo-cloud-b1a2a77611b0414d9b63650a2621f19e",
+          "linkType": "Blog"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "3c8bda60-1418-42e6-9ef9-da6022f247e0",
+      "firstName": "Anmol",
+      "lastName": "Gandhi",
+      "fullName": "Anmol Gandhi",
+      "bio": "Data and Product focused on open source solutions @ AWS",
+      "tagLine": "Anmol Gandhi - Data and Product AWS",
+      "profilePicture": "https://sessionize.com/image/a1f8-400o400o2-RmLUo2YLyR4VZ9iHyBRMpr.jpg",
+      "sessions": [
+        {
+          "id": 521306,
+          "name": "AWS DataOps Development Kit"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/anmol-gandhi",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "92a9858d-00e6-4859-94f6-3bc47237583d",
+      "firstName": "Ari",
+      "lastName": "Palo",
+      "fullName": "Ari Palo",
+      "bio": "Ari Palo works as a Lead Technologist for Alma Media - a European digital services and media company operating in 11 countries across Nordics, Baltics and Eastern Central Europe. Ari is super passionate about serverless, infrastructure as a code and developer experience. He also holds several AWS certifications. Nowadays his programming languages of choice are TypeScript & Golang. Ari is also AWS Community Builder focusing on developer tooling. On his free-time Ari is a music lover who can't live without Spotify and attends around 50+ live concerts per year. To unwind he spends a lot of time in the countryside.",
+      "tagLine": "Lead Technologist at Alma Media & AWS Community Builder",
+      "profilePicture": "https://sessionize.com/image/1e46-400o400o2-8d-00e6-4859-94f6-3bc47237583d.44fc2ab7-de8f-4ed2-8bb7-b6ef735bc0f5.jpg",
+      "sessions": [
+        {
+          "id": 524813,
+          "name": "Managing configuration(s) with AWS CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/aripalo/",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/aripalo/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://aripalo.com",
+          "linkType": "Blog"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "2b50c40b-051b-4a98-886e-3f6b44bc805b",
+      "firstName": "Corey",
+      "lastName": "Quinn",
+      "fullName": "Corey Quinn",
+      "bio": "Corey is the Chief Cloud Economist at The Duckbill Group, where he specializes in helping companies improve their AWS bills by making them smaller and less horrifying. He also hosts the \"Screaming in the Cloud\" and \"AWS Morning Brief\" podcasts; and curates \"Last Week in AWS,\" a weekly newsletter summarizing the latest in AWS news, blogs, and tools, sprinkled with snark and thoughtful analysis in roughly equal measure.",
+      "tagLine": "Chief Cloud Economist, The Duckbill Group",
+      "profilePicture": "https://sessionize.com/image/273b-400o400o2-7Fd3FPqeucfoxmsqpn8XwT.png",
+      "sessions": [
+        {
+          "id": 518423,
+          "name": "Deploying to Every AWS Region: A Cautionary Tale"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/quinnypig",
+          "linkType": "Twitter"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "3bddfcc4-d38a-421c-9cf5-7cc7e07b492a",
+      "firstName": "Danielle",
+      "lastName": "Heberling",
+      "fullName": "Danielle Heberling",
+      "bio": "Danielle Heberling is a software engineer with a background that includes being a musician and teaching at a K-8 public school. She’s passionate about building things that make the world a better place, whether that be through social change or a good laugh. When she’s not coding, you can often find her reaching back to her teaching roots by mentoring folks from underrepresented groups that would like to make a career switch into tech.",
+      "tagLine": "Software Engineer",
+      "profilePicture": "https://sessionize.com/image/bf21-400o400o2-hPVZdpJwitDsPReLR6NXue.jpg",
+      "sessions": [
+        {
+          "id": 515054,
+          "name": "Serverless Weather Reporting with AWS Step Functions and CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/deeheber",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/deeheber/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.danielleheberling.xyz/",
+          "linkType": "Blog"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "1c8bf771-e4d0-41a1-8dbb-5a8a519c1ce8",
+      "firstName": "Deepak",
+      "lastName": "Kovvuri",
+      "fullName": "Deepak Kovvuri",
+      "bio": "Deepak Kovvuri is a Senior Solutions Architect at AWS supporting\r\nEnterprise Customers in the US East area. He has over 6 years of\r\nexperience in helping customers architecting a DevOps strategy for their cloud workloads. Some of the areas Deepak focuses on are CI/CD, Systems Administration, Infrastructure as Code, Container Services. He holds an Masters in Computer Engineer from University of Illinois at Chicago.",
+      "tagLine": "Sr. Solutions Architect, AWS",
+      "profilePicture": "https://sessionize.com/image/739c-400o400o2-3t8Zsprw4A1GWd393baopk.jpg",
+      "sessions": [
+        {
+          "id": 520556,
+          "name": "Using SAM CLI with AWS CDK for Building and Testing Serverless Workloads"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/_kovvuri_",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kovvuri/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/deepak-kovvuri",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "70382395-bb6e-449c-b263-e3a36dd2107f",
+      "firstName": "Dr. Rahul Sharad",
+      "lastName": "Gaikwad",
+      "fullName": "Dr. Rahul Sharad Gaikwad",
+      "bio": "Dr. Rahul is a DevOps Lead Consultant at AWS. He helps customers to migrate and modernize workloads to AWS Cloud with a special focus on DevOps and IaC. He is passionate about building innovative solutions using technology and enjoys collaborating with customers and peers. He contributes to open-source community projects. Outside of work, Rahul has completed Ph.D. in AIOps and he enjoys travelling and spending time with his family.",
+      "tagLine": "Lead DevOps Consultant, AWS",
+      "profilePicture": "https://sessionize.com/image/e6d1-400o400o2-hX2Xms35xVJmjc3Rfoho2T.jpg",
+      "sessions": [
+        {
+          "id": 495661,
+          "name": "CI/CD pipeline for hybrid workloads on Amazon ECS Anywhere by using AWS CDK and GitLab"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/rahulsharadgaikwad/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://shorturl.at/dxAF9",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/DrRahulGaikwad",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "34822206-4bab-47cb-87f2-fda9bef29cf6",
+      "firstName": "Eyal",
+      "lastName": "Keren",
+      "fullName": "Eyal Keren",
+      "bio": "Eyal Keren is the Chief Product Officer of Winglang, a new programming language with a mission to democratize the cloud by reimagining development experience from the ground up. Eyal’s focus has always been about software craftsmanship, continuous design and TDD. He started programming early in his childhood when he discovered a BASIC programming book with his first IBM XT computer. Prior to Winglang, Eyal was the CTO and Co-Founder of Rollout.io, later acquired by Cloudbees.",
+      "tagLine": "Chief Product Officer of Winglang",
+      "profilePicture": "https://sessionize.com/image/5e4b-400o400o2-YXG6M8DvhnTWTBFdE9WEQy.jpg",
+      "sessions": [
+        {
+          "id": 522938,
+          "name": "I ain’t mocking - functional tests without any mocks for cloud applications"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ekeren_",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/eyal-keren-b23b7231/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "111c9c52-62a3-4d94-b23e-f2570df4fb93",
+      "firstName": "Franco",
+      "lastName": "Abregu",
+      "fullName": "Franco Abregu",
+      "bio": "Senior DevOps Consultant at AWS Professional Services",
+      "tagLine": "Senior DevOps Consultant - AWS Professional Services, Builder Experience Technical Field Community member",
+      "profilePicture": "https://sessionize.com/image/7fee-400o400o2-RyeNnh2G266V4UXWapTjak.jpeg",
+      "sessions": [
+        {
+          "id": 497942,
+          "name": "Creating custom constructs for re-utilizable patterns"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/francoabregu",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "391672a6-924c-4de6-b823-db789970a541",
+      "firstName": "Harsha",
+      "lastName": "Sharma",
+      "fullName": "Harsha Sharma",
+      "bio": "Harsha is a Principal Solutions Architect with AWS in New York. He joined AWS in 2016, and he works with Global Financial Services customers to design and develop architectures on AWS, supporting their journey on the AWS Cloud.",
+      "tagLine": "Principal Solutions Architect AWS",
+      "profilePicture": "https://sessionize.com/image/67e9-400o400o2-9VhtWQV8wxTFCLn6rUfxs7.jpg",
+      "sessions": [
+        {
+          "id": 523737,
+          "name": "An Ode to Infrastructure Security and Developer Velocity through CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "6b8fff7a-88cc-4baa-8c78-069070719d0d",
+      "firstName": "Hazel",
+      "lastName": "Saenz",
+      "fullName": "Hazel Saenz",
+      "bio": "Hazel Andrea Saenz Giron is a passionate software engineer with a strong affinity for cutting-edge technologies. Her journey in the tech world began with a fascination for problem-solving and a desire to create innovative solutions. With a background in computer science and extensive experience in cloud computing and serverless architectures, Hazel has honed her skills in developing efficient and scalable applications.\r\n\r\nAs an advocate for continuous learning, Hazel actively engages in exploring new trends and best practices in the industry. She thrives on sharing her knowledge through various speaking engagements and workshops, inspiring others to embrace the potential of modern technologies like AWS CDK and SST.\r\n\r\nWhen she's not immersed in coding or contributing to the tech community, Hazel enjoys spending time in nature, practicing yoga, and indulging in sci-fi novels. With her unwavering dedication to tech and her passion for making a positive impact, Hazel continues to be an influential force in the world of software development.",
+      "tagLine": "AWS Community Builder | Solutions Architect at Cognits",
+      "profilePicture": "https://sessionize.com/image/7970-400o400o2-DshFRQEaRdXdQWmyGNXUYJ.jpg",
+      "sessions": [
+        {
+          "id": 521685,
+          "name": "Exploring the Power of Serverless Development with CDK and SST"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/hazel-saenz-41554aa7/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "d6575f73-c7b4-45c8-a7ee-967711e9159a",
+      "firstName": "Hector",
+      "lastName": "Fernandez",
+      "fullName": "Hector Fernandez",
+      "bio": "Creador del Podcast y blog CloudParaTodos, apasionado por la tecnología, basado en Uruguay. Ayudo a las personas a potenciar su carrera usando herramientas cloud. ",
+      "tagLine": "AWS Community Builder, Solution Architect",
+      "profilePicture": "https://sessionize.com/image/7eea-400o400o2-QoqWnzZHaSDW1gKqmDEDkf.jpg",
+      "sessions": [
+        {
+          "id": 510661,
+          "name": "Cómo tener una aplicación en la nube de forma segura"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/hectorfernandez02/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://hector.builders/",
+          "linkType": "Blog"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "8aa71cc1-2a40-40cb-a73e-b97e044e308c",
+      "firstName": "Iris",
+      "lastName": "Kraja",
+      "fullName": "Iris Kraja",
+      "bio": "Iris is a Cloud Application Architect based in New York City. She is passionate about helping customers design and build modern AWS cloud native solutions, with a keen interest in serverless technology, event-driven architectures and\r\nDevOps. Outside of work, she enjoys hiking and spending as much time as possible in nature.",
+      "tagLine": "Cloud Application Architect at Amazon Web Services",
+      "profilePicture": "https://sessionize.com/image/7532-400o400o2-XVJP2G1qAhoDhJukNe2Q3Q.jpg",
+      "sessions": [
+        {
+          "id": 514076,
+          "name": "Write AWS CDK Integration tests using CDK integ-test and CDK integ-runner constructs"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/iris-kraja-a71911142",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "43c614a6-5947-42ae-843d-fd92e69c926e",
+      "firstName": "James",
+      "lastName": "Eastham",
+      "fullName": "James Eastham",
+      "bio": "James Eastham is a Senior Cloud Architect at Amazon Web Services. His specialism is in designing and building serverless, event driven applications on AWS using .NET & Java.",
+      "tagLine": "Senior Cloud Architect",
+      "profilePicture": "https://sessionize.com/image/b320-400o400o2-9DP5apCwtsEbukmudmZ43W.jpeg",
+      "sessions": [
+        {
+          "id": 492077,
+          "name": "Build Advanced Integration Patterns with the AWS CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/plantpowerjames",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/james-eastham/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://jameseastham.co.uk",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/james-eastham",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "648d3067-f3b2-4f1e-b0e0-4274a4b25c8e",
+      "firstName": "Javier",
+      "lastName": "Mendoza",
+      "fullName": "Javier Mendoza",
+      "bio": "Hello, I'm Javier. An AWS Community builder working at The LEGO Group. I've 8 years of experience working with serverless architectures and recently started mentoring colleagues in their serverless journey. Have a nice day",
+      "tagLine": "Senior Application Engineer at the LEGO Group",
+      "profilePicture": "https://sessionize.com/image/8347-400o400o2-n84cFbsfYgMUD4fa3iTdj3.jpg",
+      "sessions": [
+        {
+          "id": 523947,
+          "name": "Como The LEGO Group usa AWS CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/JavierMendoGo",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/javier-mendoza-gomez-b8a8a1122/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/javier-mendoza",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "53f15c7f-bbdc-45f1-bab6-735e300f7a10",
+      "firstName": "Josh",
+      "lastName": "DeMuth",
+      "fullName": "Josh DeMuth",
+      "bio": "Josh is a Partner Solutions Architect at AWS helping consulting partners build on AWS. Josh has a focus area in the Builder Experience domain which includes Infrastructure as Code and the AWS services & ideas that accelerate Automation, DevOps, and CI/CD. Josh fell in love with the AWS CDK a few years ago and hasn't looked back!",
+      "tagLine": "Partner Solutions Architect, AWS",
+      "profilePicture": "https://sessionize.com/image/7d04-400o400o2-hxBbpDLjbkbBAu9TzEeq5Q.jpg",
+      "sessions": [
+        {
+          "id": 495669,
+          "name": "CDK Stack Synthesis Implementation Deep Dive"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/joshuademuth/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "b24d7008-8661-44da-8559-7a8deba240f0",
+      "firstName": "Juan Manuel",
+      "lastName": "Ruiz Fernández",
+      "fullName": "Juan Manuel Ruiz Fernández",
+      "bio": "Cloud Engineer specialized in Infrastructure as Code in AWS. Passionate about AWS ecosystem and the serverless mindset.",
+      "tagLine": "Cloud Engineer | IaC | Serverless developer",
+      "profilePicture": "https://sessionize.com/image/d3a6-400o400o2-PDZvK7i2hwTuTZG1kHitzW.jpeg",
+      "sessions": [
+        {
+          "id": 512323,
+          "name": "Inter-stack dependencies strategies in CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/NeoVasili",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/juanmanuelruizfernandez/?locale=en_US",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://thebrickcode.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "319ce40d-7d5c-471a-bff5-a8b33ec859bc",
+      "firstName": "Jubril",
+      "lastName": "Oyetunji",
+      "fullName": "Jubril Oyetunji",
+      "bio": "software engineer interested in distributed systems and likes coffee",
+      "tagLine": "Software Engineer",
+      "profilePicture": "https://sessionize.com/image/28bc-400o400o2-4mDCtRmP1YPciq1KvoxYLk.jpg",
+      "sessions": [
+        {
+          "id": 523200,
+          "name": "Skeptics Guide to Terraform CDK adoption"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/s1ntaxe770r",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/Jubril",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "68dc049d-9558-44b0-acec-c9646a4049f2",
+      "firstName": "Julian",
+      "lastName": "Michel",
+      "fullName": "Julian Michel",
+      "bio": "Julian is AWS Community Builder and works as Senior IT Architect at XL2 by Audi & Capgemini. Before that he worked for MHP – A Porsche Company.\r\nHe is building AWS-based serverless applications in context of smart manufacturing. He likes to use AWS CDK to define cloud infrastructure in his projects. \r\nSince 2020, he is AWS certified Solutions Architect Professional and DevOps Engineer Professional.\r\n\r\nIn the past, Julian worked as a SAP consultant. In this role, his main focus were SAP ERP data migrations, data quality, SAP MES implementations and ERP-MES integration.",
+      "tagLine": "AWS Community Builder | Senior IT Architect Cloud/AWS @ XL2 by Audi & Capgemini",
+      "profilePicture": "https://sessionize.com/image/0113-400o400o2-M165AnKTbJQpwCJxmqpWp9.jpg",
+      "sessions": [
+        {
+          "id": 524291,
+          "name": "AppSync Merged API as an example to contribute to AWS CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/jumic88",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/julianmichel2/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://julianmichel.dev/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/jumic",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "aa93dc7f-1714-421c-8447-5858ceb82e9d",
+      "firstName": "Kuba",
+      "lastName": "Konczyk",
+      "fullName": "Kuba Konczyk",
+      "bio": "I help you maximise the power of the AWS cloud",
+      "tagLine": "AAI Champion, AWS EMEA",
+      "profilePicture": "https://sessionize.com/image/6275-400o400o2-BgP9yX5i6kDRYTG5BVxJet.jpeg",
+      "sessions": [
+        {
+          "id": 492770,
+          "name": "Creating CDK applications using Generative AI."
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/KubaKonczyk",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kubakonczyk/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://kubakonczyk.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/kuba-konczyk",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "ce069638-aa72-41dd-b9ca-d80c812beb90",
+      "firstName": "Lucas",
+      "lastName": "Hanson",
+      "fullName": "Lucas Hanson",
+      "bio": "--",
+      "tagLine": "Lucas Hanson - Senior Data Engineer AWS",
+      "profilePicture": "https://sessionize.com/image/7803-400o400o2-RUrZUaWTf7DFy6R3KzcCqA.png",
+      "sessions": [
+        {
+          "id": 521306,
+          "name": "AWS DataOps Development Kit"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "c039f95d-6ff3-40dc-8974-b0da38eab41a",
+      "firstName": "Maciej",
+      "lastName": "Radzikowski",
+      "fullName": "Maciej Radzikowski",
+      "bio": "I'm a Software Developer and Architect, member of the AWS Community Builders. I develop Serverless solutions on AWS for well-known media companies. As a Serverless enthusiast, I like to share my knowledge and experience with others through my blog (BetterDev.blog) and Twitter (@radzikowski_m).",
+      "tagLine": "Doing Serverless on AWS",
+      "profilePicture": "https://sessionize.com/image/7db1-400o400o2-GBNHdFJjpVRbkC5LPpPqL7.jpg",
+      "sessions": [
+        {
+          "id": 524310,
+          "name": "Beyond CDK Pipelines for Modern Serverless CI/CD"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/radzikowski_m",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mradzikowski/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://betterdev.blog/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/mradzikowski",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "a07891ef-6ba2-44ad-93d5-38e2ccef5528",
+      "firstName": "Masashi",
+      "lastName": "Tomooka",
+      "fullName": "Masashi Tomooka",
+      "bio": "Masashi Tomooka is a prototyping engineer at Amazon Web Services Japan, where he builds various prototypes for customers. He also actively participates in the community to expand the knowledge of AWS CDK.",
+      "tagLine": "Prototyping engineer",
+      "profilePicture": "https://sessionize.com/image/33c5-400o400o2-fLesLEsxGSLYRKF4kFgZiz.png",
+      "sessions": [
+        {
+          "id": 496938,
+          "name": "Deploy web frontend apps with CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/tmokmss",
+          "linkType": "Twitter"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "3506e2f1-bdf2-4cc0-8e0e-56eedd2d93ac",
+      "firstName": "Matthew",
+      "lastName": "Rawlings",
+      "fullName": "Matthew Rawlings",
+      "bio": "Im Matthew Rawlings! I'm currently a SDE II at AWS S3. Im a professional and enthusiast for all things technology. I love learning new languages and frameworks and applying them to side projects. I do buckets by day, and Homelab by night.",
+      "tagLine": "AWS S3 - SDE II - Bucket Builder",
+      "profilePicture": "https://sessionize.com/image/0ef1-400o400o2-GGWv48HHfCyyo9ytCQLZM6.jpg",
+      "sessions": [
+        {
+          "id": 522403,
+          "name": "CDK-ANS - Amplifying Ansible with CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "c032ce0e-73a9-445b-a42d-a674d6912262",
+      "firstName": "Michael",
+      "lastName": "Liendo",
+      "fullName": "Michael Liendo",
+      "bio": "With a passion for education and lowering barriers-to-entry, I use  my frontend and cloud skillsets to help individuals and teams grow their skillsets.\r\n\r\nWhen my head isn't in the clouds, I can usually be found in VR with my kids or catching up on the latest tech-twitter gossip.",
+      "tagLine": "Instructor/Consultant | Frontend and Serverless Cloud ",
+      "profilePicture": "https://sessionize.com/image/4606-400o400o2-EvRAUKXZ5a8ZiNJDCtrKaY.jpeg",
+      "sessions": [
+        {
+          "id": 501372,
+          "name": "From Concept to Cash Flow: Generating Passive Income using AWS CDK, AppSync, and NextJS"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/focusotter",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/focusotter/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://blog.focusotter.cloud",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/michael-liendo",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "b0fddce8-aac4-4f00-b3bc-a5b3d595f560",
+      "firstName": "Miguel A.",
+      "lastName": "Calles",
+      "fullName": "Miguel A. Calles",
+      "bio": "Miguel A. Calles is a certified Cybersecurity engineer that works on cloud computing projects and writes about serverless security. He has worked on multiple serverless projects as a developer and security engineer, contributed to open-source serverless projects, and worked on large military systems in various engineering roles. Miguel is a Principal Solutions and Security Engineer at VeriToll, LLC. ",
+      "tagLine": "Author · Cybersecurity engineer · Creating serverless solutions and securing small company environments",
+      "profilePicture": "https://sessionize.com/image/7078-400o400o2-543cf90a-f2e3-46a5-950b-e94576f14451.jpg",
+      "sessions": [
+        {
+          "id": 501688,
+          "name": "We migrated from Serverless Framework and this is what we learned"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/MiguelCallesMBA",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/miguel-a-calles-mba",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/miguelacallesmba",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "1c947575-d008-4ead-9a3a-68597c324557",
+      "firstName": "Momo",
+      "lastName": "Kornher",
+      "fullName": "Momo Kornher",
+      "bio": "From dabbling with JavaScript to developing the AWS CDK.\r\nI've been building Web and now Cloud applications for over ten years. Now I'm very happy to be part of the CDK Core team at AWS.",
+      "tagLine": "Software Engineer, AWS CDK",
+      "profilePicture": "https://sessionize.com/image/4f3d-400o400o2-X2kPFiGEid32fe3BMt7few.jpg",
+      "sessions": [
+        {
+          "id": 524031,
+          "name": "Projen feature round-up"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/mrgrain",
+          "linkType": "Twitter"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "9e16da08-017c-4ebc-8459-4772252335d5",
+      "firstName": "Neelam",
+      "lastName": "Koshiya",
+      "fullName": "Neelam Koshiya",
+      "bio": "Neelam Koshiya is principal solutions architect at AWS. With a background in software engineering, she moved organically into an architecture role. Her current focus is to help enterprise customers with their cloud-adoption journeys for strategic business outcomes. Her area of depth is machine learning. She likes to build content/mechanisms to scale to larger audience. She is passionate about innovation and inclusion. In her spare time, she enjoys reading and being outdoors.",
+      "tagLine": "Principal Solutions Architect,  AWS",
+      "profilePicture": "https://sessionize.com/image/4e3e-400o400o2-JXxMKHXh3DQndBc1Mi8W5o.jpg",
+      "sessions": [
+        {
+          "id": 520641,
+          "name": "Deploy generative AI models from Amazon SageMaker JumpStart using the AWS CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/neelam-koshiya-3b8407120/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/neelam-koshiya",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "53f0b9ef-6acb-4bc3-8569-7386e974f07b",
+      "firstName": "Nora",
+      "lastName": "Schöner",
+      "fullName": "Nora Schöner",
+      "bio": "Nora Schöner is a German based Cloud Engineer who has been working in the tech industry since 2012. She is a AWS Community Builder and focuses on Cloud Computing and DevOps, but also on empowering other women developers. \r\nNora co-founded She 'n IT Nuremberg, a meetup to connect other women devs in the industry and co-organizes the AWS UG Nuremberg. She blogs at wolkencode.de. Besides work Nora likes drawing Manga, dancing or enjoying delicious food.",
+      "tagLine": "Your #1 cheerleader for women in tech ",
+      "profilePicture": "https://sessionize.com/image/2a8d-400o400o2-wxVM4qRJXzR21jwYcxfRnB.jpg",
+      "sessions": [
+        {
+          "id": 523802,
+          "name": "Building efficient infrastructure: AWS CDK vs Terraform - and why CDK should be your choice"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/wolkencode",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/nora-schoener/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://wolkencode.de",
+          "linkType": "Blog"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "4e7a7f06-fbf6-476b-ba23-c892175b8be7",
+      "firstName": "Pawel",
+      "lastName": "Adaszewski",
+      "fullName": "Pawel Adaszewski",
+      "bio": "Pawel Adaszewski is a Senior Software Consultant at Carl Zeiss Digital Innovation GmbH in Görlitz, Germany. In his daily work, he tries to overcome the challenges of the Industrial IoT world using the AWS cloud. His main tasks include designing and building automatically provisioned serverless cloud infrastructures.",
+      "tagLine": "Senior Software Consultant @ ZEISS Digital Innovation",
+      "profilePicture": "https://sessionize.com/image/a21a-400o400o2-WyXPQkqWRrbGjmpYXGZma7.png",
+      "sessions": [
+        {
+          "id": 519773,
+          "name": "Automated deployment of applications in a multi-instance architecture"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/pawel-adaszewski/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://thecloudthing.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "26dba043-1633-4522-99fb-392a7126e4ee",
+      "firstName": "Philip",
+      "lastName": "Chen",
+      "fullName": "Philip Chen",
+      "bio": "Philip Chen is a senior cloud application architect at AWS. He works with customers to design cloud solutions that are built to achieve business goals and outcomes. He is passionate about his work and enjoys the creativity that goes into architecting solutions.",
+      "tagLine": "Senior Cloud Application Architect @ AWS",
+      "profilePicture": "https://sessionize.com/image/248e-400o400o2-BULBNXP2TdBQ1zzDmXbV6X.jpg",
+      "sessions": [
+        {
+          "id": 514076,
+          "name": "Write AWS CDK Integration tests using CDK integ-test and CDK integ-runner constructs"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/philipwchen/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "f52bf4ef-49ac-4b9b-b514-9fc29b141510",
+      "firstName": "Philipp",
+      "lastName": "Garbe",
+      "fullName": "Philipp Garbe",
+      "bio": "tbd",
+      "tagLine": "Lead Platform Engineer @ Personio",
+      "profilePicture": "https://sessionize.com/image/260a-400o400o2-ef-49ac-4b9b-b514-9fc29b141510.b23b0377-77d9-4446-967a-1f009f37853d.png",
+      "sessions": [
+        {
+          "id": 498468,
+          "name": "Deep dive into managing StackSets with CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/pgarbe",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/pgarbe/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://garbe.io",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/pgarbe",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "14725a99-6f98-4385-a8cf-71813e2f1887",
+      "firstName": "Ran",
+      "lastName": "Isenberg",
+      "fullName": "Ran Isenberg",
+      "bio": "Ran Isenberg is an AWS Serverless Hero and a principal software architect at CyberArk, where he designs and builds serverless services. Ran is a serverless advocate passionate about CI/CD and AWS CDK.\r\n \r\nRan maintains a blog where he shares his knowledge and experience in the serverless world and thoughts about technology in general.\r\n  \r\nRan contributed several utilities to the AWS Lambda Powertools open-source project and maintains numerous serverless related open-source projects on his GitHub account. \r\nOne of these projects is the AWS Lambda cookbook – a serverless service template that gets you started in the serverless world with all the best practices in seconds.\r\n \r\nRan shares his knowledge at dozens of conferences, podcasts, webinars, and meetups and publishes the recordings on his blog. Ran regularly shares his blog posts and new projects on his Twitter and LinkedIn accounts.\r\n \r\nOn a personal note, Ran is a proud father of two boys, an amateur barista, and plays the electric guitar.\r\n\r\nBlog: https://ranthebuilder.cloud\r\nGitHub: https://github.com/ran-isenberg\r\nTwitter: https://twitter.com/IsenbergRan\r\nLinkedIn:  https://linkedin.com/in/ranisenberg/",
+      "tagLine": "Principal Software Architect @CyberArk",
+      "profilePicture": "https://sessionize.com/image/f1a4-400o400o2-76oz1oJEJAvpXVo34ZBDFV.jpg",
+      "sessions": [
+        {
+          "id": 493401,
+          "name": "AWS CDK - Best Practices From The Trenches"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/IsenbergRan",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ranisenberg/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.ranthebuilder.cloud/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/ran-isenberg",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "2bb53d28-b872-4a0b-84af-70785ee7bbf0",
+      "firstName": "Ryan",
+      "lastName": "Batchelder",
+      "fullName": "Ryan Batchelder",
+      "bio": "Ryan is a cloud architect helping to enable teams in their AWS journey, particularly focused on the resilience and security spaces. Beyond the cloud, Ryan enjoys everything tech, hockey, and is an unapologetic aviation geek.",
+      "tagLine": "Technology Architect - Liberty Mutual",
+      "profilePicture": "https://sessionize.com/image/641e-400o400o2-HsKwK8U9DYth9Rc4g5ZkJS.jpg",
+      "sessions": [
+        {
+          "id": 525963,
+          "name": "Making your first contribution to the AWS CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/rdbatch02",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/rdbatch02/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "ea7ff95f-2877-4103-a110-ff535222ed71",
+      "firstName": "Sandy",
+      "lastName": "Atencio Hernandez",
+      "fullName": "Sandy Atencio Hernandez",
+      "bio": "actualmente me desempeño como Ingeniera de Datos en Bancolombia. Además de mi trabajo, tengo una pasión por colaborar en comunidades Tech, donde puedo compartir mis experiencias y aprender de otros profesionales apasionados por la tecnología. Fuera del ámbito profesional, hay tres cosas que me apasionan: los gatos, los videojuegos y los girasoles. ",
+      "tagLine": "Data Engineer Bancolombia",
+      "profilePicture": "https://sessionize.com/image/926f-400o400o2-7t5XLZFWMD7wWjgPaSGohW.PNG",
+      "sessions": [
+        {
+          "id": 521536,
+          "name": "Construye tu propio ambiente de data analytics con CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "83353aaf-c419-48c9-82ea-1c66c8633a96",
+      "firstName": "Sarat Chandra",
+      "lastName": "Pothula",
+      "fullName": "Sarat Chandra Pothula",
+      "bio": "Sarat Chandra Pothula is a DevOps consultant at AWS. He has a deep understanding of the principles and practices of DevOps and skilled in implementing and managing DevOps processes within organisation. He has strong background in both software development and system administration. Apart from work, he spent his personal time with his family and loves to explore new places",
+      "tagLine": "DevOps Consultant @AWS",
+      "profilePicture": "https://sessionize.com/image/fb66-400o400o2-fwYvy9tAD1fP2q3LVAzMBX.JPEG",
+      "sessions": [
+        {
+          "id": 495661,
+          "name": "CI/CD pipeline for hybrid workloads on Amazon ECS Anywhere by using AWS CDK and GitLab"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/saratchandrapothula",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "22c7ca5e-f9ea-449e-a115-7dd204d95fa1",
+      "firstName": "Shubham",
+      "lastName": "Shukla",
+      "fullName": "Shubham Shukla",
+      "bio": "Shubham Shukla is a Vice President on the Fast Track team at Goldman Sachs. He is interested in problems at the intersection of cloud security, shared responsibility and user experience. His work derives inspiration from biologically inspired robotics, mix martial arts and social sciences.",
+      "tagLine": "Goldman Sachs",
+      "profilePicture": "https://sessionize.com/image/bbbc-400o400o2-wD8pTMrBcmcZzFke8ErrDK.jpeg",
+      "sessions": [
+        {
+          "id": 523737,
+          "name": "An Ode to Infrastructure Security and Developer Velocity through CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/shu-shukla",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/shubham-shukla",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "6cf8881b-e0d5-4f54-8361-346688349b9d",
+      "firstName": "Svenja",
+      "lastName": "Raether",
+      "fullName": "Svenja Raether",
+      "bio": "Cloud Application Architect that likes to build systems with AWS CDK ",
+      "tagLine": "Associate Cloud Application Architect",
+      "profilePicture": "https://sessionize.com/image/75e3-400o400o2-fHw9PEoQbkK8sLS7qvcDrs.jpg",
+      "sessions": [
+        {
+          "id": 514076,
+          "name": "Write AWS CDK Integration tests using CDK integ-test and CDK integ-runner constructs"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "0ed0ff10-6e30-4dd7-8b71-9b2671921871",
+      "firstName": "Takuya",
+      "lastName": "Hashimoto",
+      "fullName": "Takuya Hashimoto",
+      "bio": "I work at an Serverworks, an AWS Premier Tier Services Partner company (System Integrator) in Japan. \r\n\r\nhttps://www.serverworks.co.jp/en/\r\nhttps://partners.amazonaws.com/partners/001E000000NaBHzIAN/Serverworks%20Co.,%20Ltd.\r\n\r\nMy role is a corporate engineer. \r\n\r\nI love serverless technologies like Step Functions.",
+      "tagLine": "Corporate Engineer. I like Serverless, AWS, and CDK",
+      "profilePicture": "https://sessionize.com/image/cb32-400o400o2-aqMYQeEScH6MskicqzCAhL.jpg",
+      "sessions": [
+        {
+          "id": 525323,
+          "name": "Configure cross-account deployment using CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/hassaku_63",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/tkhash/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://zenn.dev/hassaku63",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/hassaku63",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
+      "id": "75cd0869-7375-4fb7-9b6a-67584fd2c09e",
+      "firstName": "Viktor",
+      "lastName": "Vedmich",
+      "fullName": "Viktor Vedmich",
+      "bio": "Viktor bio:\r\nDuring his career, he managed to work as a developer, a systems engineer and as Systems Architect. For a long time, he worked combining the two roles of a system architect and engineer on projects based on Kubernetes. Always shares knowledge, when possible, through speeches, audio and video podcasts  \r\n\r\nMike bio:\r\nMike helps AWS customers to build efficient infrastructures in the cloud. He works in IT for more than 15 years, starting as a freelance developer and then transitioning through multiple roles and teams, including support team, professional services and pre-sales.\r\n\r\nBefore AWS he worked in CloudBlue (an Ingram Micro business) with Telcos and Distributors across EMEA to expand their product portfolio with cloud services. ",
+      "tagLine": "Senior Developer Advocate | AWS",
+      "profilePicture": "https://sessionize.com/image/6d18-400o400o2-3iQZFUMjmCSdTX3huBWiF8.jpg",
+      "sessions": [
+        {
+          "id": 524636,
+          "name": "Efficient Kubernetes Management with cdk8s: A New Era of Infrastructure as Code"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/vedmichv",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/vedmich/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    }
+  ]

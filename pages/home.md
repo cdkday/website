@@ -137,6 +137,7 @@ A small group of community members from across the globe thought this was someth
   </main>
 </section>
 
+
 <!--<section id="schedule" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
       <div class="mt-6 py-3">
@@ -170,12 +171,139 @@ A small group of community members from across the globe thought this was someth
         We have speakers from all over the world talking about AWS CDK, cdk8s, Projen and CDKTF.
     </p>
     <div class="flex flex-wrap">
-        <div class="w-full">
-            <script type="text/javascript" src="https://sessionize.com/api/v2/p058zjd0/view/SpeakerWall"></script>
+    {%- for speaker in speakers -%}
+        <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-6 flex flex-col">
+            {%- if speaker.links.length >0 -%}
+            <a aria-label="go to {{ speaker.firstName }}'s Social page" href="{{ speaker.links[0].url }}">
+                <img class="hover:grow hover:shadow-lg border" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}">
+                <div class="pt-3">
+                    <p class="text-gray-800 font-bold">{{ speaker.fullName }}</p>
+                    <p class="text-gray-700 text-sm font-normal">
+                        {{ speaker.tagLine }}
+                    </p>
+                </div>
+            </a>
+            {%- else -%}
+            <img class="hover:grow hover:shadow-lg border" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}">
+            <div class="pt-3">
+                <p class="text-gray-800 font-bold">{{ speaker.fullName }}</p>
+                <p class="text-gray-700 text-sm font-normal">
+                    {{ speaker.tagLine }}
+                </p>
+            </div>
+            {%- endif -%}
+            <p class="mt-3" style="font-size:1rem; font-weight:bold;">
+                Session:
+            </p>
+            <div class="text-sm">
+                <a href="#{{ speaker.sessions[0].name | slugify }}">{{ speaker.sessions[0].name }}</a>
+            </div>
         </div>
+    {%- endfor -%}
     </div>
   </main>
 </section>
+
+ <section id="sessions" class="mt-10">
+    <header class="w-full z-30 top-0 py-1">
+        <div class="mt-6 py-3">
+            <p class="text-3xl tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl ">
+                This Year's Sessions
+            </p>
+        </div>
+        <p class="mb-6">
+            Our sessions are broken down into different levels from Beginner to Advanced and different categories from Builders tips through to Enterprise Stories right the way to "Something Else" for brand new ideas.
+        </p>
+  </header>
+    {%- for talk in sessions[0].sessions -%}
+        <article id="{{ talk.title | slugify }}" class="flex flex-wrap">
+            <!-- Left Image section -->
+            <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col hidden md:block">
+                <div class="flex flex-wrap">
+                    {%- for sessionSpeaker in talk.speakers -%}
+                        {%- for speaker in speakers -%}
+                            {%- if speaker.id == sessionSpeaker.id -%}
+                                {%- if speaker.links.length >0 -%}
+                                    <a aria-label="go to {{ speaker.fullName }}'s social page" href="{{ speaker.links[0].url }}" style="max-height:250px; overflow: hidden;" class="{% if talk.speakers.length > 1 %}w-1/2 pr-3{% endif %}">
+                                        <img class="hover:grow hover:shadow-lg border mt-3" style="max-height:200px" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}">
+                                    </a>
+                                {%- else -%}
+                                    <div class="{% if talk.speakers.length > 1 %}w-1/2 pr-3{% endif %}">
+                                    <img class="border mt-3" style="max-height:200px" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}">
+                                    </div>
+                                {%- endif -%}
+                            {%- endif -%}
+                        {%- endfor -%}
+                    {%- endfor -%}
+                </div>
+            </div>
+            <!-- Right Hand Description section -->
+            <div class="w-full md:w-2/3 lg:w-3/4 xl:w-3/4 p-6 flex flex-col">
+                <div>
+                    <p class="text-gray-800 text-2xl font-bold pb-3">{{ talk.title }}</p>
+                    <p class="text-gray-700 font-normal">
+                        {{ talk.description }}
+                    </p>
+                </div>
+                <p class="mt-3">
+                    {%- for category in talk.categories -%}
+                        {%- if category.name == "Level" -%}
+                            <p class="text-sm">
+                            <span style="font-size:1rem; font-weight:bold;">Level:&nbsp;</span>
+                            {%- for talk_category in category.categoryItems -%}
+                            {{ talk_category.name }}, 
+                            {%- endfor -%}
+                            </p>
+                        {%- endif -%}
+                    {%- endfor -%}
+                </p>
+                <p class="mt-1">
+                {%- for category in talk.categories -%}
+                    {%- if category.name == "Which Talk Categories align with your talk best?" -%}
+                        <p class="text-sm">
+                        <span style="font-size:1rem; font-weight:bold;">Categories:&nbsp;</span>
+                        {%- for talk_category in category.categoryItems -%}
+                           {{ talk_category.name}},&nbsp; 
+                        {%- endfor -%}
+                        </p>
+                    {%- endif -%}
+                {%- endfor -%}
+            </p>
+            <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 pt-6 flex flex-col block md:hidden">
+                <div class="flex flex-wrap">
+                    {%- for sessionSpeaker in talk.speakers -%}
+                        {%- for speaker in speakers -%}
+                            {%- if speaker.id == sessionSpeaker.id -%}
+                                {%- if speaker.links.length >0 -%}
+                                    <a aria-label="go to {{ speaker.fullName }}'s social page" href="{{ speaker.links[0].url }}" style="max-height:250px; overflow: hidden;" class="{% if talk.speakers.length > 1 %}w-1/2{% endif %}">
+                                        <img class="hover:grow hover:shadow-lg border mt-3" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}"  style="max-height:200px">
+                                    </a>
+                                {%- else -%}
+                                    <img class="border mt-3 {% if talk.speakers.length > 1 %} pr-3{% endif %}" style="max-height:200px" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}">
+                                {%- endif -%}
+                            {%- endif -%}
+                        {%- endfor -%}
+                    {%- endfor -%}
+                </div>
+            </div>
+            {%- for sessionSpeaker in talk.speakers -%}
+                {%- for speaker in speakers -%}
+                    {%- if speaker.id == sessionSpeaker.id -%}
+                        <div class="pt-3">
+                            <p class="text-gray-800 font-bold">{{  speaker.fullName }}</p>
+                            <p class="text-gray-700 font-normal">
+                                {{ speaker.tagLine }}
+                            </p>
+                        </div>
+                    {%- endif -%}
+                {%- endfor -%}
+            {%- endfor -%}
+            </div>
+        </article>
+        <hr class="w-full md:hidden"/>
+    {%- endfor -%}
+</section>
+
 
 <section id="community" class="mt-10">
   <header class="w-full z-30 top-0 py-1">
