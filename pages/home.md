@@ -352,7 +352,21 @@ A small group of community members from across the globe thought this was someth
                         {{ talk.description }}
                     </p>
                 </div>
-                <p class="mt-3">
+                {%- for spanishID in data.spanish_talks -%}
+                    {%- if talk.id == spanishID -%}
+                        <p class="text-sm mt-3">
+                            <span style="font-size:1rem; font-weight:bold;">Language:&nbsp;</span>Spanish
+                        </p>
+                    {%- endif -%}
+                {%- endfor -%}
+                {%- for englishID in data.english_talks -%}
+                    {%- if talk.id == englishID -%}
+                        <p class="text-sm mt-3">
+                            <span style="font-size:1rem; font-weight:bold;">Language:&nbsp;</span>English
+                        </p>
+                    {%- endif -%}
+                {%- endfor -%}
+                <p class="mt-1">
                     {%- for category in talk.categories -%}
                         {%- if category.name == "Level" -%}
                             <p class="text-sm">
@@ -375,38 +389,38 @@ A small group of community members from across the globe thought this was someth
                         </p>
                     {%- endif -%}
                 {%- endfor -%}
-            </p>
-            <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 pt-6 flex flex-col block md:hidden">
-                <div class="flex flex-wrap" style="min-height: 212px;">
-                    {%- for sessionSpeaker in talk.speakers -%}
-                        {%- for speaker in speakers -%}
-                            {%- if speaker.id == sessionSpeaker.id -%}
-                                {%- if speaker.links.length >0 -%}
-                                    <a aria-label="go to {{ speaker.fullName }}'s social page" href="{{ speaker.links[0].url }}" style="max-height:250px; overflow: hidden;" class="{% if talk.speakers.length > 1 %}w-1/2 pr-3{% endif %}">
-                                        <img class="hover:grow hover:shadow-lg border mt-3" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}"  style="max-height:200px">
-                                    </a>
-                                {%- else -%}
-                                    <div class="{% if talk.speakers.length > 1 %}w-1/2 pr-3{% endif %}">
-                                        <img class="border mt-3" style="max-height:200px" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}">
-                                    </div>
+                </p>
+                <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 pt-6 flex flex-col block md:hidden">
+                    <div class="flex flex-wrap" style="min-height: 212px;">
+                        {%- for sessionSpeaker in talk.speakers -%}
+                            {%- for speaker in speakers -%}
+                                {%- if speaker.id == sessionSpeaker.id -%}
+                                    {%- if speaker.links.length >0 -%}
+                                        <a aria-label="go to {{ speaker.fullName }}'s social page" href="{{ speaker.links[0].url }}" style="max-height:250px; overflow: hidden;" class="{% if talk.speakers.length > 1 %}w-1/2 pr-3{% endif %}">
+                                            <img class="hover:grow hover:shadow-lg border mt-3" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}"  style="max-height:200px">
+                                        </a>
+                                    {%- else -%}
+                                        <div class="{% if talk.speakers.length > 1 %}w-1/2 pr-3{% endif %}">
+                                            <img class="border mt-3" style="max-height:200px" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}">
+                                        </div>
+                                    {%- endif -%}
                                 {%- endif -%}
-                            {%- endif -%}
+                            {%- endfor -%}
                         {%- endfor -%}
-                    {%- endfor -%}
+                    </div>
                 </div>
-            </div>
-            {%- for sessionSpeaker in talk.speakers -%}
-                {%- for speaker in speakers -%}
-                    {%- if speaker.id == sessionSpeaker.id -%}
-                        <div class="pt-3">
-                            <p class="text-gray-800 font-bold">{{  speaker.fullName }}</p>
-                            <p class="text-gray-700 font-normal">
-                                {{ speaker.tagLine }}
-                            </p>
-                        </div>
-                    {%- endif -%}
+                {%- for sessionSpeaker in talk.speakers -%}
+                    {%- for speaker in speakers -%}
+                        {%- if speaker.id == sessionSpeaker.id -%}
+                            <div class="pt-3">
+                                <p class="text-gray-800 font-bold">{{  speaker.fullName }}</p>
+                                <p class="text-gray-700 font-normal">
+                                    {{ speaker.tagLine }}
+                                </p>
+                            </div>
+                        {%- endif -%}
+                    {%- endfor -%}
                 {%- endfor -%}
-            {%- endfor -%}
             </div>
             <hr class="w-full md:hidden"/>
         </article>
