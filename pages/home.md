@@ -372,7 +372,7 @@ A small group of community members from across the globe thought this was someth
                             <p class="text-sm">
                             <span style="font-size:1rem; font-weight:bold;">Level:&nbsp;</span>
                             {%- for talk_category in category.categoryItems -%}
-                            {{ talk_category.name }}, 
+                            {{ talk_category.name }} 
                             {%- endfor -%}
                             </p>
                         {%- endif -%}
