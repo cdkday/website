@@ -174,8 +174,9 @@ A small group of community members from across the globe thought this was someth
     {%- for speaker in speakers -%}
         <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-6 flex flex-col">
             {%- if speaker.links.length >0 -%}
+            <div style="width:100%; padding-top:100%;position:relative;">
             <a aria-label="go to {{ speaker.firstName }}'s Social page" href="{{ speaker.links[0].url }}">
-                <img class="hover:grow hover:shadow-lg border" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}">
+                <img class="hover:grow hover:shadow-lg border" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}"  style="position:absolute; top:0; left:0; width:100%;">
                 <div class="pt-3">
                     <p class="text-gray-800 font-bold">{{ speaker.fullName }}</p>
                     <p class="text-gray-700 text-sm font-normal">
@@ -183,8 +184,11 @@ A small group of community members from across the globe thought this was someth
                     </p>
                 </div>
             </a>
+            </div>
             {%- else -%}
-            <img class="hover:grow hover:shadow-lg border" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}">
+            <div style="width:100%; padding-top:100%;position:relative;">
+            <img class="hover:grow hover:shadow-lg border" alt="{{ speaker.fullName }}" src="{{ speaker.profilePicture }}" style="position:absolute; top:0; left:0; width:100%;">
+            </div>
             <div class="pt-3">
                 <p class="text-gray-800 font-bold">{{ speaker.fullName }}</p>
                 <p class="text-gray-700 text-sm font-normal">
@@ -270,7 +274,7 @@ A small group of community members from across the globe thought this was someth
                 {%- endfor -%}
             </p>
             <div class="w-full md:w-1/3 lg:w-1/4 xl:w-1/4 pt-6 flex flex-col block md:hidden">
-                <div class="flex flex-wrap">
+                <div class="flex flex-wrap" style="min-height: 212px;">
                     {%- for sessionSpeaker in talk.speakers -%}
                         {%- for speaker in speakers -%}
                             {%- if speaker.id == sessionSpeaker.id -%}
