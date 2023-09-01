@@ -301,15 +301,15 @@ A small group of community members from across the globe thought this was someth
             <legend class="pt-3">Filter by Language:</legend>
             <div>
                 <input type="radio" id="filter-lang-all" name="filter-lang" value="all" onclick="filtertalks(this, 'all')" checked />
-                <label for="filter-all">All</label>
+                <label for="filter-lang-all">All</label>
             </div>
             <div>
                 <input type="radio" id="filter-lang-english" name="filter-lang" value="english" onclick="filtertalks(this, 'english')" />
-                <label for="filter-intro">English</label>
+                <label for="filter-lang-english">English</label>
             </div>
             <div>
                 <input type="radio" id="filter-lang-spanish" name="filter-lang" value="spanish" onclick="filtertalks(this, 'spanish')" />
-                <label for="filter-intro">Spanish</label>
+                <label for="filter-lang-spanish">Spanish</label>
             </div>
         </fieldset>
         <div>
