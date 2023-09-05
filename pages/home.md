@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: CDK Day - 29th September 2023 - Tickets Opening Soon!!!
+title: CDK Day - 29th September 2023 - Grab Your Tickets Now!
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 data: { "categories": [
