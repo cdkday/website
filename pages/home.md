@@ -640,7 +640,7 @@ A small group of community members from across the globe thought this was someth
       </div>
       <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 p-6 flex flex-col">
           <a aria-label="go to Tatenda's Twitter page" href="https://twitter.com/Taity__m">
-              <img class="hover:grow hover:shadow-lg border" alt="Mirabela" src="/static/img/tatenda.jpg">
+              <img class="hover:grow hover:shadow-lg border" alt="Tatenda Gibson" src="/static/img/tatenda.jpg">
               <div class="pt-3">
                   <p class="text-gray-800 font-bold">Tatenda Gibson</p>
                   <span class="text-gray-700 font-normal">
