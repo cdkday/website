@@ -164,6 +164,7 @@ A small group of community members from across the globe thought this was someth
     <p class="mb-6">
         This time we are running three parallel YouTube streams so that we can cram even more CDK goodness into a shorter overall event, an exciting announcement is that stream 3 will be completely in Spanish! We staggered the streams so that everyone can join for our closing keynote. The date and time shown below has been localised by sessionize to your time zone, on the off chance you think it is wrong the event kicks off at 12pm UTC on 29th September 2023.
     </p>
+    <a class="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded mt-3" style="width: 190px; text-align:center;" href="https://cdkday2023.eventbrite.com/">Get A Free Ticket</a>
     <div class="flex flex-wrap">
         <div class="w-full">
             <script type="text/javascript" src="https://sessionize.com/api/v2/p058zjd0/view/GridSmart"></script>
