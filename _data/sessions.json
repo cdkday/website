@@ -14,6 +14,60 @@
               "answerExtra": null
             }
           ],
+          "id": "548062",
+          "title": "Keynote: Contributing to the CDK",
+          "description": "In this talk, we'll do a quick run-through of our current contributing requirements and provide some updates on new/upcoming changes.",
+          "startsAt": "2023-09-29T17:50:00Z",
+          "endsAt": "2023-09-29T18:20:00Z",
+          "isServiceSession": false,
+          "isPlenumSession": false,
+          "speakers": [
+            {
+              "id": "f8b4c35f-d1c6-4776-969c-43a59fbb8aa9",
+              "name": "Kendra Neil"
+            }
+          ],
+          "categories": [
+            {
+              "id": 53731,
+              "name": "Level",
+              "categoryItems": [
+                {
+                  "id": 186574,
+                  "name": "Intermediate"
+                }
+              ],
+              "sort": 2
+            },
+            {
+              "id": 53732,
+              "name": "Which Talk Categories align with your talk best?",
+              "categoryItems": [
+                {
+                  "id": 186577,
+                  "name": "AWS CDK"
+                }
+              ],
+              "sort": 3
+            }
+          ],
+          "roomId": 36044,
+          "room": "Track 1 - English",
+          "liveUrl": null,
+          "recordingUrl": null,
+          "status": "Accepted"
+        },
+        {
+          "questionAnswers": [
+            {
+              "id": 53751,
+              "question": "Please name your something else category",
+              "questionType": "Short_Text",
+              "answer": null,
+              "sort": 4,
+              "answerExtra": null
+            }
+          ],
           "id": "523737",
           "title": "An Ode to Infrastructure Security and Developer Velocity through CDK",
           "description": "Do developers in your organization perceive strict security as a blocker? Learn how Goldman Sachs leverage CDK to unlock developer velocity while ensuring security & compliance. We’ll discuss how a customer partnership with the CDK team can help the broader community and address feature requests.",

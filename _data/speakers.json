@@ -739,6 +739,41 @@
       "categories": []
     },
     {
+      "id": "f8b4c35f-d1c6-4776-969c-43a59fbb8aa9",
+      "firstName": "Kendra",
+      "lastName": "Neil",
+      "fullName": "Kendra Neil",
+      "bio": "Kendra is a software engineer with the AWS Cloud Development Kit. Prior to joining the CDK, she worked on AWS CodePipeline and AWS CodeCommit. She is staunchly in favor of CI/CD and loves working on projects that make the development process better.\r\n\r\nAs someone with a non-traditional background (originally trained in opera), she is passionate about decreasing the obstacles that keep people out of tech.\r\n\r\nIn her free time, she can be found playing D&D, singing karaoke, throwing dinner parties, and trying to keep her too many plants alive.",
+      "tagLine": "Software Development Engineer, AWS CDK",
+      "profilePicture": "https://sessionize.com/image/fbfa-400o400o2-X4CKrzo7WD7zTY6zeBfHAW.jpg",
+      "sessions": [
+        {
+          "id": 548062,
+          "name": "Contributing to the CDK"
+        }
+      ],
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/KendraForrest",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kendraneil/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Sessionize",
+          "url": "https://sessionize.com/kendra-neil",
+          "linkType": "Sessionize"
+        }
+      ],
+      "questionAnswers": [],
+      "categories": []
+    },
+    {
       "id": "aa93dc7f-1714-421c-8447-5858ceb82e9d",
       "firstName": "Kuba",
       "lastName": "Konczyk",
