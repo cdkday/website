@@ -74,20 +74,20 @@ A small group of community members from across the globe thought this was someth
     <p class="mb-6">
         CDK Day will take place on 29th September 2023 and will be fully virtual, live streamed to our <a href="https://www.youtube.com/c/CDKDay/featured">YouTube channel</a>
     </p>
-    <!--<p>
+    <p>
     Dedicated Track Links:
     </p>
     <ul>
         <li>
-            <a href="https://www.youtube.com/watch?v=_kY7o3De_9A">Track One</a>
+            <a href="https://youtube.com/live/qlUR5jVBC6c?feature=share">Track One</a>
         </li>
         <li>
-            <a href="https://www.youtube.com/watch?v=Ey7bNVT4W1g">Track Two</a>
+            <a href="https://youtube.com/live/b-nSH18gFQk?feature=share">Track Two</a>
         </li>
         <li>
-            <a href="https://www.youtube.com/watch?v=s8tO-ymVQPg">Track Three</a>
+            <a href="https://youtube.com/live/ZAQC-cOXL4M?feature=share">Track Three (Spanish)</a>
         </li>
-    <ul>-->
+    <ul>
   </main>
 </section>
 
